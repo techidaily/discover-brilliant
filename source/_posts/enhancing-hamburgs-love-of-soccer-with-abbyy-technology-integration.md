@@ -1,7 +1,7 @@
 ---
 title: Enhancing Hamburg's Love of Soccer with ABBYY Technology Integration
-date: 2024-08-19 18:19:41
-updated: 2024-08-22 11:40:31
+date: 2024-08-21T15:22:38.758Z
+updated: 2024-08-22T15:22:38.758Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea55bdaf18f72a70f3772092da.jpg
@@ -47,6 +47,9 @@ Der HFV ist so begeistert von der Lösung, dass ab dem 1\. Juli 2009 auch der al
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Über ABBYY und Kontaktmöglichkeiten
 
 [Zur ABBYY Unternehmensübersicht ›](https://tools.techidaily.com/abbyy/products/)
@@ -55,6 +58,9 @@ Der HFV ist so begeistert von der Lösung, dass ab dem 1\. Juli 2009 auch der al
 
 Teilen 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

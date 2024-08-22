@@ -1,7 +1,7 @@
 ---
 title: ABBYY Expandiert Globale Zugänge Zu Ihren KI-Technologien Im Q4 2018
-date: 2024-08-21 11:31:55
-updated: 2024-08-22 12:45:13
+date: 2024-08-21T15:22:37.106Z
+updated: 2024-08-22T15:22:37.106Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e721f7dc9d791e4530e6a65b.jpeg
@@ -187,3 +187,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->

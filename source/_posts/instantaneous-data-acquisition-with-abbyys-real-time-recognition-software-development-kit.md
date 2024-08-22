@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Data Acquisition with ABBYY's Real-Time Recognition Software Development Kit
-date: 2024-08-20 18:51:17
-updated: 2024-08-22 12:49:12
+date: 2024-08-21T15:22:37.520Z
+updated: 2024-08-22T15:22:37.520Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588bbed170087f473de1cb604a.jpg
@@ -67,3 +67,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->

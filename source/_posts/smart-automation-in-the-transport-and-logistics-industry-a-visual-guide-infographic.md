@@ -1,7 +1,7 @@
 ---
 title: "Smart Automation in the Transport and Logistics Industry: A Visual Guide (Infographic)"
-date: 2024-08-20 23:31:35
-updated: 2024-08-22 10:14:10
+date: 2024-08-21T15:22:37.627Z
+updated: 2024-08-22T15:22:37.627Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0508e76320f421ee17afaca1.jpg
@@ -39,3 +39,7 @@ Intelligent Automation for Transportation & Logistics We achieved 70% efficiency
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

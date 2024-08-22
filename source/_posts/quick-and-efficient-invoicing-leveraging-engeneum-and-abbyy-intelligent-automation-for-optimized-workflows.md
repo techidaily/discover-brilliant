@@ -1,7 +1,7 @@
 ---
 title: "Quick & Efficient Invoicing: Leveraging Engeneum & ABBYY Intelligent Automation for Optimized Workflows"
-date: 2024-08-21 21:11:52
-updated: 2024-08-22 11:21:12
+date: 2024-08-21T15:22:38.919Z
+updated: 2024-08-22T15:22:38.919Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a75414c6458bd1e077bee973ffa.jpg
@@ -96,6 +96,9 @@ Significantly reduced invoice processing errors and improved efficiency in accou
 
 [Read the document](https://static1.abbyy.com/abbyycommedia/36204/craig-international-shared-services-case-study-en.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

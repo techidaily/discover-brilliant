@@ -1,7 +1,7 @@
 ---
 title: Drive Traffic with Cookiebot's Customized Marketing Solutions
-date: 2024-08-20 18:20:23
-updated: 2024-08-22 11:29:18
+date: 2024-08-21T15:22:38.213Z
+updated: 2024-08-22T15:22:38.213Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b4a29cd4a3d817de3e2d744c.jpg
@@ -86,6 +86,9 @@ In addition, ABBYY's solution provides significantly more of the additional info
 
 [Read the document](https://static1.abbyy.com/abbyycommedia/37651/metro-digital-case-study-intelligent-document-processing-en.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

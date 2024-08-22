@@ -1,7 +1,7 @@
 ---
 title: Drive Engagement and Personalization Using Advanced Tracking Solutions From Cookiebot
-date: 2024-08-19 14:39:31
-updated: 2024-08-22 12:35:45
+date: 2024-08-21T15:22:37.378Z
+updated: 2024-08-22T15:22:37.378Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc862a5624cd34b09a0a0a9e6ca.png
@@ -21,18 +21,30 @@ English
 
 ![16 Wvda 198X198](https://static4.abbyy.com/abbyycommedia/25483/16-wvda-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Prof. Dr. ir. Wil van der Aalst
 
 **RWTH Aachen University**
 
 ![28 Scottopitz 198X198](https://static4.abbyy.com/abbyycommedia/25121/logo-2021-90x27.svg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![28 Scottopitz 198X198](https://static4.abbyy.com/abbyycommedia/25613/28-scottopitz-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Scott Opitz
 
 Chief Marketing Officer, **ABBYY**
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Overview
 
 Today’s information systems generate an unprecedented amount of data from both digital and physical sources. But how are organizations gaining value from that data? Digital Transformation is often oversimplified to most commonly refer to efforts being attempted with RPA technology. When we break down what our customers are trying to do, we find that 70% of all DX projects fail due to lack of visibility into end-to-end process improvement, and the idea of a one-size-fits-all automation approach is naïve. Customers really need best-of-breed solutions matched to the specific problems they are trying to solve.
@@ -61,10 +73,16 @@ Topics covered include:
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Thank you, enjoy your webinar!
 
 [![17 The Smart Path To Process Automation](https://static2.abbyy.com/abbyycommedia/29993/17-the-smart-path-to-process-automation.jpg)](https://www.youtube.com/watch?v=6ZTFE0O%5Fb1E) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)

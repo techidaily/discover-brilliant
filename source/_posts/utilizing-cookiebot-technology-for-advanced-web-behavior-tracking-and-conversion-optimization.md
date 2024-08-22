@@ -1,7 +1,7 @@
 ---
 title: Utilizing Cookiebot Technology for Advanced Web Behavior Tracking & Conversion Optimization
-date: 2024-08-19 11:29:14
-updated: 2024-08-22 11:42:52
+date: 2024-08-21T15:22:38.042Z
+updated: 2024-08-22T15:22:38.042Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c48fccee15d64e7778fd76c19af1e8a44abed6b45fe483336543f1981668afa0.jpg
@@ -35,26 +35,42 @@ Employees want to feel empowered through work that matters, such as building mea
 
 [Read the article](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## **3\. CMSWire**: ABBYY Reaffirms Its Digital Transformation Cred & More News
 
 In David Roe’s roundup of tech news on CMSWire, he included our news about the release of [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/) and [Vantage](https://tools.techidaily.com/abbyy/products/). “These releases underline the company’s credentials as a major digital transformation tech player.”
 
 [Read the article](https://www.cmswire.com/digital-workplace/slack-creates-privacy-fuss-abbyy-reaffirms-its-digital-transformation-cred-more-news/)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## **4\. Analytics Insight**: How CIOs Can Get the Most ROI from Digital Transformation Budgets
 
 ![Anthony Macciola, CIO, ABBYY](https://static1.abbyy.com/abbyycommedia/35215/anthonymacciola-848x444.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 While technology is quickly changing the nature of business, its investment processes haven’t always maintained the same rate of progress. ABBYY’s Chief Innovation Officer (CIO) [Anthony Macciola](https://tools.techidaily.com/abbyy/products/)shares why CIOs need to rethink technology budgeting, how to get the most return on investment (ROI) from it, prioritize their digital investments, and 3 ways CIOs can achieve all of this in his article for Analytics Insight.
 
 [Read the article](https://bit.ly/3lH8Mmt)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **5\. Supply & Demand Chain Executive**: AP Automation: The Key to Long-Term Financial Health in the Supply Chain
 
 This article highlighted to supply chain leaders the reasons why accounts payable (AP) automation hasn’t been completed, including fear of taking on the project, loss of control, not having the IT staff to carry it out, and integrating with current systems. We explain how they can make a business case for AP automation, how to select the right technology, and how to measure its ROI.
 
 [Read the article](https://www.sdcexec.com/sourcing-procurement/article/21366306/abbyy-ap-automation-the-key-to-longterm-financial-health-in-the-supply-chainAP Automation: The Key to Long-Term Financial Health in the Supply Chain)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## **6\. KMWorld**: KMWorld Readers’ Choice Award 2021 Winners
 
 Last year, our Intelligent Document Processing platform, [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/), was recognized by KMWorld among the [Trend-Setting Products of 2021](https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148169). Its readers also voted and honored Vantage with the KMWorld Reader's Choice Award for the “Best Cognitive Computing and AI” category! The annual awards put a spotlight on the innovative and dependable products and services that KMWorld readers depend on and are voted on by the public.
@@ -67,6 +83,9 @@ _Tom Hogan, Group Publisher at KMWorld_
 
 [Process Mining](https://tools.techidaily.com/abbyy/products/) [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") [Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

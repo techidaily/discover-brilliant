@@ -1,7 +1,7 @@
 ---
 title: Master Video Editing & Enhance Your Brand with ABBYY - Tips From the Official Blog
-date: 2024-08-19 19:34:35
-updated: 2024-08-22 10:46:44
+date: 2024-08-21T15:22:38.365Z
+updated: 2024-08-22T15:22:38.365Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909e1d6b3abfc42368ffd69851.jpg
@@ -95,6 +95,9 @@ Movavi Clips is available for [Android](https://play.google.com/store/apps/detai
 
 By the way, you obviously need to record some videos before you can start editing them! 🙂 [Here](https://tools.techidaily.com/abbyy/products/) you can find some tips on how to shoot videos like a pro.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **ABBYY Tip: Creating Your Own Card with Business Card Reader for iOS**
 
 Collecting your business partners’ contacts is an important task, but it’s a two-way street: they need your contact details as well. We would advise you to take two minutes of your time to create your own business card with [Business Card Reader](https://go.onelink.me/LuYz/ca107d7), which you would then be able to share in one tap.
@@ -105,16 +108,25 @@ In the main menu, open **Settings** by tapping the gear icon in the top right co
 
 ![abbyy business card reader ios](https://static1.abbyy.com/abbyycommedia/28720/abbyy1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Fill out all the necessary fields. If you want to place your company’s logo on the card as well, take a photo of a colleague’s card or on any other document bearing your company’s logo. Tap the magic wand icon at the bottom of the screen, and BCR will crop away everything except the company logo.
 
 ![abbyy business card reader create a business card](https://static1.abbyy.com/abbyycommedia/26492/abbyy2.png)
 
 ![abbyy logo in business card reader](https://static1.abbyy.com/abbyycommedia/26491/abbyy3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Don’t forget to add your Facebook and LinkedIn accounts. Tap the checkmark in the upper right corner and your card is ready! Now you can share your digital business card if you run out of paper cards.
 
 ![business card on a smartphone](https://static1.abbyy.com/abbyycommedia/26806/abbyy4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **App of the Week: Pillow Sleep Tracker**
 
 If you are suffering from insomnia even after a long and tiring day of work, there might be an endless list of causes: stress, having looked at a flickering monitor all day, a constant stream of phone calls at work, and so on.
@@ -129,6 +141,9 @@ When you want to stay up a bit longer to watch a couple of more episodes of your
 
 ![monitoring sleep with iphone](https://static1.abbyy.com/abbyycommedia/26809/sleep3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 The app also supports Apple Watch – with it, your sleep records become even more precise.
 
 You can download a iOS version of the app [here.](https://itunes.apple.com/app/id878691772)
@@ -139,6 +154,18 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

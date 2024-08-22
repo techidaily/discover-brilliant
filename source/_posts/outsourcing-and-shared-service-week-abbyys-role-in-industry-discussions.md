@@ -1,7 +1,7 @@
 ---
 title: "Outsourcing and Shared Service Week: ABBYY's Role in Industry Discussions"
-date: 2024-08-19 10:27:31
-updated: 2024-08-22 10:43:56
+date: 2024-08-21T15:22:38.887Z
+updated: 2024-08-22T15:22:38.887Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e389465c9417b498ad1381c72e.jpg
@@ -79,3 +79,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

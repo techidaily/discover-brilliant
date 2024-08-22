@@ -1,7 +1,7 @@
 ---
 title: AI's Role in Navigating the LIBOR Shift - Insights From ABBYY
-date: 2024-08-21 15:58:42
-updated: 2024-08-22 10:12:17
+date: 2024-08-21T15:22:39.000Z
+updated: 2024-08-22T15:22:39.000Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9ce7db19335f27276911d69ad.jpg
@@ -59,6 +59,9 @@ i _Sinead Cruise, Lawrence White, ‘The End of LIBOR: The Biggest Banking Chall
 
 Reginald J. Twigg
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

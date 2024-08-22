@@ -1,7 +1,7 @@
 ---
 title: "Schlüsselfaktoren Von Digitalisierungsstrategien Für Krankenversicherer: Eine Anleitung"
-date: 2024-08-19 17:53:19
-updated: 2024-08-22 12:26:43
+date: 2024-08-21T15:22:38.009Z
+updated: 2024-08-22T15:22:38.009Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d14412d2b2601a20abb71c4f63f.jpg
@@ -21,18 +21,27 @@ ABBYY hilft Versicherungsunternehmen, ihre Prozesse dort zu automatisieren, wo e
 
 Digital Intelligence geht die digitale Transformation so an, dass zunächst einmal festgestellt wird, ob ein Prozess gut funktioniert und auf welchen Inhalten er basiert, bevor dann ermittelt wird, wann und wie eine Automatisierung Sinn ergibt.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Jetzt herunterladen!
 
 Ob Sie nun in RPA investiert und damit nicht die gewünschten Ergebnisse erzielt haben, ob Sie sichergehen wollen, dass bei Ihrer Dokumentenverarbeitung alle einschlägigen Vorschriften eingehalten werden, oder ob Ihre aktuellen Prozesse zur Unzufriedenheit und Abwanderung Ihrer Kunden beitragen – in dieser Checkliste finden Sie Informationen, die Ihnen die Tür zu einem neuen, außergewöhnlichen Kundenerlebnis im Versicherungswesen öffnen.
 
 Die Checkliste führt Versicherer in sieben Schritten zu einer Prozessverbesserung, die eine neue Dimension des Kundenerlebnisses ermöglicht und Ihre Bemühungen im Bereich der digitalen Transformation auf ein neues Level hebt.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Danke für Ihr Interesse an ABBYY.
 
 [Checkliste lesen](https://digital.abbyy.com/hubfs/content/checklist-insurance-transform-customer-experience-de.pdf "Checkliste lesen") 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Haben Sie Fragen? [Kontaktieren Sie uns.](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.

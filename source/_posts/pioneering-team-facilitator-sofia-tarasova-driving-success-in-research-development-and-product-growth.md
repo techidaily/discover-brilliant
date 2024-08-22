@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Team Facilitator Sofia Tarasova: Driving Success in Research, Development, and Product Growth"
-date: 2024-08-19 22:19:14
-updated: 2024-08-22 11:55:14
+date: 2024-08-21T15:22:39.318Z
+updated: 2024-08-22T15:22:39.318Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334ac0cfef5ca5e3619fdd13ef.jpg
@@ -45,6 +45,9 @@ One of the things I love about ABBYY is having a good work-life balance and flex
 
 Usually, I go for a workout a few times a week at lunchtime, which makes me 2x more efficient at work in the afternoon (highly recommend this “life hack”!). Since I always have at least three work meetings during the day, I use my flexible work schedule to plan around this, which means I sometimes work late into the evening, with a nice cup of fruit tea on hand.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What keeps you going, and what do you enjoy the most in your role, any highlights?
 
 My job and the variety of experiences this role gives me is what really keeps me motivated. When you work with great team members, you have the opportunity every day to learn new things and face different situations. It develops you not only professionally, but in all aspects of life.
@@ -57,16 +60,26 @@ I had an opportunity to work with leading local and international FinTech compan
 
 ![](https://static1.abbyy.com/abbyycommedia/36890/sofia-tarasova-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Your top advice to someone joining ABBYY in your function?
 
 The People team is about people—in every aspect. It’s about the ability to listen to their needs, their concerns, assisting them in their personal development and professional growth. At the same time, it’s about aligning those aspirations with the goals and strategy of the company.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Since it is International Women’s Month, we also wanted to ask you: What do you think are the most important skills for a woman to have in order to succeed in the tech industry?
 
 In my experience, the tech industry has become much more advanced in terms of the inclusion of women. Women in the tech industry and in any other business, in my opinion, should actively use their strong points, such as being able to motivate a team effectively, create an environment that encourages the team to succeed, build trusting relationships with colleagues that help in the partnership.
 
 ![](https://static1.abbyy.com/abbyycommedia/36895/sofia-tarasova-6.png?width=850&height=567)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### How do you spend your free time?
 
 Most of my free time is taken up at the gym, and six months ago I took up power lifting.
@@ -77,6 +90,9 @@ Also, I really like walking. If you look at my Apple Watch, you will never see a
 
 Once upon a time, I promised my mother that when I grew up, and when my parents are elderly, I would build them a house somewhere quiet and cozy with huge floor-length windows. But my wish is not for that house to suddenly appear. It is about me being able to make it happen through my own success.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Name any inspirational book/movie/music you have recently discovered or are enjoying at the moment
 
 Recently, I discovered Anime. Throughout my life I had a rather preconceived opinion about this genre, but the post-apocalyptic manga "Shingeki no Kyojin" (Attack of the Titans) changed my mind.
@@ -93,6 +109,11 @@ So, if you're a skeptic of Anime like I was, I recommend watching it. I promise 
 
 Share 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static4.abbyy.com/abbyycommedia/37757/larysa-lototska.png) 
@@ -101,6 +122,18 @@ Share
 
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
 
 #### Subscribe for blog updates

@@ -1,7 +1,7 @@
 ---
 title: How to Integrate with ABBYY's FlexiCapture 지정 | Explore WinActor® Compatibility on ABBYY's Blog
-date: 2024-08-21 18:42:16
-updated: 2024-08-22 11:52:14
+date: 2024-08-21T15:22:37.943Z
+updated: 2024-08-22T15:22:37.943Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8bdde6a1d84cbac37f185e31d.jpg
@@ -47,6 +47,9 @@ WinActorは、本連携で得た知見を活かし、今後も製品の充実を
 
 ABBYY Japan エンジニアリングチーム
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 

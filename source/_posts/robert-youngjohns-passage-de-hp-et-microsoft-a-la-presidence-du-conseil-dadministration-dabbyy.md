@@ -1,7 +1,7 @@
 ---
 title: "Robert Youngjohns: Passage De HP Et Microsoft À La Présidence Du Conseil D'administration D'ABBYY"
-date: 2024-08-19 14:12:31
-updated: 2024-08-22 11:34:59
+date: 2024-08-21T15:22:39.325Z
+updated: 2024-08-22T15:22:39.325Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa38a161adde19f109b06aa2c.jpg
@@ -60,3 +60,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->

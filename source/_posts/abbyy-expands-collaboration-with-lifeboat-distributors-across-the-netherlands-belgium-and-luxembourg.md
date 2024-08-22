@@ -1,7 +1,7 @@
 ---
 title: ABBYY Expands Collaboration with Lifeboat Distributors Across The Netherlands, Belgium & Luxembourg
-date: 2024-08-19 12:32:45
-updated: 2024-08-22 10:33:30
+date: 2024-08-21T15:22:37.694Z
+updated: 2024-08-22T15:22:37.694Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e463e2b9427b9aa8d21b5faf.jpg
@@ -68,3 +68,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Intelligence Tech Transforming Patient Care: An Illustrative Overview"
-date: 2024-08-19 15:27:43
-updated: 2024-08-22 10:24:13
+date: 2024-08-21T15:22:38.097Z
+updated: 2024-08-22T15:22:38.097Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a44316e750df20403e0686bc2309.jpg
@@ -39,3 +39,7 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Advancing Cognitive Capabilities in Bots with ABBYY's Innovations Alongside UiPath Technologies
-date: 2024-08-20 20:58:54
-updated: 2024-08-22 10:48:28
+date: 2024-08-21T15:22:38.497Z
+updated: 2024-08-22T15:22:38.497Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabdceffdbe6557dc25c31661ee.jpg
@@ -34,6 +34,9 @@ Avec la solution d'ABBYY pour UiPath, vous pouvez:
 * Automatisez la classification des documents et l'extraction des données grâce à l'auto-apprentissage continu et aux données saisies par l'utilisateur.
 * Développez l'utilisation de la RPA pour automatiser les processus centrés sur le contenu impliquant des documents, des images et du texte afin de soutenir les initiatives stratégiques de transformation numérique.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Avantages de l’intégration
 
 ##### Respecter la réglementation 
@@ -60,6 +63,12 @@ Le connecteur ABBYY FlexiCapture pour UiPath permet l’intégration entre la pl
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 [Demo vereinbaren](https://tools.techidaily.com/abbyy/products/)[Kontakt aufnehmen](https://tools.techidaily.com/abbyy/products/)

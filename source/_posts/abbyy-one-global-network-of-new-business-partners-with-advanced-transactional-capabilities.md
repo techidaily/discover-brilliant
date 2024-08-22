@@ -1,7 +1,7 @@
 ---
 title: Abbyy One - Global Network of New Business Partners with Advanced Transactional Capabilities
-date: 2024-08-21 19:11:51
-updated: 2024-08-22 12:48:42
+date: 2024-08-21T15:22:38.974Z
+updated: 2024-08-22T15:22:38.974Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e112796613965ade353d6f1f.png
@@ -35,10 +35,16 @@ _« Nous sommes ravis du partenariat que nous entretenons avec ABBYY depuis plus
 
 ABBYY permet aux entreprises d’appréhender de manière précise leurs processus et contenus via ses solutions d’[Intelligent Process Automation](https://tools.techidaily.com/abbyy/products/). Les technologies d’ABBYY équipent plus de 5 000 entreprises, dont un grand nombre figurent dans le classement Fortune 500\. L’entreprise est reconnue pour ses solutions de pointe dans les domaines de l'[Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) et du [Process Intelligence](https://tools.techidaily.com/abbyy/products/) qui ont pour vocation d’améliorer l’efficacité, la rentabilité et la compétitivité des entreprises ainsi que l’expérience client. ABBYY possède des bureaux dans 14 pays. Pour davantage d’informations, veuillez consulter le site <https://www.abbyy.com/fr/>.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Contact presse
 
 ![02-NoPhoto-99x99](https://static1.abbyy.com/abbyycommedia/25632/02-nophoto-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_

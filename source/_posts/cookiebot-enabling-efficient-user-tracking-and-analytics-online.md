@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: Enabling Efficient User Tracking and Analytics Online"
-date: 2024-08-19 12:22:57
-updated: 2024-08-22 12:58:15
+date: 2024-08-21T15:22:37.767Z
+updated: 2024-08-22T15:22:37.767Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
@@ -27,6 +27,9 @@ The true insights to be gained from this survey are not in pitting one industry�
 
 Government leaders are not unique but make clear what needs to be front and center of conversations about process: people. Processes are made to make people more productive, consistent and accountable, yet they so often are designed and budgeted around data, workflow, training technologies and not on usability. Government workers are knowledge workers, dedicated to solving problems for their constituents. In this context, the data reveal that the three most cited reasons why staff did not follow processes were to meet customer needs (44%), processes are too complex (38%) and not enough time to follow them (31%). This indicates that government employees are willing to take shortcuts in order to meet constituents’ expectations because the _processes aren’t working for them_.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## A Different Look at Process, Mining and Automation
 
 With the widespread adoption of robotic process automation (RPA) tools, a new wave of intelligent document processing and OCR tools, and with growing frequency, Process Mining, comes the expectation that processes can be made to work better with the right technologies. That is true to a point, but if those tools are not deployed with honest understanding of how people – knowledge workers in particular – rely on and use processes to assist their productivity, the results of such investments will be the same as with past technology trends. Instead, looking at processes not just as workflows of events and data but as _interactions_ between people, processes and content can yield a better approach.
@@ -37,6 +40,9 @@ _Process Intelligence_ is an innovative approach to mining processes to show and
 
 [![Infographic of Process Mining ABBYY Survey Results July 2020](https://static1.abbyy.com/abbyycommedia/29019/11982_infographics_process-mining_abbyy-survey_eng_300dpi-5.jpg)](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 The data shown here illustrate that government workers do not get adequate decision and action support from their existing processes and systems to facilitate resolution fast enough, so they ‘go around them.’ Not unique to government, the primary reason why so many process automation solutions are failing (RPA, for example, where it is recognized that over 65% of these implementations are failing to achieve their goals) is because they do not adequately address how knowledge workers do their jobs. Process mining can be part of the same problem if it does not focus on work journeys.
 
 Solutions such as [Process Intelligence](https://tools.techidaily.com/abbyy/products/) enable organizations to discover, assess, visualize, analyze, and monitor process flows as interactions between people, processes and content. Powered by artificial intelligence and machine learning technologies, Process Intelligence delivers accurate, in-depth and real-time process discovery, analysis, and monitoring, which help automation leaders to accelerate digital transformation initiatives as facilitators of better decisions and customer service instead of just incremental efficiency gains with the status quo.
@@ -47,8 +53,14 @@ Learn more about [ABBYY solutions for government](https://tools.techidaily.com/a
 
 ![Reggie Twigg ABBYY](https://static4.abbyy.com/abbyycommedia/25636/02c-reggietwigg-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Reginald J. Twigg
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

@@ -1,7 +1,7 @@
 ---
 title: "Empowering Women in Tech: The Inspiring Stories of ABBYY’s Female Pioneers for IWD 2024"
-date: 2024-08-21 21:49:14
-updated: 2024-08-22 12:45:38
+date: 2024-08-21T15:22:39.217Z
+updated: 2024-08-22T15:22:39.217Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb64c488e57f8a46fc7ba58f0.jpg
@@ -251,3 +251,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

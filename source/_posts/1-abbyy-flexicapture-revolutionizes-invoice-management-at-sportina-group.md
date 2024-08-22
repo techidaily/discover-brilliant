@@ -1,7 +1,7 @@
 ---
 title: 1. ABBYY FlexiCapture Revolutionizes Invoice Management at Sportina Group
-date: 2024-08-20 20:45:42
-updated: 2024-08-22 11:13:26
+date: 2024-08-21T15:22:38.050Z
+updated: 2024-08-22T15:22:38.050Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f93e0ed73444604354277138.jpg
@@ -111,6 +111,9 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

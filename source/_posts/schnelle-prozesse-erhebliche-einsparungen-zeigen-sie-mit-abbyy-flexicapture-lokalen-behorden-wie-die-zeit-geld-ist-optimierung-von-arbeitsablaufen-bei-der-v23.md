@@ -1,7 +1,7 @@
 ---
 title: "Schnelle Prozesse, Erhebliche Einsparungen: Zeigen Sie Mit ABBYY FlexiCapture Lokalen Behörden Wie Die Zeit Geld Ist – Optimierung Von Arbeitsabläufen Bei Der Verarbeitung Von Dokumenten Und Formularen"
-date: 2024-08-21 10:55:13
-updated: 2024-08-22 10:58:31
+date: 2024-08-21T15:22:37.219Z
+updated: 2024-08-22T15:22:37.219Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
@@ -23,6 +23,9 @@ Government | Accounts Payable Automation
 
 Behörden und öffentlicher Sektor | Kreditorenbuchhaltung 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

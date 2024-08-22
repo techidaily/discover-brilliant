@@ -1,7 +1,7 @@
 ---
 title: ABBYY Welcomes Clayton C. Peddy in Role of Chief Information Security Officer
-date: 2024-08-21 17:26:10
-updated: 2024-08-22 11:14:23
+date: 2024-08-21T15:22:37.706Z
+updated: 2024-08-22T15:22:37.706Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad081249b06af69891f71aad7773d2.jpg
@@ -61,3 +61,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

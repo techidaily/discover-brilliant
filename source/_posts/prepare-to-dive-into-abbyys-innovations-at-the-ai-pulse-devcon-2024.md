@@ -1,7 +1,7 @@
 ---
 title: Prepare to Dive Into ABBYY's Innovations at the AI Pulse DevCon 2024
-date: 2024-08-21 22:48:59
-updated: 2024-08-22 10:19:15
+date: 2024-08-21T15:22:37.615Z
+updated: 2024-08-22T15:22:37.615Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e7bac2e7594923dabb645a34.jpg
@@ -52,6 +52,9 @@ Here’s what we’re looking for:
 
 Interested? Read on for the rules.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Rules and registration
 
 * **Teams can have 1 to 4 members.** Teaming up? Swimming solo? No matter – just bring your A–game!
@@ -65,10 +68,17 @@ Each presentation should have a strong value proposition, convey a compelling me
 
 Any attendee from any region and any team can apply to participate, regardless of team size. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Why participate?
 
 This is a fun and engaging opportunity to showcase your unique ideas not only to ABBYY executives, but to the vibrant and passionate developer community attending AI Pulse. You’ll gain valuable exposure, insightful feedback, and an enhanced opportunity to network with those who take interest in your pitch – not to mention that the grand prize could be yours. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to compete
 
 Ready to enter the ABBYY Shark Tank? Register your interest here: [https://digital.abbyy.com/asean-dev-con-india-2024-registration-shark-tank/](https://tools.techidaily.com/abbyy/products/)
@@ -77,6 +87,9 @@ Please feel free to contact us at [DevCon\_enquiries@abbyy.com](https://tools.te
 
 ![Rahul Kapoor](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/blog/autors-Headshots/rahul-kapoor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Rahul Kapoor
 
 Partner Innovation & Enablement Specialist at ABBYY

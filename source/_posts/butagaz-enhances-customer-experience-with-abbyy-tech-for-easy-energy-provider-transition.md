@@ -1,7 +1,7 @@
 ---
 title: Butagaz Enhances Customer Experience with ABBYY Tech for Easy Energy Provider Transition
-date: 2024-08-20 13:54:33
-updated: 2024-08-22 10:58:38
+date: 2024-08-21T15:22:37.134Z
+updated: 2024-08-22T15:22:37.134Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398656e9b5a14acb95e0d9c21d.jpg
@@ -59,3 +59,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->

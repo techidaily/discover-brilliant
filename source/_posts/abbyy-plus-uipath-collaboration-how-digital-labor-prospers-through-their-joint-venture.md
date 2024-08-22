@@ -1,7 +1,7 @@
 ---
 title: "ABBYY + UiPath Collaboration: How Digital Labor Prospers Through Their Joint Venture"
-date: 2024-08-19 11:19:13
-updated: 2024-08-22 12:18:14
+date: 2024-08-21T15:22:38.480Z
+updated: 2024-08-22T15:22:38.480Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfce72d5244fd939ae4cf23b37.jpg
@@ -75,3 +75,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

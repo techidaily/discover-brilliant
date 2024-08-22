@@ -1,7 +1,7 @@
 ---
 title: "Mastering Solo Travels: Selfie Techniques & Organizing Memories with Dates - Insights From the ABBYY Experts"
-date: 2024-08-21 12:39:54
-updated: 2024-08-22 12:33:19
+date: 2024-08-21T15:22:38.381Z
+updated: 2024-08-22T15:22:38.381Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b573c02ea17e5760889c684fa1.jpg
@@ -143,6 +143,9 @@ Do you remember the date of a conference but the name of a person that you’ve 
 
 ![Abbyy BCR search by date](https://static1.abbyy.com/abbyycommedia/26379/image-from-ios-576x1024.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **App of the Week: Roofbot**
 
 ![Roofbot app logic puzzle](https://static1.abbyy.com/abbyycommedia/26380/screen-0.jpg)
@@ -151,18 +154,28 @@ Roofbot is a conundrum game. Its main character is a cute robot who moves across
 
 ![roofbot that is trying to save planet](https://static1.abbyy.com/abbyycommedia/26381/643x0w.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 It features 120 levels and 25 tips that help you find the correct route. Roofbot is an exciting conundrum with a high rating that comes in reasonable price—only $2.99.
 
 ![roofbot app for two platforms android and ios](https://static1.abbyy.com/abbyycommedia/26382/roofbot-android-ios.jpg)
 
 Available on [iOS](https://itunes.apple.com/us/app/roofbot-puzzler-on-the-roof/id1148435076?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.doublecoconut.roofbot&hl=de).
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **First-Hand Experience: Advice From a Colleague**
 
 _By Sergey Kharchenko, iOS developer_
 
 ![sergey](https://static1.abbyy.com/abbyycommedia/26383/sergey-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 When time for vacation comes we want to spend it somewhere near the beach, sun, and water. Yet, even if you have time and money at your disposal, you may lack someone who will accompany you in your marvelous trip. You start reaching out to your friends but most of the time they have other plans. In this case you have two options: either find someone using special online services or go alone.
 
 I personally would go for the second option and here is why:
@@ -189,6 +202,9 @@ I believe that making your trips more and more complex is a better way to ease i
 
 ![river](https://static1.abbyy.com/abbyycommedia/26386/river-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thinking of traveling alone, with your partner or with a group? It is always up to you, but in life there’s always a place for something new, right? Why not try all of these options? Go for it! Travelling will give you strength for new achievements and will help you discover something exciting!
 
 That’s all for now, see you next Monday!
@@ -197,6 +213,9 @@ P.S. The previous issue is [here](https://tools.techidaily.com/abbyy/products/).
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

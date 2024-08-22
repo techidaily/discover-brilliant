@@ -1,7 +1,7 @@
 ---
 title: Enhanced Conversion Tracking with the Cookiebot Platform
-date: 2024-08-21 18:28:51
-updated: 2024-08-22 11:42:54
+date: 2024-08-21T15:22:38.747Z
+updated: 2024-08-22T15:22:38.747Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a61227ca3ca092b735291d94d.jpg
@@ -65,3 +65,7 @@ We improve our product to deliver the best experience for our users
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing Your Site's Traffic and Engagement"
-date: 2024-08-20 20:39:37
-updated: 2024-08-22 11:51:59
+date: 2024-08-21T15:22:39.420Z
+updated: 2024-08-22T15:22:39.420Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961bc69741ec2bb6713c7a134f.jpg
@@ -85,6 +85,9 @@ Serimag integrated ABBYY as core technology into their intelligent document proc
 
 [Read the document](https://static1.abbyy.com/abbyycommedia/36491/customerstory-intelligent-document-processing-financial-services-serimag-en.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

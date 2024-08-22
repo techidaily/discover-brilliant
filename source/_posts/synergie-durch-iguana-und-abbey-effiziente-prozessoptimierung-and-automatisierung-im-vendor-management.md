@@ -1,7 +1,7 @@
 ---
 title: Synergie Durch IGuana Und ABBEY - Effiziente Prozessoptimierung & Automatisierung Im Vendor-Management
-date: 2024-08-19 10:44:26
-updated: 2024-08-22 11:48:11
+date: 2024-08-21T15:22:38.025Z
+updated: 2024-08-22T15:22:38.025Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/316b7f440a48066f0155d24f5ae2cf9cf3a70b004023bda547f2450ae65311f0.jpg
@@ -112,3 +112,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Strategies: The Evolving Duties of Today's Chief Financial Officers"
-date: 2024-08-19 17:47:21
-updated: 2024-08-22 10:35:47
+date: 2024-08-21T15:22:37.287Z
+updated: 2024-08-22T15:22:37.287Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348ff57d56412b8942da8649fe.jpg
@@ -53,10 +53,22 @@ Considering the multi-dimensional challenges CFOs are facing, establishing a roa
 4. **Manage cash flow strategically** by focusing on your most valuable suppliers and determine the value of early payment discounts to reduce your cost of goods. For example, taking advantage of an early payment discount of 2 percent paid in 10 days as opposed to 30 days will yield a 37 percent return on invested capital when annualized, thereby reducing cost of goods.
 5. **Streamline and mitigate finance auditing compliance risks**. Finance teams typically rely on tools such as spreadsheets and manual processes with only limited visibility to potential compliance risks. Automated process monitoring enables you to specify rules that must be followed and can even alert you to potential deviations of prescribed processes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Tools for the CFO
 
 The steps outlined above can be achieved with investment in two automation technologies that provide the visibility needed to effect significant change in finance: **process mining** and **intelligent document processing**.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### For greater visibility into operations, process mining
 
 Think of process mining as a first step in diagnosing inefficiencies in finance processes and enabling you to make data-driven decisions for process optimization. It’s kind of an x-ray of your process data that captures your processes and their variations.
@@ -79,6 +91,9 @@ Process mining helps you to answer the following questions:
 * _What is the potential return on investment (ROI) that may be realized through process optimization?_
 * _Does your improved workflow remain in compliance with best practice processes?_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ###   
 For making data-driven decisions, intelligent document processing
 
@@ -100,6 +115,9 @@ Learn more about ABBYY’s AI tools to support today’s CFO with [increasing vi
 
 ![James Ritter 110X110 (1)](https://static4.abbyy.com/abbyycommedia/36998/james-ritter_110x110-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 James Ritter
 
 Chief Financial Officer at ABBYY
@@ -108,12 +126,18 @@ James Ritter is Chief Financial Officer at ABBYY, where he plays a key role in s
 
 James holds a CPA and an MBA with over 20 years of experience working for international services and software companies, and has a background in accounting, financial controls, revenue recognition, financial management, operational improvement, and strategic development.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Additional Insights:
 
 1 / 3 
 
 [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![Three Ways AI Is Making Employees Happier](https://static2.abbyy.com/abbyycommedia/36944/ai_happier_employees_1160730188_848x444.jpg) **Three Ways AI Is Making Employees Happier** Read more](https://tools.techidaily.com/abbyy/products/) [![Welcome to The Intelligent Enterprise](https://static5.abbyy.com/abbyycommedia/37545/ulf-848x444-slate.png) **Welcome to The Intelligent Enterprise** Read more](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #### Subscribe for updates
 
 Get updated on the latest insights and perspectives for business & technology leaders

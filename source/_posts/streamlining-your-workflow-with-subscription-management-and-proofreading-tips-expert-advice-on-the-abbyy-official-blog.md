@@ -1,7 +1,7 @@
 ---
 title: Streamlining Your Workflow with Subscription Management and Proofreading Tips | Expert Advice on the ABBYY Official Blog
-date: 2024-08-20 21:13:34
-updated: 2024-08-22 10:29:13
+date: 2024-08-21T15:22:37.641Z
+updated: 2024-08-22T15:22:37.641Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd12285542419110d9449a4ec8ee940.jpg
@@ -37,6 +37,9 @@ Putting all your messengers into a folder doesn’t mean that you won’t be abl
 
 One more tip: you can also rename a folder with 3D Touch. Simply press on the folder and choose **Select** from the menu that pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Android Tip: How to Create Folders to Organize Apps**
 
 Same instructions as before:
@@ -50,6 +53,9 @@ Just like in iOS, an Android folder will display a notification badge if any app
 
 ![organize apps android](https://static1.abbyy.com/abbyycommedia/25982/mycollages-3-e1505137033201.png)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## **ABBYY Tip: How to Cancel a Subscription**
 
 A user may be unwilling to activate an app subscription because it may not be immediately clear how it can be cancelled. Our apps [Business Card Reader](http://qrs.ly/ip56xfe) and [FineScanner](http://qrs.ly/pl4x25p)use this type of monetization, that is why we made easy-to-follow step-by-step guide to cancelling a subscription.
@@ -59,6 +65,9 @@ There are two ways to cancel a renewable/recurring subscription—using your sma
 1. Open the Google Play app.
 2. Tap the three-bar menu icon in the top left corner and then tap **Account**. ![cancel subscription android apps account](https://static1.abbyy.com/abbyycommedia/25983/cda683eb-6e16-4249-8ebe-79e9eac53083-e1507628794758.jpg)
 3. Tap **Subscriptions** and find the app that you no longer need.![cancel subscription on android application](https://static1.abbyy.com/abbyycommedia/25984/fd15ba02-5ef7-405a-9c3a-b163dcec9a34-e1507628818421.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the **Cancel** button next to the app, then tap **Cancel Subscription** to confirm your action and that’s it!
 
 **And here’s how you unsubscribe using an iOS device:**
@@ -88,11 +97,21 @@ If you need more detailed instructions, please see [this page](https://support.g
 4. Enter your password (or use Touch ID). Then either press the **Return** or **Enter** key on your keyboard or click **View Account**.
 5. Scroll to the **Settings** section and click **Manage** to the right of **Subscriptions**.![cancel subscription desctop computer ios](https://static1.abbyy.com/abbyycommedia/25986/macos-itunes12-5-account-settings-manage-on-hover-e1505137690170.jpg)
 6. You can choose one of the subscription options or cancel your subscription. Clicking **Cancel** will cancel your subscription starting from the day when the next payment is due.![edit subscription cancel ios computer](https://static1.abbyy.com/abbyycommedia/25987/macos-sierra-itunes12-5-account-settings-manage-subscription-e1505137739938.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 If you need more detailed instructions, please see [this page](https://support.apple.com/en-us/HT202039).
 
 **IMPORTANT!** **Simply removing an app from your device won’t automatically cancel your subscription to this app**. **You must explicitly** **cancel your** **subscription in your account**. Otherwise, you will still get charged for the uninstalled app without being able to use it. That’s just the way Google Play and App Store work.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **App of the Week: Declutter Your Phone With Clean Master**
 
 [Clean Master](https://clean-master-for-pc.en.softonic.com/)is an app that frees up space on your smartphone by removing apps and data you no longer need. You can clear the app cache, remove apps, and delete the search history. Additionally, you can stop running tasks, free up RAM to speed up your phone, and extend your battery life without obtaining the superuser rights.
@@ -123,6 +142,10 @@ That’s all for today, guys! See you next Monday! You can find the previous iss
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

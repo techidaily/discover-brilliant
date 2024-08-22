@@ -1,7 +1,7 @@
 ---
 title: "Transforming TRN Group's Document Processing: The Power of Invoice Automation with ABBYY FlexiCapture"
-date: 2024-08-19 23:59:48
-updated: 2024-08-22 12:34:30
+date: 2024-08-21T15:22:38.939Z
+updated: 2024-08-22T15:22:38.939Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg
@@ -104,6 +104,9 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

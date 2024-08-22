@@ -1,7 +1,7 @@
 ---
 title: "ABBYY : Introduit NeoML, Sa Solution Open Source Révolutionnaire Pour Les Applications IA"
-date: 2024-08-21 14:36:23
-updated: 2024-08-22 12:32:36
+date: 2024-08-21T15:22:38.059Z
+updated: 2024-08-22T15:22:38.059Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg
@@ -68,3 +68,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

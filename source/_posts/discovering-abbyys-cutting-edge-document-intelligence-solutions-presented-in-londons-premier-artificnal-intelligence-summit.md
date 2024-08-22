@@ -1,7 +1,7 @@
 ---
 title: Discovering ABBYY's Cutting-Edge Document Intelligence Solutions Presented in London's Premier Artificnal Intelligence Summit
-date: 2024-08-21 23:17:10
-updated: 2024-08-22 10:55:42
+date: 2024-08-21T15:22:37.799Z
+updated: 2024-08-22T15:22:37.799Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729ab3e1a2ee11529aec8f103fd.png
@@ -61,3 +61,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

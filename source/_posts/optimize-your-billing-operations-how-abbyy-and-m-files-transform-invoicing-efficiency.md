@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Billing Operations: How ABBYY and M-Files Transform Invoicing Efficiency"
-date: 2024-08-19 12:21:14
-updated: 2024-08-22 12:40:25
+date: 2024-08-21T15:22:37.989Z
+updated: 2024-08-22T15:22:37.989Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc4017e6eac185e39f8838773.jpg
@@ -57,6 +57,9 @@ Le système M-Files contrôle le flux de travail de validation et gère la distr
 
 Transmission des factures validées aux services financiers pour le traitement du paiement.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Avantages de l’intégration
 
 ##### Obtenir une plus grande précision 
@@ -71,6 +74,9 @@ M-Files élimine les silos en délivrant une expérience en contexte permettant 
 
 Le processus de traitement des factures en bout en bout entièrement automatisé aide à obtenir une grande précision et facilite le traitement direct (Straight-Through-Processing, STP) pour des gains d’efficacité optimaux.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Ce qu’en disent nos clients 
 
 Le partenariat entre ABBYY et M-Files nous a permis d’utiliser ces technologies pour rationaliser nos processus de gestion des factures et mieux servir nos fournisseurs. Nous utilisons la solution ABBYY et M-Files pour traiter des milliers de factures chaque mois et nous avons été en mesure de réduire considérablement les dépenses opérationnelles, de raccourcir les délais de traitement et de faciliter la recherche conviviale et la récupération des documents de facturation. 
@@ -85,6 +91,13 @@ La combinaison d’ABBYY FlexiCapture for Invoices et M-Files offre une solution
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/m-files.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)[Contactez-nous](https://tools.techidaily.com/abbyy/products/)

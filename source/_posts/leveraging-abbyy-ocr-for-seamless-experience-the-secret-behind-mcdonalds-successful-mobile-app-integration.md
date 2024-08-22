@@ -1,7 +1,7 @@
 ---
 title: "Leveraging ABBYY OCR for Seamless Experience: The Secret Behind McDonald’s Successful Mobile App Integration"
-date: 2024-08-21 15:18:38
-updated: 2024-08-22 10:25:22
+date: 2024-08-21T15:22:39.283Z
+updated: 2024-08-22T15:22:39.283Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc53478abbe8f24c12ca82ce21258.jpg
@@ -55,6 +55,9 @@ Au cours de la Coupe du monde de la FIFA, McDonald's Allemagne a lancé une prom
 
 Partager  True ?  : "" 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

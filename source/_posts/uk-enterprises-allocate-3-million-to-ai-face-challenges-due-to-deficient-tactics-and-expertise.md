@@ -1,7 +1,7 @@
 ---
 title: UK Enterprises Allocate £3 Million to AI, Face Challenges Due to Deficient Tactics and Expertise
-date: 2024-08-21 19:48:15
-updated: 2024-08-22 12:15:13
+date: 2024-08-21T15:22:37.670Z
+updated: 2024-08-22T15:22:37.670Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d119166da5162e1c6bea9b39b80e.jpg
@@ -80,3 +80,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

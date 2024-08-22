@@ -1,7 +1,7 @@
 ---
 title: Susanne Richter-Wills Leads ABBYY Holt to the Pinnacle of the German-Speaking Market
-date: 2024-08-19 14:25:42
-updated: 2024-08-22 10:25:38
+date: 2024-08-21T15:22:37.234Z
+updated: 2024-08-22T15:22:37.234Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685177239313164675ffec23d6.jpg
@@ -73,3 +73,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

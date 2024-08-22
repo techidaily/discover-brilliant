@@ -1,7 +1,7 @@
 ---
 title: "Latest Features & Updates: Discover What's Changed in the 2020 ABBYY Mobile Suite - Explore on the Official ABBYY Blog"
-date: 2024-08-21 22:44:15
-updated: 2024-08-22 11:53:40
+date: 2024-08-21T15:22:37.971Z
+updated: 2024-08-22T15:22:37.971Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
@@ -38,6 +38,9 @@ We aim to implement feature requests by users as much as possible. Recently we a
 
 ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30383/new-in-apps-en-1.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30384/new-in-apps-en-2.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30385/new-in-apps-en-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **On Android**
 
 1. Tap and hold any document you want to delete until the document is selected
@@ -47,6 +50,9 @@ We aim to implement feature requests by users as much as possible. Recently we a
 
 ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30386/new-in-apps-en-4.png) ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30387/new-in-apps-en-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Improved automatic crop
 
 In 2020, we implemented the new documents capture and crop technology to [FineScanner](https://go.onelink.me/0oMB/2b084a0a) iOS and Android. With the latest generation of [ABBYY Mobile Capture](https://tools.techidaily.com/abbyy/products/) technology, the accuracy of documents' capture and crop has increased by 20%!
@@ -78,6 +84,9 @@ Don’t forget to set up the Auto-sending to cloud services function. Your files
 
 ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30390/new-in-apps-en-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 By the way, we’ve also added the automatic upload to Google Drive in FineScanner for Android. Learn more about it [here](https://tools.techidaily.com/abbyy/products/).
 
 ## Business Card Reader iOS
@@ -92,6 +101,12 @@ By the way, we’ve also added the automatic upload to Google Drive in FineScann
 
 ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30391/new-in-apps-en-9.jpg) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30392/new-in-apps-en-10.png) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30393/new-in-apps-en-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Edit address by fields
 
 In the previous versions, [BCR](https://go.onelink.me/LuYz/ca107d7) saved the address from a business card into a single field. With the latest version, [BCR](https://go.onelink.me/LuYz/ca107d7) fills in the address to specific fields – Street, City, State, Country, and ZIP, making it easier to analyze contacts that are [exported to Excel](https://www.youtube.com/watch?v=qnb2ugIQ6YY) or a CRM.
@@ -108,12 +123,19 @@ The contact editor now allows viewing and editing of addresses on Apple Maps. Le
 
 ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30395/new-in-apps-en-13.png) ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30396/new-in-apps-en-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 Keep your [FineScanner](https://go.onelink.me/0oMB/2b084a0a) and [Business Card Reader](https://go.onelink.me/LuYz/ca107d7) updated to try all the new features. Leave reviews on the App Store and Google Play – we take your feedback and requests into account.
 
 See you next time!
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) [Enterprise](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

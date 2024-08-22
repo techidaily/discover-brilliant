@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Site's Performance with Cookiebot Technology
-date: 2024-08-21 10:43:50
-updated: 2024-08-22 10:41:33
+date: 2024-08-21T15:22:38.259Z
+updated: 2024-08-22T15:22:38.259Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb937398b9573ea9432863248.jpg
@@ -60,3 +60,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
