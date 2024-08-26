@@ -1,7 +1,7 @@
 ---
 title: Essential Highlights of MWC 2N-Dheme 2018 as Seen by ABBYY - Uncovering Key Trends and Innovations
-date: 2024-08-21T15:22:38.783Z
-updated: 2024-08-22T15:22:38.783Z
+date: 2024-08-25T23:57:17.311Z
+updated: 2024-08-26T23:57:17.311Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f9fb628a857687ce3978b94e.png
@@ -195,3 +195,61 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-engaging-video-content-for-live-streams/"><u>[Updated] 2024 Approved  Crafting Engaging Video Content for Live Streams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-top-additions-for-savvy-users-unveiled-for-2024/"><u>[Updated] Facebook's Top Additions for Savvy Users Unveiled for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-find-zen-with-these-10-game-choices-for-2024/"><u>[Updated] Find Zen with These 10 Game Choices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-digital-asset-valuation-tools-for-2024/"><u>[Updated] Free Digital Asset Valuation Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-superior-editing-software-tailored-to-dji-filmmaking/"><u>[Updated] In 2024, Superior Editing Software Tailored to DJi Filmmaking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-xbox-one-mastering-live-gaming-broadcasts/"><u>[Updated] In 2024, Xbox One  Mastering Live Gaming Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-10-online-subtitle-editors/"><u>[Updated] The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-veil-vs-the-beam-shadowheroes-vs-luminaryfighters/"><u>[Updated] The Veil vs the Beam  Shadowheroes Vs Luminaryfighters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-roadmap-to-youtube-fame-accruing-more-subscribers/"><u>2024 Approved  The Roadmap to YouTube Fame  Accruing More Subscribers</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724312569025-abbyy/"><u>新しいコロナウイルス流行下での従業員影響に関する調査：ABBYYブログが解き明かすプロセス改善</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-leading-the-pack-in-gartners-2024-magic-quadrant-assessment-of-process-mining-solutions/"><u>ABBYY Leading the Pack in Gartner's 2024 Magic Quadrant Assessment of Process Mining Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-permet-a-journal-de-la-next-gen-dutiliser-finereader-pour-partager-des-infos-precise-et-mises-a-jour-avec-les-visiteurs/"><u>ABBYY Permet À Journal De La Next-Gen D'Utiliser FineReader Pour Partager Des Infos Précise Et Mises À Jour Avec Les Visiteurs</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724313138730-abbyyocr/"><u>ABBYYの最新OCRソリューション – 複雑な帳票レイアウトをスキャンしてデータ抽出と自由出力に対応</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/accedez-a-de-nouvelles-perspectives-pour-renforcer-vos-liquidites-grace-au-guide-dabbyy/"><u>Accédez À De Nouvelles Perspectives Pour Renforcer Vos Liquidités Grâce Au Guide D'ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/adapting-strategies-the-evolving-duties-of-todays-chief-financial-officers/"><u>Adapting Strategies: The Evolving Duties of Today's Chief Financial Officers</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automation-revolution-how-rpa-is-shaping-the-modern-workplace-whitepaper-by-abbyy/"><u>Automation Revolution: How RPA Is Shaping the Modern Workplace Whitepaper by ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-web-performance-with-cookiebot-technology/"><u>Boosting Web Performance with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-workplace-joy-how-artificial-intelligence-elevates-staff-morale/"><u>Boosting Workplace Joy: How Artificial Intelligence Elevates Staff Morale</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-your-sites-performance-with-the-advanced-features-of-cookiebot-technology/"><u>Boosting Your Site's Performance with the Advanced Features of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-insights-enhancing-your-digital-marketing-strategy/"><u>Cookiebot-Driven Insights: Enhancing Your Digital Marketing Strategy</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-solutions-optimized-site-engagement-and-personalization/"><u>Cookiebot-Driven Solutions: Optimized Site Engagement and Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-site-enhance-your-online-traffic-and-analytics-effortlessly/"><u>Cookiebot-Enabled Site: Enhance Your Online Traffic and Analytics Effortlessly</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-optimized-website-tracking-and-personalization-solutions/"><u>Cookiebot-Enabled: Optimized Website Tracking & Personalization Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-smart-data-driven-user-tracking-solutions/"><u>Cookiebot-Enhanced: Experience Smart, Data-Driven User Tracking Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-elevating-your-sites-interaction-through-personalization-and-analytics/"><u>Cookiebot: Elevating Your Site's Interaction Through Personalization and Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/decouvrez-lautomatisation-cognitive-la-cle-essentielle-pour-saisir-le-sens-des-contenus-avec-abbyy/"><u>Découvrez L'automatisation Cognitive: La Clé Essentielle Pour Saisir Le Sens Des Contenus Avec ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-engagement-and-personalization-using-advanced-tracking-solutions-from-cookiebot/"><u>Drive Engagement and Personalization Using Advanced Tracking Solutions From Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-your-website-growth-through-innovative-cookiebot-solutions/"><u>Drive Your Website Growth Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effizientes-sammeln-von-informationen-die-rolle-spezialisierter-ki-und-ihre-bedeutung-fur-den-datenerfassungsprozess-ein-blick-auf-das-abbyy-blog/"><u>Effizientes Sammeln Von Informationen: Die Rolle Spezialisierter KI Und Ihre Bedeutung Für Den Datenerfassungsprozess - Ein Blick Auf Das ABBYY-Blog</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-scanning-and-conversion-of-documents-into-text-transform-your-iphone-photos-with-fonepilots-all-in-one-app/"><u>Effortless Scanning & Conversion of Documents Into Text: Transform Your iPhone Photos with FonePilot's All-in-One App</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-website-with-automated-personalization-the-power-of-cookiebot-technology/"><u>Enhance Your Website with Automated Personalization: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-conversion-tracking-with-the-help-of-our-proven-retargeting-system/"><u>Enhanced Conversion Tracking with the Help of Our Proven Retargeting System</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-performance-through-cookiebot-solutions/"><u>Enhanced Performance Through Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-advanced-analytics-from-cookiebot/"><u>Enhanced User Experience with Advanced Analytics From Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-personalized-ad-targeting-powered-by-cookiebot/"><u>Enhanced User Experience with Personalized Ad Targeting: Powered by Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-personalized-ads-the-power-of-cookiebot-technology/"><u>Enhanced User Experience with Personalized Ads: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-accuracy-and-functionality-leveraging-external-resources-alongside-abbyys-ocr-cloud-platform/"><u>Enhancing Accuracy and Functionality: Leveraging External Resources Alongside ABBYY's OCR Cloud Platform</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-school-photo-shoots-how-an-automated-image-submission-system-boosts-productivity/"><u>Enhancing School Photo Shoots: How an Automated Image Submission System Boosts Productivity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722850398032-enhancing-your-furry-friends-portraits-techniques-to-remove-pupil-glare-and-redness/"><u>Enhancing Your Furry Friend's Portraits: Techniques to Remove Pupil Glare and Redness</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide/"><u>From Script to Screen  Mastery Through Vida’ Writers Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-web-tracking-and-seo-success/"><u>Harnessing the Power of Cookiebot for Enhanced Web Tracking and SEO Success</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-forbes-revolutionizes-analysis-embracing-the-shift-from-paper-based-systems-to-cutting-edge-online-process-intelligence-tools/"><u>How Forbes Revolutionizes Analysis: Embracing the Shift From Paper-Based Systems to Cutting-Edge Online Process Intelligence Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-asus-rog-phone-8-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Asus ROG Phone 8 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinpointing-premium-hdr-camera-brands/"><u>In 2024, Pinpointing Premium HDR Camera Brands</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/monthly-revenue-streams-for-video-content-creators/"><u>Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimize-your-billing-operations-how-abbyy-and-m-files-transform-invoicing-efficiency/"><u>Optimize Your Billing Operations: How ABBYY and M-Files Transform Invoicing Efficiency</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/revolutionize-daily-tasks-with-these-incredible-productivity-apps-for-android-and-ios-devices/"><u>Revolutionize Daily Tasks with These Incredible Productivity Apps for Android & iOS Devices</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/schlusselfaktoren-von-digitalisierungsstrategien-fur-krankenversicherer-eine-anleitung/"><u>Schlüsselfaktoren Von Digitalisierungsstrategien Für Krankenversicherer: Eine Anleitung</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/streamlined-product-release-processes-in-top-breweries-via-abbyy-solutions/"><u>Streamlined Product Release Processes in Top Breweries via ABBYY Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/synergie-durch-iguana-und-abbey-effiziente-prozessoptimierung-and-automatisierung-im-vendor-management/"><u>Synergie Durch IGuana Und ABBEY - Effiziente Prozessoptimierung & Automatisierung Im Vendor-Management</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-evaluating-magix-samplitudes-market-position-against-other-audio-editing-suites/"><u>Updated Evaluating MAGIX Samplitudes Market Position Against Other Audio Editing Suites</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/utiliser-la-connexion-entre-abbyy-lance-et-pfu-paperstream-nx-manager-via-flexicapture-un-guide-complet-aux-meilleures-pratiques/"><u>Utiliser La Connexion Entre ABBYY Lance Et PFU PaperStream NX Manager via FlexiCapture : Un Guide Complet Aux Meilleures Pratiques</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/utilizing-cookiebot-technology-for-advanced-web-behavior-tracking-and-conversion-optimization/"><u>Utilizing Cookiebot Technology for Advanced Web Behavior Tracking & Conversion Optimization</u></a></li>
+</ul></div>
