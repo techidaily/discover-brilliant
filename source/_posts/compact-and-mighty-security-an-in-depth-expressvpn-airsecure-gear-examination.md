@@ -1,7 +1,7 @@
 ---
 title: "Compact & Mighty Security: An In-Depth ExpressVPN AirSecure Gear Examination"
-date: 2024-08-28 10:45:59
-updated: 2024-08-29 10:49:36
+date: 2024-08-30T11:21:46.782Z
+updated: 2024-08-31T11:21:46.782Z
 tags:
   - product-reviews
 categories:
@@ -107,6 +107,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Side of the ExpressVPN Aircove Go with antennas extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/side-of-the-expressvpn-aircove-go-with-antennas-extended_53614450376_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Getting the Aircove Go up and running was relatively straightforward, but make sure you’ve got plenty of time to play with when you first unbox and attempt to activate it. You’ll also need to have access to an ISP modem or router, as the Aircove Go’s initial setup requires an ethernet connection. I plugged my test unit directly into my everyday Wi-Fi router and needed to wait a few minutes for the Aircove Go to register the hookup. You’ll then need to head to [expressvpnrouter.com](http://expressvpnrouter.com) to create an account and admin password. You’ll also need to install the latest firmware, at which point you’ll finally gain access to the Aircove’s settings dashboard.
@@ -119,6 +122,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Cables plugged into the ExpressVPN Aircove Go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/cables-plugged-into-the-expressvpn-aircove-go_53614786104_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The Aircove Go is a Wi-Fi 6 router that supports up to 750 square feet of broadcast coverage. With ideal network conditions in play, ExpressVPN claims you’ll get up to 600Mbps from a 2.4GHz network and up to 1,200Mbps for 5GHz bands. While I didn’t experience anything close to this level of performance, the Aircove Go brought some solid Wi-Fi nonetheless.
@@ -131,6 +137,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The ExpressVPN Aircove Go with the antennas extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-expressvpn-aircove-go-with-the-antennas-extended_53614450406_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Readings improved for my iPhone when I switched to 5GHz, with speeds soaring to 122Mbps download + 52Mbps upload. Curiously though, my MacBook (located in the same room at the time) still hung around 50Mbps download + 25Mbps upload. That was until I decided to connect the Aircove Go directly to my router. Beforehand, I just had the unit plugged in for power. With ethernet aiding the handshake between the Aircove Go and my router, I was able to achieve up to 120Mbps over 5GHz on my MacBook. Word to the wise: Plug the Aircove Go into a modem or router whenever you can.
@@ -139,6 +148,9 @@ Sergio Rodriguez / How-To Geek
 
  One more observation here: the VPN dropped out a couple of times. I’m not sure why, and this happened both on my home Wi-Fi and on public Wi-Fi. I also didn’t get a notification when this occurred. The only reason I knew was because I had the settings dashboard opened at the time. A “disconnected VPN” message appeared at the top of the page, joined by a 5-minute countdown. When the timer runs out, the Aircove Go attempts to relaunch the VPN.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  A Bevy of Settings and Customizations
 
 Close 
@@ -147,16 +159,25 @@ Close
 
 ![The ExpressVPN Aircove Go mobile settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-mobile-settings-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ExpressVPN Aircove Go mobile settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-mobile-settings-1.jpg) 
 
 ![The ExpressVPN Aircove Go mobile settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-mobile-settings-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  The dashboard has a lot of settings and customizations, and most of them are very useful. At launch, you’ll see what network the Aircove Go is connected to, along with what devices are online. One of my favorite features of the Aircove Go is the ability to create up to five VPN groups. This is especially convenient if you frequent a lot of the same locations. You’ll be able to customize networking and VPN settings for each group. You can even add parental rules to prevent youngsters from stumbling onto non-kid-friendly content.
 
  Under “Advanced Settings,” you’ll be able to set up port forwarding, create backups of your Aircove Go’s configurations, search for software updates, and more. I also really liked the “Share Wi-Fi Access” button, which generates a QR code that anyone can scan to automatically join your protected Aircove Go network.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the ExpressVPN Aircove Go?
 
  I enjoyed my time with the [ExpressVPN Aircove Go](https://www.amazon.com/Aircove-Portable-Protect-Unlimited-ExpressVPN/dp/B0CM6VL4PS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004285&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fexpressvpn-aircove-go-review%2F&asc%5Fcampaign=Authority), and save for a few networking and VPN hiccups (most of which presented over Wi-Fi), I could see this [portable router](https://screen-capture.techidaily.com/updated-how-to-secure-continuous-streaming-in-obs-for-2024/) being a staple for those who need to travel a lot. Once you get past the initial setup process, the Aircove Go is easy to use and gives you a ton of customization options for fine-tuning your [VPN experience](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/). Do remember that after your first month of VPN service, you'll need to pay for a monthly or yearly ExpressVPN subscription, though.
@@ -188,3 +209,52 @@ Exclusively developed by ExpressVPN, Aircove Go is a portable Wi-Fi 6 router wit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-transform-your-farm-with-stardews-most-innovative-mods-7-best-for-2024/"><u>[New] Transform Your Farm with Stardew's Most Innovative Mods (7 Best) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-top-quality-on-youtube-video-enhancement-fundamentals/"><u>[Updated] 2024 Approved  Achieving Top Quality on YouTube  Video Enhancement Fundamentals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-aim-higher-boosting-views-and-reach-on-youtube-for-2024/"><u>[Updated] Aim Higher  Boosting Views and Reach on YouTube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-recommended-screen-capturing-apps-for-mac/"><u>[Updated] In 2024, Expert-Recommended Screen Capturing Apps for Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-best-editors-on-smartphones-for-dji-footage-excellence/"><u>2024 Approved  Best Editors on Smartphones for DJi Footage Excellence</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-self-filmed-brilliance-secrets-for-youtube-success/"><u>2024 Approved  Self-Filmed Brilliance  Secrets for YouTube Success</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/iumhkeiejealreevjoobpplusobrumdnuaniplusmaoowmluodhplusodvoocvpluseuoeeqhjrlhyvmni3mikbnlaui/"><u>金融業界での非構造化データ管理:克服戦略</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-expandiert-globale-zugange-zu-ihren-ki-technologien-im-q4-2018/"><u>ABBYY Expandiert Globale Zugänge Zu Ihren KI-Technologien Im Q4 2018</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-launches-groundbreaking-no-code-intelligent-document-automation-leading-the-future-of-industry/"><u>ABBYY Launches Groundbreaking No-Code Intelligent Document Automation: Leading the Future of Industry</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/10-echo-augmentation-apps-desktopmobile-for-2024/"><u>Best 10 Echo Augmentation Apps  Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-your-sites-performance-cutting-edge-solutions-from-cookiebot-experts/"><u>Boost Your Site's Performance: Cutting-Edge Solutions From Cookiebot Experts</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-website-with-automated-personalization-the-power-of-cookiebot-technology/"><u>Enhance Your Website with Automated Personalization: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-conversion-tracking-with-the-help-of-our-proven-retargeting-system/"><u>Enhanced Conversion Tracking with the Help of Our Proven Retargeting System</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-performance-through-cookiebot-solutions/"><u>Enhanced Performance Through Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-advanced-analytics-from-cookiebot/"><u>Enhanced User Experience with Advanced Analytics From Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-personalized-ad-targeting-powered-by-cookiebot/"><u>Enhanced User Experience with Personalized Ad Targeting: Powered by Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-personalized-ads-the-power-of-cookiebot-technology/"><u>Enhanced User Experience with Personalized Ads: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-accuracy-and-functionality-leveraging-external-resources-alongside-abbyys-ocr-cloud-platform/"><u>Enhancing Accuracy and Functionality: Leveraging External Resources Alongside ABBYY's OCR Cloud Platform</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-school-photo-shoots-how-an-automated-image-submission-system-boosts-productivity/"><u>Enhancing School Photo Shoots: How an Automated Image Submission System Boosts Productivity</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-web-tracking-and-seo-success/"><u>Harnessing the Power of Cookiebot for Enhanced Web Tracking and SEO Success</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-forbes-revolutionizes-analysis-embracing-the-shift-from-paper-based-systems-to-cutting-edge-online-process-intelligence-tools/"><u>How Forbes Revolutionizes Analysis: Embracing the Shift From Paper-Based Systems to Cutting-Edge Online Process Intelligence Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-13t-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi 13T Pro Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with electronic signature service</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/instantaneous-data-acquisition-with-abbyys-real-time-recognition-software-development-kit/"><u>Instantaneous Data Acquisition with ABBYY's Real-Time Recognition Software Development Kit</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/introducing-the-advanced-corporate-landscape-insights-from-industry-leader-ulf-persson/"><u>Introducing the Advanced Corporate Landscape: Insights From Industry Leader, Ulf Persson</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/iphone-document-scanning-and-conversion-with-ocr-technology-quickpdf/"><u>IPhone Document Scanning & Conversion with OCR Technology - QuickPDF</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/leveraging-cookiebot-technology-for-superior-site-analytics-and-seo-growth/"><u>Leveraging Cookiebot Technology for Superior Site Analytics and SEO Growth</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/leveraging-cookiebots-capabilities-for-improved-website-analytics/"><u>Leveraging Cookiebot's Capabilities for Improved Website Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/maximizing-profits-with-ai-the-case-for-smart-scanning-technologies-in-modern-business-insights-from-the-abbyy-experts/"><u>Maximizing Profits with AI: The Case for Smart Scanning Technologies in Modern Business - Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-essential-tips-for-shooting-talking-head-videos/"><u>New Essential Tips for Shooting Talking Head Videos</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimize-with-intelligence-boosting-search-rankings-through-the-power-of-cookiebot-technology/"><u>Optimize with Intelligence - Boosting Search Rankings Through the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimized-with-advanced-tracking-the-cookiebot-solution/"><u>Optimized with Advanced Tracking: The Cookiebot Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimized-with-cookiebot-technology-for-smarter-user-experience-and-analytics/"><u>Optimized With Cookiebot Technology for Smarter User Experience and Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/powered-by-cookiebot/"><u>Powered by Cookiebot.</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/prepare-to-dive-into-abbyys-innovations-at-the-ai-pulse-devcon-2024/"><u>Prepare to Dive Into ABBYY's Innovations at the AI Pulse DevCon 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/rpa-une-etude-abbeyy-montre-que-75-des-entreprises-francaises-connaissent-un-roi-favorable-des-lannee-de-leur-implementation-initiale/"><u>RPA : Une Étude ABBEYY Montre Que 75%% Des Entreprises Françaises Connaissent Un ROI Favorable Dès L'année De Leur Implémentation Initiale</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/smart-automation-in-the-transport-and-logistics-industry-a-visual-guide-infographic/"><u>Smart Automation in the Transport and Logistics Industry: A Visual Guide (Infographic)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-lut-mastery/"><u>Step-by-Step Guide to LUT Mastery</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/streamlining-your-workflow-with-subscription-management-and-proofreading-tips-expert-advice-on-the-abbyy-official-blog/"><u>Streamlining Your Workflow with Subscription Management and Proofreading Tips | Expert Advice on the ABBYY Official Blog</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transform-paperwork-into-digital-files-with-your-iphone-discover-the-magic-of-finereaders-ocr-technology/"><u>Transform Paperwork Into Digital Files with Your iPhone - Discover the Magic of FineReader's OCR Technology!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/uk-enterprises-allocate-3-million-to-ai-face-challenges-due-to-deficient-tactics-and-expertise/"><u>UK Enterprises Allocate £3 Million to AI, Face Challenges Due to Deficient Tactics and Expertise</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/understanding-the-structure-decoding-a-webpages-layout/"><u>Understanding the Structure: Decoding a Webpage's Layout</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/unlocking-the-power-of-online-presence-mastering-web-page-ranking-techniques/"><u>Unlocking the Power of Online Presence: Mastering Web Page Ranking Techniques</u></a></li>
+</ul></div>

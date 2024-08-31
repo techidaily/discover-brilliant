@@ -1,7 +1,7 @@
 ---
 title: "Anker Solix C800+ Portable Charger Evaluation: Your Ultimate Night-Time Energy Solution"
-date: 2024-08-28 19:16:14
-updated: 2024-08-29 10:29:52
+date: 2024-08-30T11:21:45.616Z
+updated: 2024-08-31T11:21:45.616Z
 tags:
   - product-reviews
 categories:
@@ -104,6 +104,9 @@ Close
 
  The retractable lighting pole is absolutely a gimmick, but one that could be useful for a lot of people. As well executed as the lights are, part of me would have rather used that top lid area to store the power cables. As it is, there’s nowhere to keep the cords when not using them. (By the way, Anker's other new power station, the [Solix C800](https://www.anker.com/products/a1753?variant=43203429302422&collections%5Fportable-power-stations=undefined&Sort%5Fby=Recommended), omits the lights so you can use the top area for cable storage.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  An App For a Battery Is a Good Idea
 
 Close 
@@ -116,10 +119,16 @@ Close
 
  What the app is sorely missing, however, is the ability to set a schedule for it to charge itself. I would love to leave the battery plugged into the wall and then tell it not to charge itself until 9 PM to avoid high electricity rates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Recharging the Big Battery Was Fast
 
 ![screen of Anker Solix C800 Plus showing capacity at 67%](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/screen-of-anker-solix-c800-plus-showing-capacity-at-67.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  In a perfect set of circumstances, I got the BougeRV 12V Mini Fridge in for testing around the same time as the C800 Plus battery. Both are great camping companions and worked well together.
@@ -136,14 +145,23 @@ Close
 
  I have some very tiny earbuds that take four or more hours to recharge their batteries. So it's a bit crazy to think that this massive one can be recharged, at full speed at home, in under an hour. I did notice that when recharging the C800 Plus at its normal speed, there was a low hum, a little softer than the mini-fridge. When I used the ultra-fast charging option and the unit rose above 950 watts, the sound was a bit louder. Once the temperature rose above 80F with a 1,030 average wattage, the fan noise was unavoidable and quite present in a quiet house. It's less of a downside and more of a consequence of fast charging.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Solix C800 Plus retails for $649 and will be available starting March 12th, 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Anker Solix C800 Plus?
 
 ![pole and two lights on top of Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-and-two-lights-on-top-of-anker-solix-c800-plus.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I like everything the [Anker Solix C800 Plus](https://anker.pxf.io/c/156932/1959698/18023?subId1=htgsolixc800plusreview&u=https%3A%2F%2Fwww.anker.com%2Fanker-solix%2Fa1754-a1753-pps) offers, from its compact size, health cell capacity, and wide port selection to quirky pole light. The battery is a good value at its retail price of $650, but of course much better if you can snag it on sale—which it already has been.
@@ -218,3 +236,37 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[New] In 2024, Epic Quests Unveiled  Top Games Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-list-of-top-10-tiktok-analytic-software/"><u>[Updated] 2024 Approved  The Ultimate List of Top 10 TikTok Analytic Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-quick-fixes-for-perfect-ipad-screenshots/"><u>[Updated] In 2024, Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-the-hidden-fixes-for-fb-video-upload-woes/"><u>[Updated] Unveiling the Hidden Fixes for Fb Video Upload Woes</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-leading-the-pack-in-gartners-2024-magic-quadrant-assessment-of-process-mining-solutions/"><u>ABBYY Leading the Pack in Gartner's 2024 Magic Quadrant Assessment of Process Mining Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-permet-a-journal-de-la-next-gen-dutiliser-finereader-pour-partager-des-infos-precise-et-mises-a-jour-avec-les-visiteurs/"><u>ABBYY Permet À Journal De La Next-Gen D'Utiliser FineReader Pour Partager Des Infos Précise Et Mises À Jour Avec Les Visiteurs</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/accedez-a-de-nouvelles-perspectives-pour-renforcer-vos-liquidites-grace-au-guide-dabbyy/"><u>Accédez À De Nouvelles Perspectives Pour Renforcer Vos Liquidités Grâce Au Guide D'ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/adapting-strategies-the-evolving-duties-of-todays-chief-financial-officers/"><u>Adapting Strategies: The Evolving Duties of Today's Chief Financial Officers</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automation-revolution-how-rpa-is-shaping-the-modern-workplace-whitepaper-by-abbyy/"><u>Automation Revolution: How RPA Is Shaping the Modern Workplace Whitepaper by ABBYY</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bilingual-bliss-embrace-germanys-idioms-in-25-words/"><u>Bilingual Bliss: Embrace Germany's Idioms in 25 Words</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-web-performance-with-cookiebot-technology/"><u>Boosting Web Performance with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-workplace-joy-how-artificial-intelligence-elevates-staff-morale/"><u>Boosting Workplace Joy: How Artificial Intelligence Elevates Staff Morale</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-your-sites-performance-with-the-advanced-features-of-cookiebot-technology/"><u>Boosting Your Site's Performance with the Advanced Features of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-insights-enhancing-your-digital-marketing-strategy/"><u>Cookiebot-Driven Insights: Enhancing Your Digital Marketing Strategy</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-solutions-optimized-site-engagement-and-personalization/"><u>Cookiebot-Driven Solutions: Optimized Site Engagement and Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-site-enhance-your-online-traffic-and-analytics-effortlessly/"><u>Cookiebot-Enabled Site: Enhance Your Online Traffic and Analytics Effortlessly</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-optimized-website-tracking-and-personalization-solutions/"><u>Cookiebot-Enabled: Optimized Website Tracking & Personalization Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-smart-data-driven-user-tracking-solutions/"><u>Cookiebot-Enhanced: Experience Smart, Data-Driven User Tracking Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-elevating-your-sites-interaction-through-personalization-and-analytics/"><u>Cookiebot: Elevating Your Site's Interaction Through Personalization and Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/decouvrez-lautomatisation-cognitive-la-cle-essentielle-pour-saisir-le-sens-des-contenus-avec-abbyy/"><u>Découvrez L'automatisation Cognitive: La Clé Essentielle Pour Saisir Le Sens Des Contenus Avec ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-engagement-and-personalization-using-advanced-tracking-solutions-from-cookiebot/"><u>Drive Engagement and Personalization Using Advanced Tracking Solutions From Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-your-website-growth-through-innovative-cookiebot-solutions/"><u>Drive Your Website Growth Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effizientes-sammeln-von-informationen-die-rolle-spezialisierter-ki-und-ihre-bedeutung-fur-den-datenerfassungsprozess-ein-blick-auf-das-abbyy-blog/"><u>Effizientes Sammeln Von Informationen: Die Rolle Spezialisierter KI Und Ihre Bedeutung Für Den Datenerfassungsprozess - Ein Blick Auf Das ABBYY-Blog</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-scanning-and-conversion-of-documents-into-text-transform-your-iphone-photos-with-fonepilots-all-in-one-app/"><u>Effortless Scanning & Conversion of Documents Into Text: Transform Your iPhone Photos with FonePilot's All-in-One App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-brightness-techniques-for-iphones/"><u>Essential Brightness Techniques for IPhones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-pova-5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Pova 5 Through Google Earth?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-buy-top-10-gaming-gpus-for-high-quality-online-viewing/"><u>In 2024, Best Buy  Top 10 Gaming GPUs for High-Quality Online Viewing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-mkv-editor-top-10-programs-to-split-and-trim-videos/"><u>Updated 2024 Approved Free MKV Editor Top 10 Programs to Split and Trim Videos</u></a></li>
+</ul></div>
