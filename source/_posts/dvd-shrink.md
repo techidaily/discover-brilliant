@@ -1,7 +1,7 @@
 ---
 title: "DVD Shrinkファイル開く失敗に関するトラブルシューティング: エラーの理由と解決手順"
-date: 2024-08-31 17:58:13
-updated: 2024-09-02 10:44:49
+date: 2024-09-01T18:14:52.506Z
+updated: 2024-09-02T18:14:52.506Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/05547d7adb90fbf06f532d01e335fbdece6e08beadfb934a2bc64b999d114da7.jpg
@@ -37,6 +37,9 @@ Updated on February 28, 2024
 
 When a DVD owner converts a disc to a digital format, he may want to keep all the content of the DVD if possible. MKV is the format that will contain all the video, audio, subtitle tracks, chapters, and menus of a DVD without quality loss. And MKV can provide better compatibility than some other formats like ISO image or DVD VIDEO\_TS folder. But you may don't want to transcode a DVD to MKV and lose some video quality. You may just want to extract the DVD video to MKV format, untouched. In this post, we will show you the right way to rip DVD to MKV without re-encoding.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Easily Rip DVDs to MKV without Quality Loss 
 
 [WinX DVD Ripper Platinum](https://tools.techidaily.com/winxdvd/products/) \- easily rip DVD to MKV, ISO image, MPG, and Video\_TS folder in **1:1 quality**. It's able to remove region codes, CSS, Sony ARccOS, Disney X-Project, and other **copy protections** on the DVD and extract the MKV video from DVDs with **all subtitles**, menus, video, audio, and chapters without re-encoding. Convert a DVD to MKV in **5 minutes** only!   
@@ -44,6 +47,9 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 2024 Best Ways to Freely Rip DVDs to MKV on Windows 10/11 & Mac
 
 | Pros                       | Cons                                                                                                                 | More Info                                                                             |                                                          |
@@ -68,6 +74,9 @@ If you have ever [encoded DVD movies into MP4](https://tools.techidaily.com/winx
 
 Since MKV supports any type of video/audio tracks and subtitles inside, and is quite efficient for storage and streaming, it's widely used on video transmitting. Usually, common DVD rippers can help rip a 4-8 GB DVD movie to a digital file in hundreds of MB, but you will get much quality loss. Only some seasoned DVD to MKV backup tools balance well on video file size and DVD ripping speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Convert DVDs to MKV Losslessly with WinX DVD Ripper
 
 [**WinX DVD Ripper Platinum**](https://tools.techidaily.com/winxdvd/products/) is the best DVD to MKV converter for Mac. Check more features below.
@@ -79,6 +88,9 @@ Since MKV supports any type of video/audio tracks and subtitles inside, and is q
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 After downloading and installing the DVD to MKV ripper, follow the steps below to rip DVD to MKV on Mac.
 
 **Step 1\. Add the Source DVD** 
@@ -89,12 +101,18 @@ Tips: It also supports importing DVD folder and ISO image files for converting t
 
 ![Convert DVD to MP4 Windows 10/11 with WMP alternative](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/drp-interface-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 **Step 2\. Choose MKV as Target Format**
 
 After the DVD content is fully imported, the ripper will bypass copy protection and right check main title automatically. What you need to do is to define target format: Output Profile -> DVD Backup -> Backup full title to MKV. As the interface shows, it will back up all videos, audios and subtitles.
 
 ![Rip DVD to MKV without losing quality](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-to-mkv-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 **Step 3\. Edit the MKV video (optional)**
 
  Click the Edit button, and then you'll be able to trim, crop, expand, and add external subtitle. For example, if the subtitles in the language you want is missing, you can click Subtitle> Enable subtitle > External subtitle file > "Add" to [add an external .srt file to DVD video](https://tools.techidaily.com/winxdvd/products/). 
@@ -109,6 +127,9 @@ If you do not have other advanced and personalized settings, just hit "**RUN**" 
 
 _Disclaimer: Digiarty Software does not advocate ripping commercial DVDs for any illegal purpose. You're suggested to refer to the [DVD copyright laws](https://tools.techidaily.com/winxdvd/products/) in your country before doing so._ 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Rip DVD to MKV with MakeMKV
 
 [**MakeMKV**](https://www.makemkv.com/) is the first choice of many users when it comes to extracting MKV from a DVD without quality loss. This tool is specially designed to convert Blu-ray and DVD disc to MKV format. It will rip DVD to MKV with all video and audio tracks, chapters information, and all meta information. It works fast because it doesn't transcode video, just extract. More importantly, it's able to remove copy protections from DVD and Blu-ray discs, so that it's the best solution to free rip protected DVDs to MKV losslessly. 
@@ -121,6 +142,9 @@ Now let's download MakeMKV and learn how to convert DVD to MKV with MakeMKV.
 
 ![Extract DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-open-dvd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2.** Select the titles, audios, and subtitles you want to preserve.
 
 ![Rip DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-select-titles-audios-subtitles.jpg) 
@@ -131,6 +155,14 @@ Now let's download MakeMKV and learn how to convert DVD to MKV with MakeMKV.
 
 While ripping DVD with MakeMKV, you may encounter errors like DVD failed to open, backup option greyed out for DVD, A/V out of sync, crashes, missing beginning, etc. This is because MakeMKV doesn't support some copy protections. In this case, you can give WinX DVD Ripper a try. Among all the DVD rippers, WinX DVD Ripper is the strongest one to decrypt DVD. 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Part 4\. How to Rip DVD to MKV with HandBrake
 
 [**HandBrake**](https://handbrake.fr/) is one of the most puplar choices to free convert DVD to MKV and MP4 on Windows and Mac. It supports DVDs, Blu-rays, ISO images, Video\_TS folder, and various video files. You can use Handbrake to rip DVDs to MKV in HEVC, H.264, MPEG-4, and VP8/9\. It provides stable ripping performance and there are a lot of settings that help you adjust the output. There are also hardware encoder for MKV outputs that can deliver fast ripping speed. 
@@ -144,6 +176,9 @@ First of all, let's learn how to download and install libdvdcss for Handbrake:
 
 ![Rip DVD to MKV with HandBrake and libdvdcss](https://www.winxdvd.com/resource/../seo-img/handbrake-troubleshoot-tips/libdvdcss.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After you finish the installation of HandBrake and libdvdcss, you can follow the steps to rip DVD to MKV with HandBrake.
 
 **Step 1.** Put target DVD to your optical drive. Open HandBrake and select your DVD. Then, HandBrake will scan DVD titles.
@@ -173,6 +208,9 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 
 ![VLC protected DVD to MKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-chapters-off-dvd-vlc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 **Step 3.** Click the Convert/Save button and then you'll need to select the output profile. Open the Profile dropdown menu and check if there is an MKV profile. By default, VLC will choose to rip DVDs to "Video - H.264 + MP3 (MP4)". If there is no MKV option, click the gear button next to it and under Encapsulation, choose MKV and save it. 
 
 **Step 4.** Choose an output destination folder and then click Start. VLC will then begin ripping DVDs to MKV. 
@@ -195,6 +233,9 @@ Now let's learn how to rip DVDs to MKV usingi Movavi Video Converter?
 
 ![rip DVDs to MKV Movavi](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/movavi-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## In Conclusion
 
 DVD to MKV converters play a valuable role in the digital transformation of physical media. These converters provide users with a convenient and efficient way to convert DVD content into the widely supported MKV format, preserving both video and audio quality. The flexibility offered by MKV, including support for multiple audio and subtitle tracks, makes it a popular choice for users looking to create digital backups or enjoy their DVD content on various devices. Let's select the best fit DVD to MKV converter and start converting DVD to MKV right now!
@@ -203,6 +244,10 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 
 * [6 Ways to Convert DVD to MP4 on Mac for Free](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [\[2024\] How to Free Convert DVD Video\_TS to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 
@@ -220,3 +265,43 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-discovering-the-stars-that-sparkle-in-your-domains-social-space/"><u>[New] 2024 Approved  Discovering the Stars that Sparkle in Your Domain's Social Space</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-freeze-entire-browser-display/"><u>[Updated] 2024 Approved  Freeze Entire Browser Display</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android-for-2024/"><u>[Updated] Crafting Audio Identity  The Art of Adding Your Own Tones to Android for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-checklist-to-record-web-chats/"><u>[Updated] The Ultimate Checklist to Record Web Chats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-popular-photos-the-backstory/"><u>2024 Approved  Popular Photos  The Backstory</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-unveils-advanced-finereader-engine-12-an-all-encompassing-ocr-sdk-perfect-for-digital-and-cloud-applications/"><u>ABBYY Unveils Advanced FineReader Engine 12: An All-Encompassing OCR SDK Perfect for Digital & Cloud Applications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/action-seekers-showdown-hero-4-meets-ghost-s-drifting/"><u>Action Seekers' Showdown  Hero 4 Meets Ghost-S Drifting</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ais-role-in-navigating-the-libor-shift-insights-from-abbyy/"><u>AI's Role in Navigating the LIBOR Shift - Insights From ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automated-consent-management-with-the-power-of-cookiebot/"><u>Automated Consent Management with the Power of Cookiebot</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/belly-laughs-ledger-no-fee-funny-templates/"><u>Belly Laughs Ledger  No-Fee Funny Templates</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-online-engagement-with-our-advanced-cookiebot-solutions/"><u>Boost Online Engagement with Our Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-site-traffic-with-cookiebot-technology-integration/"><u>Boost Site Traffic with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-web-analytics-with-cookiebot-integration-enhance-user-experience-and-data-collection/"><u>Boost Web Analytics with Cookiebot Integration - Enhance User Experience & Data Collection</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-your-sites-engagement-with-our-cookiebot-technology-for-tailored-content-delivery/"><u>Boost Your Site's Engagement with Our Cookiebot Technology for Tailored Content Delivery</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comparing-process-insights-distinguishing-process-intelligence-from-traditional-business-analytics/"><u>Comparing Process Insights: Distinguishing Process Intelligence From Traditional Business Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookie-based-personalization-and-conversion-boost-services/"><u>Cookie-Based Personalization and Conversion Boost Services</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-automation-solutions/"><u>Cookiebot-Driven Automation Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-solutions-enhancing-your-online-experience/"><u>Cookiebot-Driven Solutions: Enhancing Your Online Experience</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-features-enhancing-user-experience-and-personalization/"><u>Cookiebot-Enabled Features: Enhancing User Experience & Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-solutions-boost-your-sites-user-engagement-and-seo-ranking/"><u>Cookiebot-Enabled Solutions: Boost Your Site's User Engagement and SEO Ranking</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-how-our-technology-boosts-your-sites-performance/"><u>Cookiebot-Enhanced Experience: How Our Technology Boosts Your Site's Performance</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-boost-your-websites-visibility-and-user-engagement/"><u>Cookiebot-Enhanced: Boost Your Website's Visibility & User Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-marketing-with-powerful-tracking-technology/"><u>Cookiebot: Enhanced Marketing with Powerful Tracking Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/critical-moments-addressed-navigating-documentation-issues-within-insurance-sectors/"><u>Critical Moments Addressed: Navigating Documentation Issues Within Insurance Sectors</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/die-entwicklung-der-prozessintelligenz-bei-abbyy-steigerung-der-dynamik/"><u>Die Entwicklung Der Prozessintelligenz Bei ABBYY: Steigerung Der Dynamik</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/discover-how-cookiebot-technology-revolutionizes-data-collection-and-personalization/"><u>Discover How Cookiebot Technology Revolutionizes Data Collection and Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/driven-by-cookiebot-enhanced-user-experience-and-personalization/"><u>Driven by Cookiebot: Enhanced User Experience and Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/driven-with-advanced-cookie-tracking-discover-the-power-of-cookiebot/"><u>Driven with Advanced Cookie Tracking: Discover the Power of Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/elevate-website-engagement-through-precision-marketing-the-power-of-cookiebot-technology/"><u>Elevate Website Engagement Through Precision Marketing: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/elevate-your-website-with-cookiebots-advanced-data-management-solutions/"><u>Elevate Your Website with Cookiebot's Advanced Data Management Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/elite-webinar-series-for-insurance-leaders-master-key-concepts-and-network-privately/"><u>Elite Webinar Series for Insurance Leaders – Master Key Concepts and Network Privately</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/empowering-women-in-tech-the-inspiring-stories-of-abbyys-female-pioneers-for-iwd-2024/"><u>Empowering Women in Tech: The Inspiring Stories of ABBYY’s Female Pioneers for IWD 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-new-world-easy-anti-cheat-launch-issues-successfully/"><u>Solving New World Easy Anti-Cheat Launch Issues Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-stunning-android-shots/"><u>Step-by-Step Guide to Stunning Android Shots</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-windows-11-black-screen-challenge/"><u>Step-by-Step Solutions for Your Windows 11 Black Screen Challenge</u></a></li>
+</ul></div>

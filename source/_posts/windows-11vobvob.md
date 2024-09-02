@@ -1,7 +1,7 @@
 ---
 title: Windows 11上でVOBファイルの再生手順公開！問題解決：VOBファイル再生が不可能
-date: 2024-08-31 22:23:47
-updated: 2024-09-02 12:42:48
+date: 2024-09-01T18:13:13.642Z
+updated: 2024-09-02T18:13:13.642Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/ba7c57a899f8cd5c799f88c7d2899c692ee461941eff0903eb250db9dc660efe.jpg
@@ -37,6 +37,9 @@ Updated on February 28, 2024
 
 When a DVD owner converts a disc to a digital format, he may want to keep all the content of the DVD if possible. MKV is the format that will contain all the video, audio, subtitle tracks, chapters, and menus of a DVD without quality loss. And MKV can provide better compatibility than some other formats like ISO image or DVD VIDEO\_TS folder. But you may don't want to transcode a DVD to MKV and lose some video quality. You may just want to extract the DVD video to MKV format, untouched. In this post, we will show you the right way to rip DVD to MKV without re-encoding.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Easily Rip DVDs to MKV without Quality Loss 
 
 [WinX DVD Ripper Platinum](https://tools.techidaily.com/winxdvd/products/) \- easily rip DVD to MKV, ISO image, MPG, and Video\_TS folder in **1:1 quality**. It's able to remove region codes, CSS, Sony ARccOS, Disney X-Project, and other **copy protections** on the DVD and extract the MKV video from DVDs with **all subtitles**, menus, video, audio, and chapters without re-encoding. Convert a DVD to MKV in **5 minutes** only!   
@@ -44,6 +47,12 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2024 Best Ways to Freely Rip DVDs to MKV on Windows 10/11 & Mac
 
 | Pros                       | Cons                                                                                                                 | More Info                                                                             |                                                          |
@@ -58,6 +67,9 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a11.png)1\. Ripping DVD will Remove DVD Copy Protections** 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 Similar to Blu-ray, DVD disc is also equipped with a variety of protections to prevent DVD content from illegal use. The most popular encryption techs include CSS encryption, Sony ARccOS encryption, RCE Region protection, Disney X-project DRM, region code etc. DVD rippers can bypass DVD copy protections and deliver a DRM-free file. But sometimes you may encounter errors while working with [DVD ripping freeware](https://tools.techidaily.com/winxdvd/products/) like MakeMKV, HandBrake and Freemake Video Converter. 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a10.png)2\. DVD to MKV Backup can Reserves All DVD Content** 
@@ -89,6 +101,9 @@ Tips: It also supports importing DVD folder and ISO image files for converting t
 
 ![Convert DVD to MP4 Windows 10/11 with WMP alternative](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/drp-interface-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2\. Choose MKV as Target Format**
 
 After the DVD content is fully imported, the ripper will bypass copy protection and right check main title automatically. What you need to do is to define target format: Output Profile -> DVD Backup -> Backup full title to MKV. As the interface shows, it will back up all videos, audios and subtitles.
@@ -101,6 +116,9 @@ After the DVD content is fully imported, the ripper will bypass copy protection 
 
 ![WinX DVD Ripper Platinum - Edit](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/edit-add-external-subtitle-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4\. Start DVD to MKV Ripping**
 
 If you do not have other advanced and personalized settings, just hit "**RUN**" to beging DVD to MKV ripping. To ensure a stable DVD to MKV ripping process with no error, you're suggested to choose "**Safe Mode**".
@@ -144,6 +162,9 @@ First of all, let's learn how to download and install libdvdcss for Handbrake:
 
 ![Rip DVD to MKV with HandBrake and libdvdcss](https://www.winxdvd.com/resource/../seo-img/handbrake-troubleshoot-tips/libdvdcss.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 After you finish the installation of HandBrake and libdvdcss, you can follow the steps to rip DVD to MKV with HandBrake.
 
 **Step 1.** Put target DVD to your optical drive. Open HandBrake and select your DVD. Then, HandBrake will scan DVD titles.
@@ -152,6 +173,9 @@ After you finish the installation of HandBrake and libdvdcss, you can follow the
 
 ![Rip DVD to MKV with HandBrake](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-dvd-to-mkv-with-handbrake.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 **Step 3.** Click Preset > Matroska, and then choose a MKV format. You're commended to choose H.264 MKV 480p30 for NTSC DVD and H.264 MKV 576P25 for PAL DVD.
 
 **Step 4.** Hit Start Encode button to begin ripping DVD to MKV. Note: HandBrake will decode the DVD and re-encode the video into MKV in H264, H265, or other codecs, during which quality loss will happen.
@@ -173,6 +197,9 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 
 ![VLC protected DVD to MKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-chapters-off-dvd-vlc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3.** Click the Convert/Save button and then you'll need to select the output profile. Open the Profile dropdown menu and check if there is an MKV profile. By default, VLC will choose to rip DVDs to "Video - H.264 + MP3 (MP4)". If there is no MKV option, click the gear button next to it and under Encapsulation, choose MKV and save it. 
 
 **Step 4.** Choose an output destination folder and then click Start. VLC will then begin ripping DVDs to MKV. 
@@ -203,9 +230,21 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 
 * [6 Ways to Convert DVD to MP4 on Mac for Free](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 * [\[2024\] How to Free Convert DVD Video\_TS to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -220,3 +259,40 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-digital-domination-a-deep-dive-into-directors-videos-for-2024/"><u>[New] Deciphering Digital Domination  A Deep Dive Into Directors' Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smooth-strategy-perfecting-your-instagram-grid/"><u>[New] Smooth Strategy  Perfecting Your Instagram Grid</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-initiatives-for-reclaiming-your-tiktok-presence-for-2024/"><u>[Updated] Initiatives for Reclaiming Your TikTok Presence for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724766684546-mp4dvd/"><u>「どうやってMP4動画がDVDプレイヤーで再生可能に？失敗ゼロの方法ガイドと優秀な無料コンバータソフトをご紹介」</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/anker-solix-c800plus-portable-charger-evaluation-your-ultimate-night-time-energy-solution/"><u>Anker Solix C800+ Portable Charger Evaluation: Your Ultimate Night-Time Energy Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/compact-and-mighty-security-an-in-depth-expressvpn-airsecure-gear-examination/"><u>Compact & Mighty Security: An In-Depth ExpressVPN AirSecure Gear Examination</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comprehensive-analysis-exploring-the-upsides-and-downsides-of-apples-2nnd-gen-ipad-pro/"><u>Comprehensive Analysis: Exploring the Upsides & Downsides of Apple's 2Nnd-Gen iPad Pro</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-t30s-versatile-vacuuming-for-floors-and-stairs/"><u>Comprehensive Evaluation of the Ecovacs Deebot T30S: Versatile Vacuuming for Floors and Stairs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-content-masterpieces-with-these-essential-youtube-tips-for-2024/"><u>Crafting Content Masterpieces with These Essential YouTube Tips for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/digiarty-18th-anniversary-special-project-celebrating-a-milestone-in-digital-artistry/"><u>Digiarty 18Th Anniversary Special Project: Celebrating a Milestone in Digital Artistry</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exploring-the-iphone-15-pro-maxs-revolutionary-periscope-lens-understanding-its-functionality-and-capabilities/"><u>Exploring the iPhone 15 Pro Max's Revolutionary Periscope Lens: Understanding Its Functionality & Capabilities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-6-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 6</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-gt-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 GT Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-visual-culture-posthumous-works-unbound/"><u>In 2024, Free Visual Culture  Posthumous Works Unbound</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/in-depth-evaluation-of-the-tp-link-tapo-c120-security-cam-high-definition-imaging-with-audio-challenges/"><u>In-Depth Evaluation of the TP-Link Tapo C120 Security Cam: High Definition Imaging with Audio Challenges</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ios-guide-best-ways-to-enjoy-live-coverage-of-the-2018-fifa-world-cup-on-your-device/"><u>IOS Guide: Best Ways to Enjoy Live Coverage of the 2018 FIFA World Cup on Your Device</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/iphoneandroidiphoneiphone/"><u>IPhoneアップグレード時のデータ転送ガイド：Androidや古いiPhoneから新しいiPhoneへ</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/kopiere-dvds-auf-windows-1110-vier-praktische-ansatze-fur-einen-einfachen-umgang-mit-filmen/"><u>Kopiere DVDs Auf Windows 11/10: Vier Praktische Ansätze Für Einen Einfachen Umgang Mit Filmen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903302958-libxml2dll-not-detected-heres-what-you-need-to-know/"><u>Libxml2.dll Not Detected? Here's What You Need to Know</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mac-guida-rapido-alla-conversione-di-musica-in-formato-dvd-audio-in-mp3-senza-costi/"><u>Mac: Guida Rapido Alla Conversione Di Musica in Formato DVD-Audio in MP3 Senza Costi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/macdvd-dvdm4v/"><u>Mac上で高速DVDコンバーター: DVD再生からM4Vへの手っ取り早い変換ツール - フリーソフト提供しております</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-purchasing-drones-insider-advice-for-2024/"><u>Mastering the Art of Purchasing Drones  Insider Advice for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/premium-4k-resolution-titles-available-on-sony-and-microsoft-consoles/"><u>Premium 4K Resolution Titles Available on Sony and Microsoft Consoles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/red-eye-remover-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>Red Eye Remover| How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/save-your-favorite-netflix-shows-and-watch-them-anytime-download-the-netflix-mac-app/"><u>Save Your Favorite Netflix Shows and Watch Them Anytime - Download the Netflix Mac App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-challenge-how-to-convert-high-quality-avchd-videos-into-efficient-h264-format/"><u>Solving the Challenge: How to Convert High-Quality AVCHD Videos Into Efficient H.264 Format</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-how-to-view-mov-videos-on-your-android-phone-or-tablet/"><u>Step-by-Step Tutorial: How to View MOV Videos on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-7-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 7</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/win-exclusive-access-compete-in-our-photo-challenge-for-complimentary-2018-oscar-tickets-and-luxury-swag/"><u>Win Exclusive Access: Compete in Our Photo Challenge for Complimentary 2018 Oscar Tickets & Luxury Swag!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/win-exclusive-sw-merchandise-join-the-monthly-sw-fan-event-and-compete-for-a-top-notch-dvd-ripper-tool/"><u>Win Exclusive SW Merchandise: Join the Monthly SW Fan Event & Compete for a Top-Notch DVD Ripper Tool!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724766192283-mp3/"><u>オススメ MP3 マネジメントソフトウェア: カット、変更、分割、抽出機能を持つ編集ツールの詳細</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/iuodjplusocpoodkeodvoodneodloodpeodqeodvoobquocqoodsplusocvplusodvoodhuocpoodoeodsplusodioimgee0ooobqplusodgeodoplusodroodsplusocuce65pig55s744cb44ky44o844o4/"><u>ハイパーポピュラーなエンターテイメント要素にチャレンジ!:映画、ゲーム、アプリの最新情報と実践ヒントをご紹介</u></a></li>
+</ul></div>
