@@ -1,7 +1,7 @@
 ---
 title: "Simplistic Charm of Kobo Clara Colour: Your Next Go-To Easy-to-Use, Vibrant eBook Reader"
-date: 2024-08-30T11:21:51.370Z
-updated: 2024-08-31T11:21:51.370Z
+date: 2024-09-05T11:14:02.377Z
+updated: 2024-09-06T11:14:02.377Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
 ## Simplistic Charm of Kobo Clara Colour: Your Next Go-To Easy-to-Use, Vibrant eBook Reader
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Compact, portable, and extremely comfortable-to-hold design with long-lasting battery life for on-the-go reading.
@@ -101,18 +107,32 @@ The Kobo Clara Colour features a 6-inch E ink Kaleido 3 screen, 16 GB of storage
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Design: Comfortable to Hold and Take Anywhere
 
 ![The Kobo Clara Colour inside a case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-inside-a-case_53656171453_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Jerome Thomas / How-To Geek
 
@@ -126,12 +146,27 @@ Close
 
  My unit came with a sleep cover, but the eReader doesn't come with one by default. It's an add-on purchase ($30). The [SleepCover](https://us.kobobooks.com/products/kobo-clara-colour-bw-sleepcover) also doubles as a foldable stand. But if you want to save money, they offer $20 options, like the [Basic SleepCover](https://us.kobobooks.com/products/kobo-clara-colour-bw-basic-sleepcover) (not foldable) and a [clear case](https://us.kobobooks.com/products/kobo-clara-colour-bw-clear-case). I also signed up for a month of Kobo Plus ($10 per month) to read included ebooks and listen to audiobooks to get the bulk of my reading materials.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Color Display
 
 ![The Kobo Clara Colour with a book open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-with-a-book-open_53655946596_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -145,6 +180,12 @@ Jerome Thomas / How-To Geek
 
 ![The Kobo Clara Colour mark up feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-mark-up-feature-2_53655071967_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On other Kobo devices, I experienced significant lag when tapping to turn the page and some occasional text ghosting. The Kobo Clara Colour was speedy when I tapped to go to the next page, and only on rare occasions did I notice any text or image ghosting. The simple, streamlined reading experience compared to other eReaders was welcome. The Kobo interface was less cluttered on the Clara Colour (fewer bottom tabs and useless Beta features), which made navigation more accessible and more beginner-friendly. (Or for people like me who want to tap and read rather than get lost in a mire of excessive extra features.)
@@ -170,14 +211,26 @@ Jerome Thomas / How-To Geek
 ![The Kobo Clara Colour inside a case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-inside-a-case-2_53655071982_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  When I first received the Kobo Clara Colour, I charged it fully, which took about two hours. After that, I didn't need to charge the eReader again. It lasted a full two weeks and hit about 20% on the 14th day. This was with light to moderate reading throughout the period, with some days reading less than 30 minutes and others reading an hour or two at a time. I typically kept the brightness at around 70 to 80% in the daytime and hovered around 40% or less at bedtime. This aligns with Rakuten's estimate that you could get up to 42 days of reading on a single charge (at 30% brightness consistently), though I don't know how many people would keep the screen brightness so low. So, a better estimate for the average reader would be around two to three weeks of battery life (less if you're an extremely heavy reader).
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Kobo Clara Colour?
 
@@ -187,9 +240,6 @@ Jerome Thomas / How-To Geek
 
 ![The Kobo Clara Colour eReader on the home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-spa-colour-en-device_front_1080x1080_07801ff1-4021-4bab-a615-36f27924cdaa_722x722.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Rakuten Kobo Clara Colour eReader

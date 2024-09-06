@@ -1,7 +1,7 @@
 ---
 title: "Anker Solix C800+ Portable Charger Evaluation: Your Ultimate Night-Time Energy Solution"
-date: 2024-08-30T11:21:45.616Z
-updated: 2024-08-31T11:21:45.616Z
+date: 2024-09-05T11:14:02.230Z
+updated: 2024-09-06T11:14:02.230Z
 tags:
   - product-reviews
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef10196944c0e4d0e8d090140eaead92.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Anker Solix C800+ Portable Charger Evaluation: Your Ultimate Night-Time Energy Solution
 
 ### Key Takeaways
@@ -82,6 +94,12 @@ Expand
 
 [$649 at anker](https://anker.pxf.io/c/156932/1959698/18023?subId1=htgsolixc800plusreview&u=https%3A%2F%2Fwww.anker.com%2Fanker-solix%2Fa1754-a1753-pps) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Design, Features, and Gimmicks
 
 ![Pole light attched and straight on Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-light-attched-and-straight-on-anker-solix-c800-plus.JPG) 
@@ -105,7 +123,10 @@ Close
  The retractable lighting pole is absolutely a gimmick, but one that could be useful for a lot of people. As well executed as the lights are, part of me would have rather used that top lid area to store the power cables. As it is, there’s nowhere to keep the cords when not using them. (By the way, Anker's other new power station, the [Solix C800](https://www.anker.com/products/a1753?variant=43203429302422&collections%5Fportable-power-stations=undefined&Sort%5Fby=Recommended), omits the lights so you can use the top area for cable storage.)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  An App For a Battery Is a Good Idea
 
@@ -119,15 +140,21 @@ Close
 
  What the app is sorely missing, however, is the ability to set a schedule for it to charge itself. I would love to leave the battery plugged into the wall and then tell it not to charge itself until 9 PM to avoid high electricity rates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Recharging the Big Battery Was Fast
 
 ![screen of Anker Solix C800 Plus showing capacity at 67%](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/screen-of-anker-solix-c800-plus-showing-capacity-at-67.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -145,23 +172,26 @@ Close
 
  I have some very tiny earbuds that take four or more hours to recharge their batteries. So it's a bit crazy to think that this massive one can be recharged, at full speed at home, in under an hour. I did notice that when recharging the C800 Plus at its normal speed, there was a low hum, a little softer than the mini-fridge. When I used the ultra-fast charging option and the unit rose above 950 watts, the sound was a bit louder. Once the temperature rose above 80F with a 1,030 average wattage, the fan noise was unavoidable and quite present in a quiet house. It's less of a downside and more of a consequence of fast charging.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Solix C800 Plus retails for $649 and will be available starting March 12th, 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Anker Solix C800 Plus?
 
 ![pole and two lights on top of Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-and-two-lights-on-top-of-anker-solix-c800-plus.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I like everything the [Anker Solix C800 Plus](https://anker.pxf.io/c/156932/1959698/18023?subId1=htgsolixc800plusreview&u=https%3A%2F%2Fwww.anker.com%2Fanker-solix%2Fa1754-a1753-pps) offers, from its compact size, health cell capacity, and wide port selection to quirky pole light. The battery is a good value at its retail price of $650, but of course much better if you can snag it on sale—which it already has been.
@@ -170,8 +200,26 @@ Tyler Hayes / How-To Geek
 
 ![Anker SOLIX C800 Plus US](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/anker-solix-c800-plus-us.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Anker Solix C800 Plus
 
 8/ 10 

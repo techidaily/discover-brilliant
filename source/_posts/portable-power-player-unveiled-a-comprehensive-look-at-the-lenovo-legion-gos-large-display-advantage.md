@@ -1,7 +1,7 @@
 ---
 title: Portable Power Player Unveiled - A Comprehensive Look at the Lenovo Legion Go's Large Display Advantage
-date: 2024-08-30T11:21:50.306Z
-updated: 2024-08-31T11:21:50.306Z
+date: 2024-09-05T11:14:02.354Z
+updated: 2024-09-06T11:14:02.354Z
 tags:
   - product-reviews
 categories:
@@ -88,6 +88,12 @@ Expand
 
 [$749.99 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Fhandheld%2Flegion-go%2Flen106g0001) [$749.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-go-8-8-144hz-wqxga-gaming-handheld-amd-ryzen-z1-extreme-16gb-with-1-tb-ssd-shadow-black%2F6559604.p%3FskuId%3D6559604%26ref%3D212%26loc%3D1%26gad_source%3D1%26gclid%3DCj0KCQiAo7KqBhDhARIsAKhZ4uj4pWFwhS0G1RgFpFTHwV--Bh2rxrG-Z5jd5uEdFes7XZSjUf0fIcEaAnYxEALw_wcB%26gclsrc%3Daw.ds) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Specifications: A Powerhouse With Big Sights, OK Sounds
 
 ![The background on the Lenovo Legion Go running Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-background-on-the-lenovo-legion-go-running-windows-11jpg_53336710550_o.jpg) 
@@ -108,13 +114,16 @@ Hannah Stryker / How-To Geek
 
  Most PC gaming handhelds provide roughly 30 minutes to a few hours of gameplay on battery when playing more demanding games. The Legion Go is no exception due in part to the same type of 50Wh battery as the smaller Steam Deck OLED. Lenovo's handheld simply lacks the same efficiencies that give Valve's handheld its best-in-class battery life, which is at least double that of the Legion Go. Regardless, performance with PC gaming handhelds is always going to be best when plugged in as it allows for maximum power draw and for all parts to run at the top of their performance curves.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Design and Feel: Comprehensive, but Clunky
 
 ![The Lenovo Legion Go with its accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-lenovo-legion-go-with-its-accessories-1jpg_53336243636_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The designers at Lenovo seem to have taken at least some inspiration from the design of the [AYAYNEO 2021](https://www.ayaneo.com/product/AYANEO2021Pro.html), with its similarly tapered angles and general layout. Of course, Lenovo is a much larger company and went next level on things like overall build quality and features, so the comparison is superficial at best.
@@ -126,7 +135,10 @@ Hannah Stryker / How-To Geek
 ![The Lenovo Legion Go using the kickstand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-lenovo-legion-go-using-the-kickstand-1jpg_53336585964_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -143,8 +155,10 @@ Hannah Stryker / How-To Geek
 ![Using the Lenovo Legion Go in FPS mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/using-the-lenovo-legion-go-in-fps-modejpg_53336482193_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -158,12 +172,21 @@ Hannah Stryker / How-To Geek
 
  In theory, you can detach the controllers and use the main tablet body in portrait mode for portrait mode games, but I found this to be a clumsy process. [Legion Space](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fsupport.lenovo.com%2Fus%2Fen%2Fdownloads%2Fds565675-legion-space-for-windows-11-64-bit-legion-go-8apu1), which is Lenovo's app for managing game resources, controlling hardware settings, and checking the operational status of the device, would always switch the device back to landscape mode. I had to launch the game directly from the Windows 11 interface or the respective digital store launcher for the Legion Go to keep the portrait orientation I wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Software and Configuration: Pay Attention to Windows
 
 ![quick-settings-open-on-the-lenovo-legion-gojpg_53336709840_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/quick-settings-open-on-the-lenovo-legion-gojpg_53336709840_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -181,9 +204,6 @@ Hannah Stryker / How-To Geek
 
  In just a few months since its launch, the Legion Go has already improved dramatically thanks to various software updates, including to Legion Space. More [are planned](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgaming.lenovo.com%2Fus%2Fconnect%2Fgroups%2Flegion-go%2Ff%2Fforum%2F5899%2Flegion-go-update-12-01-23%2F), including additional performance tuning options, as well as that much-needed ability to use the left and right triggers for mouse clicks to take full advantage of the trackpad.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  Games and Gameplay: Potential Powerhouse
 
 ![thermal mode open on the performance tab of the lenovo legion go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/thermal-mode-open-on-the-performance-tab-of-the-lenovo-legion-go-2jpg_53335371307_o.jpg) 
@@ -202,6 +222,18 @@ Hannah Stryker / How-To Geek
 
  Like any PC gaming handheld, the Legion Go does get warm and vents hot air after any appreciable play time, but it remains relatively quiet in comparison to other such devices even after intensive gaming sessions. There's no denying that the Legion Go is easily among the quietest and best thermally regulated PC gaming handhelds on the market.
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Legion Go?
 
 ![The top of the Lenovo Legion Go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-top-of-the-lenovo-legion-gojpg_53336480853_o.jpg) 
@@ -215,7 +247,10 @@ Hannah Stryker / How-To Geek
 ![Lenovo Legion Gaming Handheld](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-legion-gaming-handheld.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Lenovo Legion Go
 
