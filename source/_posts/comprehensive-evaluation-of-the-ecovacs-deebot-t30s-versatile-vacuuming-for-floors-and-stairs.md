@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of the Ecovacs Deebot T30S: Versatile Vacuuming for Floors and Stairs"
-date: 2024-09-05T11:14:02.290Z
-updated: 2024-09-06T11:14:02.290Z
+date: 2024-09-10T10:15:46.814Z
+updated: 2024-09-11T10:15:46.814Z
 tags:
   - product-reviews
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ## Comprehensive Evaluation of the Ecovacs Deebot T30S: Versatile Vacuuming for Floors and Stairs
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * The Ecovacs Deebot T30S Combo includes a handheld vac for hard-to-reach spots, acknowledging robots' limitations.
@@ -27,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ![T30S Omni Combo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cleanshot-2024-05-01-at-14-22-13-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Ecovacs Deebot T30S Combo
 
 7/ 10 
@@ -53,12 +55,20 @@ Whole home cleaning with the convenience of a robot vacuum and mop, plus the ver
 
 [$1035 at Amazon](https://www.amazon.com/dp/B0D1FMPJJJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002944&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fecovacs-deebot-t30s-combo-review%2F&asc%5Fcampaign=Authority) [$1199.99 at Ecovacs](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002944/https://www.ecovacs.com/us/campaign/deebot-t30s-family) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Price and Availability
 
  The T30S Combo will be available on May 16, 2024, with a retail price of $1,199,99\. The version of the T30S vacuum and mop that does not include the hand vac retails for $999.99.
@@ -103,6 +113,20 @@ Expand
 
 ![The handheld vac from the  Ecovacs Deebot T30S Omni Combo sitting on top of the docking station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-handheld-vac-from-the-ecovacs-deebot-t30s-omni-combo-sitting-on-top-of-the-docking-station.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  One of Ecovacs’ highlights of the Deebot line has been its own Yiko voice assistant. That’s an interesting way to control a robot vacuum, via another robot, but that’s not the assistant I was most interested in when I got the T30S Combo.
@@ -113,15 +137,43 @@ Tyler Hayes / How-To Geek
 
  The revelation that both types of products are needed is a breath of fresh air. Yes, you will want to reach for a handheld vacuum every so often and that’s normal.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Cleaning Results Were Good
 
 ![water tanks on the  Ecovacs Deebot T30S Omni Combo docking station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/water-tanks-on-the-ecovacs-deebot-t30s-omni-combo-docking-station.JPG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tyler Hayes / How-To Geek
 
@@ -137,6 +189,20 @@ Tyler Hayes / How-To Geek
 
 ![Attachment drawer on the  Ecovacs Deebot T30S Omni Combo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/attachment-drawer-on-the-ecovacs-deebot-t30s-omni-combo.JPG) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  The hand vac itself felt a little primitive. Its power ramps up gradually over a few seconds, instead of kicking in instantly. There are two levels of power, but I never felt compelled to use anything other than the strongest one. It was powerful enough to grab all the crumbs I wanted to pick up.
@@ -147,12 +213,6 @@ Tyler Hayes / How-To Geek
 
 ![robot vacuum from the  Ecovacs Deebot T30S Omni Combo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/robot-vacuum-from-the-ecovacs-deebot-t30s-omni-combo.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It would be nice if a robot vacuum and mop could just clean everywhere, automatically, but I haven’t found one that does that yet. In that case, it’s nice that the [Ecovacs Deebot T30S Combo](https://www.amazon.com/dp/B0D1FMPJJJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002944&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fecovacs-deebot-t30s-combo-review%2F&asc%5Fcampaign=Authority) provides an escape valve, or a way to collect crumbs manually, even if the robot can’t do it.
@@ -161,12 +221,6 @@ Tyler Hayes / How-To Geek
 
 ![T30S Omni Combo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cleanshot-2024-05-01-at-14-22-13-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Ecovacs Deebot T30S Combo
 
 7/ 10 

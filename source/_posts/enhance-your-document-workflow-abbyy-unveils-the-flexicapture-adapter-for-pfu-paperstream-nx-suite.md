@@ -1,21 +1,63 @@
 ---
 title: "Enhance Your Document Workflow: ABBYY Unveils the FlexiCapture Adapter for PFU PaperStream NX Suite"
-date: 2024-08-25T23:53:52.508Z
-updated: 2024-08-26T23:53:52.508Z
+date: 2024-09-10T10:15:48.339Z
+updated: 2024-09-11T10:15:48.339Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e99131985520486a4b9f43ec.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Enhance Your Document Workflow: ABBYY Unveils the FlexiCapture Adapter for PFU PaperStream NX Suite
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## ABBYY Launches FlexiCapture Connector for PFU’s PaperStream NX Manager Software, Enabling Complex Automation
 
 September 30, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #### _Fujitsu Image Scanner users can now access ABBYY FlexiCapture technology that captures data from any type of document and powers intelligent automation._
 
@@ -84,9 +126,6 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-dive-into-the-world-of-caption-creation-a-tiktok-video-guidebook/"><u>[New] 2024 Approved  Dive Into the World of Caption Creation  A TikTok Video Guidebook</u></a></li>

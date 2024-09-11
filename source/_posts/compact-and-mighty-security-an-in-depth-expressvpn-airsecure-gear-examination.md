@@ -1,7 +1,7 @@
 ---
 title: "Compact & Mighty Security: An In-Depth ExpressVPN AirSecure Gear Examination"
-date: 2024-09-05T11:14:02.252Z
-updated: 2024-09-06T11:14:02.252Z
+date: 2024-09-10T10:15:46.794Z
+updated: 2024-09-11T10:15:46.794Z
 tags:
   - product-reviews
 categories:
@@ -9,14 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f020283ad8022a46d57974e6.jpg
 ---
 
-## Compact & Mighty Security: An In-Depth ExpressVPN AirSecure Gear Examination
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Compact & Mighty Security: An In-Depth ExpressVPN AirSecure Gear Examination
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Aircove Go by ExpressVPN offers a portable VPN router, with impressive network performance.
@@ -27,26 +49,22 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
 ![The ExpressVPN Aircove Go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-render-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
+
 #####  ExpressVPN Aircove Go Wi-Fi 6 Router
 
 7/ 10 
@@ -67,12 +85,6 @@ Exclusively developed by ExpressVPN, Aircove Go is a portable Wi-Fi 6 router wit
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The ExpressVPN Aircove Go sells for $170 and is currently available on Amazon and ExpressVPN. If this is your first time using an ExpressVPN product, you'll receive the first month of ExpressVPN's IP protection for free. Once this trial period ends, you'll have the option of paying $13 per month, $10 per month for a six-month subscription, or $9 per month for a yearly subscription.
@@ -117,22 +129,24 @@ Exclusively developed by ExpressVPN, Aircove Go is a portable Wi-Fi 6 router wit
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Small Enough to Fit in Most Bags, Pockets, and Sleeves
 
 ![Antennas of the ExpressVPN Aircove Go folded for travel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/antennas-of-the-expressvpn-aircove-go-folded-for-travel_53614450411_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  The Aircove Go is about the same size as a USB hub or portable travel charger. Two foldout antennas are located on each side of the device. You’ll want to have these pointing straight up for the best wireless signal. An LED indicator hangs out on the front of the Aircove Go, using solid and blinking lights to communicate the current network connection. The back of the router is where you’ll find two LAN ports, an ethernet hookup, and power.
@@ -140,6 +154,20 @@ Sergio Rodriguez / How-To Geek
  I was pleased to see a good amount of venting, with grilles on both the sides and bottom of the Aircove Go. Four small furniture pads prevent the unit from sliding around counters and tables, while keeping your furniture scratch and scuff-free. There’s also a small reset button on the right side of the Aircove Go.
 
 ![Bottom of the ExpressVPN Aircove Go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/bottom-of-the-expressvpn-aircove-go_53614450361_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 
@@ -149,12 +177,20 @@ Sergio Rodriguez / How-To Geek
 
 ![Side of the ExpressVPN Aircove Go with antennas extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/side-of-the-expressvpn-aircove-go-with-antennas-extended_53614450376_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  Getting the Aircove Go up and running was relatively straightforward, but make sure you’ve got plenty of time to play with when you first unbox and attempt to activate it. You’ll also need to have access to an ISP modem or router, as the Aircove Go’s initial setup requires an ethernet connection. I plugged my test unit directly into my everyday Wi-Fi router and needed to wait a few minutes for the Aircove Go to register the hookup. You’ll then need to head to [expressvpnrouter.com](http://expressvpnrouter.com) to create an account and admin password. You’ll also need to install the latest firmware, at which point you’ll finally gain access to the Aircove’s settings dashboard.
@@ -163,12 +199,20 @@ Sergio Rodriguez / How-To Geek
 
  My sub-label for this section mentions patience: Whenever I connected a new device to the wireless Aircove Go network, I’d have to wait a minute or two for the internet to actually start working. But once the first webpage loaded up, everything was smooth sailing. This even happened when I had the Aircove Go connected with ethernet.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Safe Networking at Home or on the Go
 
 ![Cables plugged into the ExpressVPN Aircove Go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/cables-plugged-into-the-expressvpn-aircove-go_53614786104_o.jpg) 
@@ -193,12 +237,6 @@ Sergio Rodriguez / How-To Geek
 
  One more observation here: the VPN dropped out a couple of times. I’m not sure why, and this happened both on my home Wi-Fi and on public Wi-Fi. I also didn’t get a notification when this occurred. The only reason I knew was because I had the settings dashboard opened at the time. A “disconnected VPN” message appeared at the top of the page, joined by a 5-minute countdown. When the timer runs out, the Aircove Go attempts to relaunch the VPN.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Bevy of Settings and Customizations
 
 Close 
@@ -207,16 +245,38 @@ Close
 
 ![The ExpressVPN Aircove Go mobile settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-mobile-settings-3.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![The ExpressVPN Aircove Go mobile settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-mobile-settings-1.jpg) 
 
 ![The ExpressVPN Aircove Go mobile settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-mobile-settings-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Close 
 
  The dashboard has a lot of settings and customizations, and most of them are very useful. At launch, you’ll see what network the Aircove Go is connected to, along with what devices are online. One of my favorite features of the Aircove Go is the ability to create up to five VPN groups. This is especially convenient if you frequent a lot of the same locations. You’ll be able to customize networking and VPN settings for each group. You can even add parental rules to prevent youngsters from stumbling onto non-kid-friendly content.
@@ -228,6 +288,20 @@ Close
  I enjoyed my time with the [ExpressVPN Aircove Go](https://www.amazon.com/Aircove-Portable-Protect-Unlimited-ExpressVPN/dp/B0CM6VL4PS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004285&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fexpressvpn-aircove-go-review%2F&asc%5Fcampaign=Authority), and save for a few networking and VPN hiccups (most of which presented over Wi-Fi), I could see this [portable router](https://screen-capture.techidaily.com/updated-how-to-secure-continuous-streaming-in-obs-for-2024/) being a staple for those who need to travel a lot. Once you get past the initial setup process, the Aircove Go is easy to use and gives you a ton of customization options for fine-tuning your [VPN experience](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/). Do remember that after your first month of VPN service, you'll need to pay for a monthly or yearly ExpressVPN subscription, though.
 
 ![The ExpressVPN Aircove Go](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expressvpn-aircove-go-render-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 

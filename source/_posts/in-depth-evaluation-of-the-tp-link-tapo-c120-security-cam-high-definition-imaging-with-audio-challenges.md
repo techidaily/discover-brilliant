@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Evaluation of the TP-Link Tapo C120 Security Cam: High Definition Imaging with Audio Challenges"
-date: 2024-09-05T11:14:02.326Z
-updated: 2024-09-06T11:14:02.326Z
+date: 2024-09-10T10:15:46.838Z
+updated: 2024-09-11T10:15:46.838Z
 tags:
   - product-reviews
 categories:
@@ -9,14 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d0308246b622538179ed42958d614.jpg
 ---
 
-## In-Depth Evaluation of the TP-Link Tapo C120 Security Cam: High Definition Imaging with Audio Challenges
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## In-Depth Evaluation of the TP-Link Tapo C120 Security Cam: High Definition Imaging with Audio Challenges
+
 ### Key Takeaways
 
 * The TP-Link Tapo C120 is a budget-friendly smart home camera with excellent video quality and easy installation.
@@ -121,12 +129,20 @@ Expand
 
 ![The hinge of the TP-Link Tapo C120](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-hinge-of-the-tp-link-tapo-c120-rotated-around_53315707427_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  Measuring 2.65 inches wide, 1.74 inches tall, and 2.26 inches from front to back, the C120 looks like just about every other smart home camera on the market. I don’t consider this a detriment though, because the more unassuming it appears, the less likely anyone is to notice it rigged up in your home. I did like TP-Link’s decision to go with a more rounded design, as opposed to something boxier, such as the Blink [Indoor](https://www.amazon.com/Blink-Indoor-Wireless-Security-Camera/dp/B07X4BCRHB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001327&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-c120-camera-review%2F&asc%5Fcampaign=Affiliate) and [Outdoor](https://www.amazon.com/Blink-Outdoor-4th-Gen-3-Camera/dp/B0B1N5HW22/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001327&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-c120-camera-review%2F&asc%5Fcampaign=Affiliate) lineup.
@@ -137,21 +153,69 @@ Hannah Stryker / How-To Geek
 
 ![Card slot on the TP-Link Tapo C120](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/card-slot-on-the-tp-link-tapo-c120_53316817973_o-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  The C120 is rather lightweight, but I didn’t think it felt cheaply made. I also thought the flexible gooseneck operated smoothly, and made the camera easy to rotate and adjust. Conveniently, the gooseneck is already fastened to the magnetized base of the camera.
 
  Other box contents include a USB-A power adapter, a USB-A to USB-C cable, mounting hardware, and a user manual.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Installation: Easy as Can Be
 
 ![The TP-Link Tapo C120 camera connected to a phone with a setup page open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-connected-to-a-phone-with-a-2k-qhd-high-resolution-info-page-open-3jpg_53317045520_o-1.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Hannah Stryker / How-To Geek
 
@@ -163,25 +227,27 @@ Hannah Stryker / How-To Geek
 
 ![The base of the TP-Link Tapo C120 cam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tapo-logo-on-the-tp-link-tapo-c120_53316927674_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  One other thing to keep in mind is the power adapter and USB connection. TP-Link is nice enough to provide a wire clip for managing the cable, but neither the power adapter nor the USB port are weatherproof. That being said, if you’re mounting the camera outside, invest in some kind of covering for the power adapter (if your outdoor outlet isn’t equipped with it already).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Video Quality: Supremely Good
 
 ![The TP-Link Capo C120 on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-set-up-on-a-shelf-2jpg_53315702437_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Hannah Stryker / How-To Geek
 
@@ -191,12 +257,20 @@ Hannah Stryker / How-To Geek
 
 ![The TP-Link Tapo C120 capturing daytime footage in an office with lamps and an overhead fixture](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tp-link-c120-cam-test-2.PNG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Michael Bizzaco / How-To Geek
 
 ![The TP-Link Tapo C120 capturing footage in a room with lamps turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tp-link-c120-cam-test-1.PNG) 
@@ -221,6 +295,26 @@ Close
 
  None of this bodes well, especially for situations where you need to communicate with an individual who may not have the best intentions. We also can’t lay the blame on our Wi-Fi network, because neither the camera nor my iPhone were ever further than 30 feet away from the router.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Using the TP-Link App: Little to No Learning Curve
 
 Close 
@@ -241,42 +335,32 @@ Close
 
 ![The TP-Link Tapo C120 set up on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-set-up-on-a-shelf-3jpg_53316924009_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The C120 is compatible with Alexa and Google Assistant, and I was able to add the cam to my Alexa ecosystem. At first, I tried adding the TP-Link Kasa skill to the Alexa app, at which point the app tried to locate the C120 on my Wi-Fi. This actually didn’t work though, so I ended up manually adding the C120 through the Alexa app’s “Devices” menu.
 
  The Alexa app allows you to view live footage and to converse with two-way audio. You can also initiate a conversation using an Alexa-compatible smart speaker or smart display. I own a number of Echo Dots and an Echo Show 5, and the audio quality was solid on both ends. I was also able to pull up a live view of the camera through the Echo Show, and the image quality looked just as good as it did on my iPhone.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the TP-Link C120 Indoor Camera?
 
  If you’re not overly concerned with using the two-way audio function, I think the [TP-Link Tapo C120](https://www.amazon.com/Tapo-Security-Detection-Invisible-C120/dp/B0CH45HPZT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001327&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-c120-camera-review%2F&asc%5Fcampaign=Affiliate) is well worth the investment. For less than $50, it delivers exceptionally clear footage and the companion app is intuitive to use and loaded with features and customizations.
 
 ![tp-link tapo 2k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tp-link-tapo-2k.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  TP-Link Tapo C120 Indoor/Outdoor Smart Camera
 
 $35 $40 Save $5 
