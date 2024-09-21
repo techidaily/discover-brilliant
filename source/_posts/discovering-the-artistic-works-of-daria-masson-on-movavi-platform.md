@@ -1,7 +1,7 @@
 ---
 title: Discovering the Artistic Works of Daria Masson on Movavi Platform
-date: 2024-09-14T16:03:47.972Z
-updated: 2024-09-16T16:02:34.223Z
+date: 2024-09-17T16:31:09.399Z
+updated: 2024-09-21T16:25:17.071Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8af8878f0f3b10198632d36b.jpg
@@ -210,9 +210,29 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -221,13 +241,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -246,13 +259,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -283,6 +289,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -320,19 +333,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -361,6 +361,13 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
@@ -370,19 +377,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -412,13 +406,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -557,6 +544,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -592,21 +586,14 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-gif-your-ultimate-blueprint/"><u>[New] From Idea to GIF Your Ultimate Blueprint</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-editors-haven-unmatched-smoothness-with-m1-powered-software/"><u>[New] In 2024, Editors' Haven Unmatched Smoothness with M1-Powered Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-diy-guide-for-building-powerful-youtube-ad-videos/"><u>[Updated] The Ultimate DIY Guide for Building Powerful YouTube Ad Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-static-to-swirling-implementing-motion-blur-in-ai-designs/"><u>2024 Approved From Static to Swirling Implementing Motion Blur in AI Designs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo/"><u>2024 Approved Love in Full Bloom Top 7 Premium Marriage Films From YouTube and Vimeo</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/create-a-single-gif-for-free-a-step-by-step-guide/"><u>Create a Single GIF for Free: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-0x80070570-mistake-a-step-by-step-repair-guide/"><u>Decoding the 0X80070570 Mistake: A Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/discreet-recording-of-webex-sessions-across-various-platforms-tips-and-methods/"><u>Discreet Recording of Webex Sessions Across Various Platforms - Tips & Methods</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/download-4k-song-videos-for-free-speedy-and-easy-steps/"><u>Download 4K Song Videos for Free - Speedy and Easy Steps!</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/easy-guide-transferring-your-dvds-onto-a-usb-drive-for-stress-free-viewing/"><u>Easy Guide: Transferring Your DVDs Onto a USB Drive for Stress-Free Viewing</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effective-techniques-for-reducing-audio-file-size-without-losing-sound-clarity/"><u>Effective Techniques for Reducing Audio File Size Without Losing Sound Clarity</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/efficient-methods-for-trimming-video-captures-in-windows-11/"><u>Efficient Methods for Trimming Video Captures in Windows 11</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/efficient-techniques-for-converting-flv-files-into-mp4-format/"><u>Efficient Techniques for Converting FLV Files Into MP4 Format</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2016</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pova-6-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pova 6 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-11-proplus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 11 Pro+</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-full-potential-of-obs-for-your-mac/"><u>2024 Approved Unlocking the Full Potential of OBS for Your Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-mod-videos-to-mp4-without-losing-any-quality-a-7-step-guide/"><u>Convert Your MOD Videos to MP4 Without Losing Any Quality: A 7-Step Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/gravacao-de-videos-no-tiktok-guia-passo-a-passo-em-todos-os-dispositivos-com-a-fabrica-de-clips-do-movavi/"><u>Gravação De Vídeos No TikTok: Guia Passo-a-Passo Em Todos Os Dispositivos Com a Fábrica De Clips Do Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-painting-programs-beyond-the-procreate-window-experience/"><u>Leading Painting Programs Beyond the Procreate Window Experience</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mov-file-conversion-to-ogg-format-quick-and-easy-online-tools/"><u>MOV File Conversion to OGG Format: Quick & Easy Online Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/online-wac-naar-wav-vervanger-voor-keerlos-gratis-konvertiezer-met-movavi-softwares/"><u>Online WAC Naar WAV Vervanger - Voor Keerlos Gratis Konvertiezer Met Movavi Softwares</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/skype-call-recording-made-effortless-explore-two-user-friendly-approaches-with-movavi/"><u>Skype Call Recording Made Effortless: Explore Two User-Friendly Approaches with Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/tutorial-complet-changer-le-format-video-mov-en-mpeg-avec-la-solution-convertisseuse-video-moovavi/"><u>Tutorial Complet - Changer Le Format Vidéo MOV en MPEG Avec La Solution Convertisseuse Vidéo Moovavi</u></a></li>
 </ul></div>
 

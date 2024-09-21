@@ -1,7 +1,7 @@
 ---
 title: Guía Práctica Para Grabar en Slow Motion Con Tu Cámara - Mejorar La Calidad De Video
-date: 2024-09-09T16:00:00.061Z
-updated: 2024-09-16T16:05:59.520Z
+date: 2024-09-14T16:04:48.981Z
+updated: 2024-09-21T16:02:28.612Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0f07282f1ae108dd24c44c29.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -239,6 +246,19 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -287,6 +307,19 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -326,6 +359,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -333,13 +373,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -359,13 +392,6 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -375,13 +401,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -416,13 +435,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -434,13 +446,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -493,6 +498,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -580,19 +592,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-optimize-your-instagram-posts-the-ultimate-guide-for-video-spinning/"><u>[New] Optimize Your Instagram Posts The Ultimate Guide for Video Spinning</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-chortle-to-text-funniest-tone-websites-guide-for-2024/"><u>[Updated] Chortle to Text Funniest Tone Websites Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-youtube-music-into-mp3-files-with-macos/"><u>[Updated] Turning YouTube Music Into MP3 Files with MacOS</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effortless-steps-to-transform-your-mts-videos-into-high-quality-avi-formats/"><u>Effortless Steps to Transform Your MTS Videos Into High-Quality AVI Formats</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-for-exceptional-tiktok-video-production/"><u>Expert Tips for Exceptional TikTok Video Production</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/guide-transforming-mp4-files-into-mp3-format-a-simple-step-by-step-process/"><u>Guide: Transforming MP4 Files Into MP3 Format - A Simple Step-by-Step Process</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-c51-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco C51 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stabilize-content-warning-application-and-prevent-pc-freezes-during-use/"><u>How to Stabilize 'Content Warning' Application and Prevent PC Freezes During Use</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/hppcdvd/"><u>HPノートPC用DVD再生ガイドとトラブルシューティング</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-5-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 5 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/iphoneandroid-dvd/"><u>IPhone・Android用: DVD映像データ取り込みガイド</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/master-the-art-of-saving-newgrounds-videos-online-learn-these-3-hassle-free-strategies-today/"><u>Master the Art of Saving Newgrounds Videos Online - Learn These 3 Hassle-Free Strategies Today!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors/"><u>Master Your Captions The Top 10 Precision Subtitle Editors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-7-best-video-joiners-with-no-watermark-or-logo/"><u>Updated 2024 Approved 7 Best Video Joiners with No Watermark or Logo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>[New] Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[Updated] 2024 Approved Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-auditory-allure-finding-perfect-background-sounds/"><u>[Updated] Auditory Allure Finding Perfect Background Sounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-vrs-negative-aspects/"><u>2024 Approved Navigating VR's Negative Aspects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nostalgia-frame-portraits-on-the-x-phone/"><u>2024 Approved Nostalgia Frame Portraits on the X Phone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/tiff-jpeg-movavi/"><u>無條件免費移動 TIFF 為 JPEG - 使用 Movavi 轉換工具</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calming-the-currents-of-pro-7s-display/"><u>Calming the Currents of Pro 7'S Display</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cambiar-archivos-mpeg-a-formato-aac-de-forma-gratuita-en-linea-con-movavi/"><u>Cambiar Archivos MPEG a Formato AAC De Forma Gratuita en Línea Con Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/die-besten-kostenlosen-screenshot-anwendungen-unter-windows/"><u>Die Besten Kostenlosen Screenshot-Anwendungen Unter Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-free-templates-for-mastering-after-effects/"><u>Essential FREE Templates for Mastering After Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-converter-from-flv-to-swf-use-movavi/"><u>Free Online Converter: From FLV to SWF - Use Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/guide-facile-transformer-vos-fichiers-ogm-en-mpeg-gratuitement-avec-movavi/"><u>Guide Facile: Transformer Vos Fichiers OGM en Mpeg Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/movavis-no-cost-file-converter-quickly-change-ogg-media-into-any-format-you-need/"><u>Movavi's No-Cost File Converter - Quickly Change OGG Media Into Any Format You Need</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/simple-guide-to-setting-up-your-iphone-slideshow-with-movavi/"><u>Simple Guide to Setting Up Your iPhone Slideshow with Movavi</u></a></li>
 </ul></div>
 
