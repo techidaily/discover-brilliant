@@ -1,7 +1,7 @@
 ---
 title: 6 Causes Fréquentes Du Désistement De L'onboarding Digital D'après Les Chefs Informaticiens Gouvernementaux
-date: 2024-08-25T23:57:35.789Z
-updated: 2024-08-26T23:57:35.789Z
+date: 2024-10-01T20:39:37.337Z
+updated: 2024-10-06T04:20:37.503Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1a53bbe9519d95b22a1c1295.jpg
@@ -56,6 +56,13 @@ Le rapport [The State of Intelligent Automation Report, Drivers and Pain Point f
 
 Cette étude a été menée par Sapio Research en septembre 2022 pour le compte d’ABBYY. L’enquête a été menée auprès de 1 623 décideurs informatiques au Royaume-Uni, aux États-Unis, en France, en Allemagne et au Japon et met en évidence les réponses des gouvernements sur les défis et les moteurs auxquels les organisations sont confrontées avec l’onboarding numérique. L’enquête a également inclus des réponses de décideurs informatiques dans les secteurs de la banque, de la finance, du transport et de la logistique.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 10 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -63,16 +70,23 @@ ABBYY est un acteur référent de l’Intelligent Process Automation. L’entrep
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![Bianca 110X110](https://static2.abbyy.com/abbyycommedia/36222/bianca-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 _ABBYY_
@@ -87,8 +101,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +108,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[Updated] 2024 Approved Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-macs-gif-mastery-top-10-recorder-guide-for-2024/"><u>[Updated] Mac's GIF Mastery Top 10 Recorder Guide for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-subtitle-extraction-from-zip-archives-the-srt-solution/"><u>[Updated] Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465441484-9-quick-fixes-for-common-iphone-voicemail-issues-get-started-now/"><u>9 Quick Fixes for Common iPhone Voicemail Issues - Get Started Now!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-mkv-video-converters-of-2023-top-picks-and-updates/"><u>Best MKV Video Converters of 2023: Top Picks and Updates</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-video-format-converters-from-dvd-to-avi-for-windows-11-operating-system-2024-edition/"><u>Best Video Format Converters From DVD to AVI for Windows 11 Operating System, 2024 Edition</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/bilibilimp4bilibili-mp4/"><u>BilibiliからMP4フォーマットへのダウンロード手順「Bilibili MP4変換」</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/can-iphones-natively-handle-hevc-format-ensuring-seamless-playback-of-hevc-videos-on-ios/"><u>Can iPhones Natively Handle HEVC Format? Ensuring Seamless Playback of HEVC Videos on iOS</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/can-you-spin-videos-in-windows-media-player-understanding-the-capabilities/"><u>Can You Spin Videos in Windows Media Player? Understanding the Capabilities.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-find-n3-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo Find N3</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-screen-capture-in-steam-games/"><u>Optimizing Screen Capture in Steam Games</u></a></li>
+</ul></div>
 

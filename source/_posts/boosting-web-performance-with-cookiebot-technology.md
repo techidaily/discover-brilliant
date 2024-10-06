@@ -1,7 +1,7 @@
 ---
 title: Boosting Web Performance with Cookiebot Technology
-date: 2024-08-25T23:54:09.247Z
-updated: 2024-08-26T23:54:09.247Z
+date: 2024-10-05T03:10:16.116Z
+updated: 2024-10-06T05:15:57.457Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dbe86ec4eee57de28307f7a87e5d2dc26b222d4d704a45568094d723e05d6df4.jpg
@@ -34,8 +34,18 @@ Les répercussions d’un onboarding déficient sur les activités des entrepris
 ![infographic-onboarding-survey-fr](https://static1.abbyy.com/abbyycommedia/36369/infographic-onboarding-survey-fr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 23% des décideurs informatiques envisagent d’implémenter des technologies de Process Intelligence pour optimiser leur onboarding
 
 Pour optimiser leurs processus d'onboarding, les entreprises doivent s’appuyer sur des technologies qui permettent d'automatiser au maximum leurs opérations afin de les rendre plus efficaces. Elles doivent également pouvoir proposer un accompagnement humain dans la mise en place de ce processus. En combinant ces deux facteurs (technologie et humains), les entreprises offrent à leurs clients une expérience d’utilisation améliorée et gagnent ainsi en résilience. L’étude rapporte qu'aujourd'hui 85% des entreprises ont une stratégie d'onboarding alliant de l’humain et de la technologie. Seules 9% s’appuient à 100% sur le digital, et 4% sur l’humain.
@@ -43,8 +53,12 @@ Pour optimiser leurs processus d'onboarding, les entreprises doivent s’appuyer
 Dans le contexte inflationniste actuel, les organisations mesurent l’importance de l’onboarding. Pour limiter les effets négatifs qui pourraient l’affecter, celles-ci s'appuient sur des technologies de pointe. Les décideurs informatiques français sont 24% à avoir digitalisé la vérification d’identité, 24% utilisent des solutions d’Intelligent Document Processing et 20% des outils de RPA. À l'avenir, ils envisagent d’implémenter encore davantage ces solutions, notamment le Process Intelligence (23%) et la vérification d’identité (19%).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 40% des entreprises pensent qu’avec un taux d'abandon réduit de 50% elles pourraient augmenter leurs revenus d’au moins 30%
 
 L’étude a permis de montrer que les organisations attendent qu’un meilleur onboarding améliore l’expérience utilisateur (31%), réduise le taux d'abandon (30%), attire de nouveaux clients (27%) et les fidélise (24%). Mais les entreprises ne pensent pas seulement aux bénéfices induits pour leurs clients mais également aux avantages pour leurs collaborateurs. Ainsi, l’amélioration du processus d’onboarding contribue à améliorer l’ensemble des interactions entre les collaborateurs et les clients (25%), et permet de réduire le travail pour les employés (24%).
@@ -59,33 +73,40 @@ _Hervé Laurandin, Directeur France chez ABBYY._
 
 Le nouveau rapport ABBYY State of Intelligent Automation vous donne un aperçu supplémentaire des moteurs et des contraintes de l'onboarding et vous montre comment vous pouvez mieux répondre aux attentes de vos clients. [Téléchargez le rapport détaillé ici](https://tools.techidaily.com/abbyy/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Methodology
 
 Méthodologie : Cette étude a été menée par Sapio Research en octobre 2022 pour ABBYY auprès de 1 623 décideurs informatiques dans les secteurs des services financiers, de l'assurance, de la supply chain, du transport et de la logistique, des services publics et de la santé au Royaume-Uni, aux États-Unis, en France, en Allemagne et au Japon.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 10 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
 
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Contact presse
 
 ![02E Eva Mariahufschmitt](https://static4.abbyy.com/abbyycommedia/23663/02e-eva-mariahufschmitt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Eva-Maria Hufschmitt
 
 _ABBYY_
@@ -100,8 +121,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +128,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-brilliant.techidaily.com/10-effective-methods-for-converting-dvd-content-into-mp4-format-on-both-windows-and-mac-systems/"><u>10 Effective Methods for Converting DVD Content Into MP4 Format on Both Windows and Mac Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-interior-illumination-through-natural-sun-exposure/"><u>2024 Approved Interior Illumination Through Natural Sun Exposure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-instagrams-posting-video-count/"><u>2024 Approved Navigating Instagram's Posting Video Count</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-video-encoders-of-2021-free-cross-platform-solutions-for-windows-and-mac-users/"><u>Best Video Encoders of 2021: Free, Cross-Platform Solutions for Windows and Mac Users</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/download-free-winx-movie-editor-official-site-for-secure-and-legal-software/"><u>Download Free WinX Movie Editor: Official Site for Secure and Legal Software</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/elevate-ultra-hd-quality-efficient-4k-hevch2-grokking-through-hardware-assisted-processing/"><u>Elevate Ultra HD Quality: Efficient 4K HEVC/H.2 Grokking Through Hardware-Assisted Processing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-wmv-to-mp3-converter-professioneel-online-tool-by-movavi/"><u>Gratis WMV-to-MP3 Converter: Professioneel Online Tool by Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/hevc-codec-and-the-ps4-can-you-watch-encoded-videos-on-sonys-entertainment-system/"><u>HEVC Codec and the PS4: Can You Watch Encoded Videos on Sony's Entertainment System?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-downloading-youtubes-iconic-icons-via-web-windowsmac-methods/"><u>In 2024, Downloading YouTube's Iconic Icons via Web, Windows/Mac Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>In 2024, Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/instructions-detaillees-pour-utiliser-et-configurer-le-codec-nvenc-en-integrant-handbrake/"><u>Instructions Détaillées Pour Utiliser Et Configurer Le Codec NVENC en Intégrant HandBrake.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-method-for-uploading-pictures-from-an-aged-iphone-to-the-latest-iphone-x-using-a-mac-computer/"><u>Step-by-Step Method for Uploading Pictures From an Aged iPhone to the Latest iPhone X Using a Mac Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-stalling-spotify-connectivity/"><u>Swift Remedies for Stalling Spotify Connectivity</u></a></li>
+</ul></div>
 

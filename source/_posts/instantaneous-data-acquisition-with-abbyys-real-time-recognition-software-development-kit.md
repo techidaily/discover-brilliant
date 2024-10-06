@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Data Acquisition with ABBYY's Real-Time Recognition Software Development Kit
-date: 2024-08-25T23:54:34.507Z
-updated: 2024-08-26T23:54:34.507Z
+date: 2024-09-28T16:22:38.352Z
+updated: 2024-10-05T23:13:57.743Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588bbed170087f473de1cb604a.jpg
@@ -59,8 +59,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,7 +66,37 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-filching-frames-from-films-for-windows-10-photos-collection/"><u>[New] 2024 Approved Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-apowersoft-picks-top-pc-screen-recorder-reviewed-for-2024/"><u>[New] Apowersoft Picks Top PC Screen Recorder Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>[New] In 2024, The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-boost-your-meeting-impact-with-efficient-screen-sharing/"><u>2024 Approved Boost Your Meeting Impact with Efficient Screen Sharing</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/404-error-page-missing-digital-artistry-solutions/"><u>404 Error: Page Missing - Digital Artistry Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ace-interviews-the-ultimate-guide-to-writing-cover-letters-via-chatgpt/"><u>Ace Interviews: The Ultimate Guide to Writing Cover Letters via ChatGPT</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/buy-a-full-license-for-winxvideo-ai-exclusive-offer-and-premium-features/"><u>Buy a Full License for Winxvideo AI: Exclusive Offer & Premium Features</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enabling-nvidias-nvenc-codec-a-comprehensive-guide-for-handbrake-users/"><u>Enabling NVIDIA's NVENC Codec: A Comprehensive Guide for Handbrake Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-online-avi-beelten-naar-flac-mooi-en-efficient-met-movavi/"><u>Gratuit Online AVI-Beelten Naar FLAC - Mooi en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-significantly-reduce-the-size-of-high-definition-4k-and-8k-video-files-by-up-to-90/"><u>How to Significantly Reduce the Size of High-Definition, 4K, and 8K Video Files by Up to 90%</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1725287585148-iphone/"><u>IPhoneでジャニーズソングをダウンロードしてお待ちしてます！</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-quick-video-downsizing-techniques-utilizing-the-power-of-7-zip-software/"><u>Mastering Quick Video Downsizing Techniques Utilizing the Power of 7-Zip Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-10-sichere-und-schnelle-videokonverteranwendungen-fur-windows-10-und-windows-11-auflistung/"><u>Top 10 Sichere Und Schnelle Videokonverteranwendungen Für Windows 10 Und Windows 11 - Auflistung</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>Updated Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/winx-dvd-ripper-complete-edition-updated-history-and-new-capabilities-revealed/"><u>WinX DVD Ripper Complete Edition Updated History & New Capabilities Revealed</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

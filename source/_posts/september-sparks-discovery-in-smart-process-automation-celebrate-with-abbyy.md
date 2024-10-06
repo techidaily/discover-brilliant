@@ -1,7 +1,7 @@
 ---
 title: "September Sparks Discovery in Smart Process Automation: Celebrate With ABBYY"
-date: 2024-08-25T23:56:35.513Z
-updated: 2024-08-26T23:56:35.513Z
+date: 2024-10-04T20:21:05.690Z
+updated: 2024-10-06T05:45:29.187Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf98e48829cdc79a65c4caf17b.jpg
@@ -25,6 +25,13 @@ There’s fear of being left behind, worries about jumping in too quickly, and c
 
 ABBYY is here to help. We’ve decided to dedicate the entire month of September to explaining how AI is being used to automate business processes and guide successful intelligent automation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Welcome to Intelligent Automation Month
 
 We’ve joined forces with other industry influencers and advocates to highlight how AI solutions such as intelligent document processing (IDP), robotic process automation (RPA), process intelligence, and generative AI are putting your information to work, so you can achieve operational excellence and accelerate business outcomes.
@@ -32,8 +39,12 @@ We’ve joined forces with other industry influencers and advocates to highlight
 You’ll gain market insights that will help you focus your digital transformation initiatives, learn how to make a business case for C-suite buy-in, and get tips for championing workforce adoption. Additionally, innovation leaders who are currently spearheading transformation within their companies will candidly share their best practices and lessons learned. These are online sessions that you won’t want to miss.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### September is Intelligent Automation Month
 
 Watch a series of expert-led webinars to learn how the latest AI advancements are powering intelligent automation and changing the future of work globally.
@@ -53,9 +64,12 @@ We hope you’ll join us at these upcoming industry-wide online events. Register
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -65,8 +79,12 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -121,8 +139,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +146,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-detailed-guide-to-whatsapps-audio-chat-features/"><u>[New] 2024 Approved Detailed Guide to WhatsApp's Audio Chat Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-grid-artistry-at-its-peak-the-definitive-10-for-insta-posts/"><u>[New] In 2024, Grid Artistry at Its Peak The Definitive 10 for Insta Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplifying-video-content-on-vimeo-with-right-plan-selection/"><u>[Updated] Simplifying Video Content on Vimeo with Right Plan Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[Updated] The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ipodappletvdvdx-ipod-dvd-rip-macmp4/"><u>最適なiPod・AppleTV用DVD変換ソフト「マックX iPod DVD Rip」: Macで簡単MP4への高品質ダイレクトコンバージョン</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/easy-installation-of-playbox-on-iphoneipad-official-guide-without-jailbreaking/"><u>Easy Installation of PlayBox on iPhone/iPad: Official Guide Without Jailbreaking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei Lock Screen Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-iphones-mp3-fix-6-free-tools-to-convert-youtube-audio/"><u>In 2024, Your iPhone's MP3 Fix 6 Free Tools to Convert YouTube Audio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/instant-hd-fb-content-downloader-for-2024/"><u>Instant HD FB Content Downloader for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724766774970-itunes/"><u>ITunes 楽曲が見落とされた時の対処方法：保存版に集約した４つの解決策</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/key-contrasts-between-icloud-and-itunes-data-backup-solutions-which-one-fits-you-best/"><u>Key Contrasts Between iCloud & iTunes Data Backup Solutions - Which One Fits You Best?</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724766401665-macx-mediatrans/"><u>MacX MediaTrans購入ガイド: 専用ライセンスを安全に確認してご利用ください!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-cities-skylines-11-release-hurdle-launch-fixes-revealed/"><u>Overcoming the Cities: Skylines 11 Release Hurdle: Launch Fixes Revealed</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-guide-upgrading-from-h264-to-hevc-format-using-ffmpeg/"><u>Step-by-Step Guide: Upgrading From H264 to HEVC Format Using FFmpeg</u></a></li>
+</ul></div>
 

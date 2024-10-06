@@ -1,7 +1,7 @@
 ---
 title: 1. ABBYY FlexiCapture Revolutionizes Invoice Management at Sportina Group
-date: 2024-08-25T23:55:48.233Z
-updated: 2024-08-26T23:55:48.233Z
+date: 2024-10-05T05:40:38.997Z
+updated: 2024-10-06T01:58:47.998Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f93e0ed73444604354277138.jpg
@@ -19,6 +19,13 @@ Other | Accounts Payable Automation
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ABBYY FlexiCapture for Invoices Transforms Sportina Group’s Invoice Processing
 
 Other | Accounts Payable Automation 
@@ -29,6 +36,13 @@ Other | Accounts Payable Automation
 
 ![Sportina Group](https://static1.abbyy.com/abbyycommedia/20182/sportina_logo-178x36.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 | Name         | Sportina Group           |
 | ------------ | ------------------------ |
 | Headquarters | Southeast Europe         |
@@ -38,6 +52,13 @@ Other | Accounts Payable Automation
 #### Partners Overview
 
 ![SOLUMA](https://static2.abbyy.com/abbyycommedia/20265/soluma-logo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name     | SOLUMA                                      |
 | -------- | ------------------------------------------- |
@@ -97,6 +118,13 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 
 [![Accounts Payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/20184/sportina-360x162.jpg)](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") [PDF Version](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") 
@@ -111,9 +139,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -126,8 +151,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +158,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-captivating-ig-stories-with-youtube-content/"><u>[New] Crafting Captivating IG Stories With YouTube Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elite-gamers-capturing-solutions/"><u>[Updated] 2024 Approved Elite Gamers' Capturing Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-screens-to-gifs-the-art-of-converting-vimeo-footage/"><u>[Updated] From Screens to Gifs The Art of Converting Vimeo Footage</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-optimizing-content-editing-youtube-descriptions-and-titles-for-growth/"><u>[Updated] In 2024, Optimizing Content Editing YouTube Descriptions & Titles for Growth</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tutorial-incorporate-snap-camera-in-microsoft-teams-chats-for-2024/"><u>[Updated] Quick Tutorial Incorporate Snap Camera in Microsoft Teams Chats for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[Updated] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abby-blog-ai-ocr/"><u>ABBY Blog: 成功確実のAI OCRベース帳票管理ソリューションに必要な鍵となる重要事項</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automated-with-cookiebot-enhance-your-website-traffic-and-analytics/"><u>Automated with Cookiebot: Enhance Your Website Traffic and Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-integration-elevating-web-analytics-and-marketing-success/"><u>Cookiebot Integration - Elevating Web Analytics and Marketing Success</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhancing-your-sites-traffic-and-engagement/"><u>Cookiebot-Enabled: Enhancing Your Site's Traffic and Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-your-ultimate-baking-companion/"><u>Cookiebot: Your Ultimate Baking Companion</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/custom-user-experiences-driven-by-advanced-cookiebot-solutions/"><u>Custom User Experiences Driven by Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-your-site-traffic-with-cookiebot-technology/"><u>Drive Your Site Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-mp4-to-mpeg-conversion-effortless-with-movavi-video-editor/"><u>Free Online MP4 to MPEG Conversion - Effortless with Movavi Video Editor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-ace-3-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus Ace 3 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463746769-stuck-in-the-same-ios-version-fix-it-with-our-nine-proven-update-hacks-for-your-apple-device/"><u>Stuck in the Same iOS Version? Fix It with Our Nine Proven Update Hacks for Your Apple Device.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-note-30-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Note 30 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

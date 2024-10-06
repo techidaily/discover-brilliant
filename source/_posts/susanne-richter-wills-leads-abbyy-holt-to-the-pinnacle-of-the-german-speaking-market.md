@@ -1,7 +1,7 @@
 ---
 title: Susanne Richter-Wills Leads ABBYY Holt to the Pinnacle of the German-Speaking Market
-date: 2024-08-25T23:53:59.994Z
-updated: 2024-08-26T23:53:59.994Z
+date: 2024-10-02T20:06:19.727Z
+updated: 2024-10-06T05:42:40.054Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685177239313164675ffec23d6.jpg
@@ -65,8 +65,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,7 +72,31 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-unmatched-value-top-tier-asmr-microphones-on-a-budget/"><u>[New] Unmatched Value Top-Tier ASMR Microphones on a Budget</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-instagram-reels-10-surprising-insights/"><u>[New] Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhance-smarts-with-these-premier-15-science-yts/"><u>[Updated] 2024 Approved Enhance Smarts with These Premier 15 Science YTs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-demystifying-the-anatomy-of-a-great-yt-short-video/"><u>[Updated] Demystifying the Anatomy of a Great YT Short Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>[Updated] Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-what-is-a-haul-video-and-how-to-edit-it-for-2024/"><u>[Updated] What Is a Haul Video and How to Edit It for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/discover-top-alternatives-to-netflix-unlock-exceptional-video-streaming-and-dvd-experiences/"><u>Discover Top Alternatives to Netflix: Unlock Exceptional Video Streaming & DVD Experiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-cheatsheet-to-craft-stunning-collage/"><u>Essential Cheatsheet to Craft Stunning Collage</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-macxdvd-software-download-offer-limited-time-trial-available-now/"><u>Free MacXDVD Software Download Offer: Limited Time Trial Available Now!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/h264-vs-prores-comparison-deciding-the-superior-codec/"><u>H.264 Vs ProRes Comparison: Deciding the Superior Codec</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-troubleshoot-and-resolve-issues-with-youtube-on-your-ipad/"><u>How to Troubleshoot and Resolve Issues with YouTube on Your iPad</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-g42-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia G42 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/portable-entertainment-made-easy-ripping-and-viewing-isos-on-an-ipad-or-ipad-mini-anywhere/"><u>Portable Entertainment Made Easy: Ripping & Viewing ISOs on an iPad or iPad Mini Anywhere</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/super-bowls-greatest-halftime-moments-viewing-guide-and-free-downloads-available-now/"><u>Super Bowl's Greatest Halftime Moments - Viewing Guide & Free Downloads Available Now</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-rated-free-mac-audio-transformer-optimal-sound-tools-in-2018/"><u>Top-Rated Free Mac Audio Transformer: Optimal Sound Tools in 2018</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transform-your-footage-easily-using-quicktime-editor-tips-for-trimming-dividing-spinning-and-amending-video-content/"><u>Transform Your Footage Easily Using QuickTime Editor: Tips for Trimming, Dividing, Spinning & Amending Video Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4top6-for-windowsmac-pc/"><u>ベストMP4ビデオプレイヤーTOP6 for WindowsとMac - シンプルにPCでの再生</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

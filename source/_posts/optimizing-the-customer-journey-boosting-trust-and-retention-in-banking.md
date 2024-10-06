@@ -1,7 +1,7 @@
 ---
 title: "Optimizing the Customer Journey: Boosting Trust & Retention in Banking"
-date: 2024-08-25T23:56:33.401Z
-updated: 2024-08-26T23:56:33.401Z
+date: 2024-10-04T03:15:21.763Z
+updated: 2024-10-06T05:01:04.963Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f1dce5c675f74afd09d13628.jpg
@@ -19,7 +19,21 @@ February 15, 2023 | English
 
 ![Brian Hettinger 165X165](https://static4.abbyy.com/abbyycommedia/35123/logo-2021-90x27.svg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Brian Hettinger 165X165](https://static4.abbyy.com/abbyycommedia/36481/brian-hettinger-165x165.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Brian Hettinger
 
@@ -28,9 +42,19 @@ Senior Director, Product Marketing - Mobility, **ABBYY**
 ![Chris Skinner 198X198](https://static4.abbyy.com/abbyycommedia/36826/chris-skinner-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Chris Skinner
 
 CEO, **The Finanser**
@@ -38,8 +62,12 @@ CEO, **The Finanser**
 ![Mike Sisk 198X198](https://static5.abbyy.com/abbyycommedia/36827/mike-sisk-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Mike Sisk
 
 Contributing Editor, **American Banker**
@@ -56,34 +84,17 @@ In this session we’ll discuss how to:
 * Reduce fraud and mitigate risk, while improving overall outcomes of revenue acceleration
 * Expedite process automation with intelligent data capture and extraction
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Watch now
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Thank you, enjoy your webinar!
 
 [![ABBYY Proof of Identity - A Better Way to Secure (and Easy) Customer Onboarding](https://static5.abbyy.com/abbyycommedia/36828/eliminate-friction-643-363.png)](https://www.youtube.com/watch?v=8XepjAXTi2A) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
@@ -142,8 +153,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +160,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>[New] In 2024, Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cost-effective-recorder-selections-for-youtube-vloggers-for-2024/"><u>[Updated] Cost-Effective Recorder Selections for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mac-enthusiasts-take-on-screenflow-software-review-for-2024/"><u>[Updated] Mac Enthusiast's Take on ScreenFlow Software Review for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-telltale-signs-your-chat-is-hidden-for-2024/"><u>[Updated] Telltale Signs Your Chat Is Hidden for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-high-display-proportional-gaming-tools/"><u>Advanced High Display Proportional Gaming Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-a05-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Galaxy A05 has native HEVC support?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-sound-systems-up-and-running-again-innovative-approaches/"><u>How to Get Your Sound Systems Up and Running Again [Innovative Approaches]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pixel-power-streaming-strategies-in-the-software-vs-hardware-arena/"><u>Pixel Power Streaming Strategies in the Software vs Hardware Arena</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/solving-youtube-download-issues-and-faulty-playbacks-on-macos-a-step-by-step-guide/"><u>Solving YouTube Download Issues & Faulty Playbacks on macOS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-h265hevc-video-compression-tools-a-guide-to-efficiently-encoding-hd-and-4k-content/"><u>Top H.265/HEVC Video Compression Tools: A Guide to Efficiently Encoding HD and 4K Content</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-video-transcoding-solutions-superior-alternatives-to-zamzar/"><u>Top Video Transcoding Solutions: Superior Alternatives to Zamzar</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-to-transforming-mov-files-seamlessly-switch-between-mp4-avi-wmv-on-any-device/"><u>Ultimate Guide to Transforming MOV Files: Seamlessly Switch Between MP4, AVI, WMV on Any Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-most-wanted-android-apps-on-google-play-for-2024/"><u>Updated The Most Wanted Android Apps on Google Play for 2024</u></a></li>
+</ul></div>
 

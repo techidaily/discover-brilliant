@@ -1,7 +1,7 @@
 ---
 title: "ABBYY : Introduit NeoML, Sa Solution Open Source Révolutionnaire Pour Les Applications IA"
-date: 2024-08-25T23:55:50.926Z
-updated: 2024-08-26T23:55:50.926Z
+date: 2024-10-01T01:07:03.822Z
+updated: 2024-10-05T18:05:28.607Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg
@@ -60,8 +60,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,7 +67,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-free-nba-action-at-home-the-best-15-ways-to-watch-games-online/"><u>[New] Free NBA Action at Home The Best 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-media-professionals-recommendations-best-5-web-video-recorders/"><u>[New] Media Professionals' Recommendations Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screen-capture-showdown-obs-vs-shadow-for-2024/"><u>[New] Screen Capture Showdown OBS vs Shadow for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-speaker-change-devices-for-youtube-gurus-for-2024/"><u>[Updated] Expert Speaker Change Devices for YouTube Gurus for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-peaceful-pc-game-list/"><u>[Updated] In 2024, Essential Peaceful PC Game List</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-unveils-advanced-finereader-engine-12-an-all-encompassing-ocr-sdk-perfect-for-digital-and-cloud-applications/"><u>ABBYY Unveils Advanced FineReader Engine 12: An All-Encompassing OCR SDK Perfect for Digital & Cloud Applications</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ais-role-in-navigating-the-libor-shift-insights-from-abbyy/"><u>AI's Role in Navigating the LIBOR Shift - Insights From ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automated-consent-management-with-the-power-of-cookiebot/"><u>Automated Consent Management with the Power of Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-online-engagement-with-our-advanced-cookiebot-solutions/"><u>Boost Online Engagement with Our Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-site-traffic-with-cookiebot-technology-integration/"><u>Boost Site Traffic with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-web-analytics-with-cookiebot-integration-enhance-user-experience-and-data-collection/"><u>Boost Web Analytics with Cookiebot Integration - Enhance User Experience & Data Collection</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-your-sites-engagement-with-our-cookiebot-technology-for-tailored-content-delivery/"><u>Boost Your Site's Engagement with Our Cookiebot Technology for Tailored Content Delivery</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comparing-process-insights-distinguishing-process-intelligence-from-traditional-business-analytics/"><u>Comparing Process Insights: Distinguishing Process Intelligence From Traditional Business Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookie-based-personalization-and-conversion-boost-services/"><u>Cookie-Based Personalization and Conversion Boost Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-delirium-identifying-fake-insights-amongst-ai-generations/"><u>Detecting Delirium: Identifying Fake Insights Amongst AI Generations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-netgear-nighthawk-x6-wi-fi-mesh-extender-shapes-your-home-internet-an-authoritative-review/"><u>How the Netgear Nighthawk X6 Wi-Fi Mesh Extender Shapes Your Home Internet: An Authoritative Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ideas-to-enhance-the-visibility-of-fb-ad-videos-for-2024/"><u>Ideas to Enhance the Visibility of FB Ad Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/synchronized-social-platforms-a-new-intersection-for-fb-and-insta/"><u>Synchronized Social Platforms: A New Intersection for FB & Insta</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-roadmap-to-accessing-costless-frame-videos/"><u>The Roadmap to Accessing Costless Frame Videos</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

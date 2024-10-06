@@ -1,7 +1,7 @@
 ---
 title: "Elevating to Excellence: How ABBYY FlexiCapture Transforms YUM China's Shared Service Center Efficiency"
-date: 2024-08-25T23:56:16.486Z
-updated: 2024-08-26T23:56:16.486Z
+date: 2024-10-01T18:04:24.473Z
+updated: 2024-10-06T05:04:13.873Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
@@ -25,9 +25,23 @@ Other | Accounts Payable Automation
 
 ![](https://static1.abbyy.com/abbyycommedia/15241/yum-pic1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![YUM! Restaurants (China)](https://static2.abbyy.com/abbyycommedia/15227/yum-logo.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name         | YUM! Restaurants (China)                                          |
 | ------------ | ----------------------------------------------------------------- |
@@ -61,23 +75,14 @@ YUM! Restaurants (China) is the Shanghai-based Chinese division of the internati
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **16**
 
 offices in China
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **9** times less
 
 people in charge
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **20,000**
 
  invoices processed per day
@@ -118,19 +123,27 @@ Moreover, ABBYY software has enabled the company to release the workforce, signi
 
 [![07a-case-extra-product](https://static4.abbyy.com/abbyycommedia/21381/07a-case-extra-product.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![yum-pic2](https://static2.abbyy.com/abbyycommedia/15242/yum-pic2.jpg)](https://static4.abbyy.com/abbyycommedia/11517/case-study-yum-wholesale-and-retail-en.pdf "PDF version") [PDF version](https://static4.abbyy.com/abbyycommedia/11517/case-study-yum-wholesale-and-retail-en.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [read more](https://static4.abbyy.com/abbyycommedia/11517/case-study-yum-wholesale-and-retail-en.pdf "PDF version") 
 
@@ -142,9 +155,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -157,8 +167,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +174,26 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-vault-selection-for-top-corporate-use/"><u>[New] 2024 Approved Vault Selection for Top Corporate Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-improve-conference-efficiency-webcam-assisted-powerpoint/"><u>[Updated] 2024 Approved Improve Conference Efficiency Webcam-Assisted PowerPoint</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-flaunt-your-funny-side-the-art-of-using-cartoon-snaps-on-snapchat/"><u>[Updated] Flaunt Your Funny Side The Art of Using Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-video-appeal-crafting-unforgettable-thumbnail-images/"><u>2024 Approved Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-gopro-selection-a-comparative-review/"><u>2024 Approved Mastering Gopro Selection A Comparative Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-celebrates-remarkable-achievement-with-60-surge-in-yearly-earnings-honored-on-the-idcs-global-marketscape/"><u>ABBYY Celebrates Remarkable Achievement with 60% Surge in Yearly Earnings – Honored on the IDC's Global MarketScape</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-expands-collaboration-with-lifeboat-distributors-across-the-netherlands-belgium-and-luxembourg/"><u>ABBYY Expands Collaboration with Lifeboat Distributors Across The Netherlands, Belgium & Luxembourg</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-speeds-up-fdas-mission-for-enhanced-public-wellness-in-the-usa/"><u>ABBYY Speeds Up FDA's Mission for Enhanced Public Wellness in the USA</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-welcomes-clayton-c-peddy-in-role-of-chief-information-security-officer/"><u>ABBYY Welcomes Clayton C. Peddy in Role of Chief Information Security Officer</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-vk-insights-into-russias-social-media-world/"><u>Decoding VK: Insights Into Russia's Social Media World</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-visual-narratives-merging-photography-and-videography-using-pixiz/"><u>Discovering Visual Narratives Merging Photography and Videography Using Pixiz</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-social-medias-survivor-the-case-for-facebook/"><u>Dissecting Social Media's Survivor - The Case for Facebook</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-11-ready-to-use-technical-abilities-in-the-field-of-transport-and-logistic-services/"><u>Top 11 Ready-to-Use Technical Abilities in the Field of Transport and Logistic Services</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-ranked-abbyy-on-gartners-2n24-magic-quadrant-for-process-mining-platforms/"><u>Top-Ranked ABBYY on Gartner's 2N24 Magic Quadrant for Process Mining Platforms</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/unleashing-potential-for-progress-at-relemar-via-abbyy-flexicapture-integration/"><u>Unleashing Potential for Progress at Relemar via ABBYY FlexiCapture Integration</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-potential-editing-after-the-upload-process/"><u>Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/utilizing-cookiebot-technology-for-tailored-content-delivery-on-websites/"><u>Utilizing Cookiebot Technology for Tailored Content Delivery on Websites</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/utilizing-cookiebot-technology-revolutionize-online-engagement-and-data-insights-for-effective-marketing-strategies/"><u>Utilizing Cookiebot Technology: Revolutionize Online Engagement and Data Insights for Effective Marketing Strategies</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leading Document Management Firm ABBYY Promotes Jae Park to Sales Head in APAC Territory
-date: 2024-08-30T11:23:19.495Z
-updated: 2024-08-31T11:23:19.495Z
+date: 2024-09-28T21:53:05.597Z
+updated: 2024-10-05T20:03:40.878Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg
@@ -35,6 +35,13 @@ Jae Park, Vice President of Sales (APAC)
 
 For more information about ABBYY intelligent automation solutions, visit [www.abbyy.com](https://tools.techidaily.com/abbyy/products/).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY puts your information to work. We combine innovation and experience to transform data from business-critical documents into intelligent actionable outcomes in over 200 languages in real time. We enable more than 10,000 companies globally, including many of the Fortune 500, to drive significant impact where it matters most: customer experience, operational excellence, and competitive advantage. ABBYY is a global company with headquarters in Milpitas, CA and offices in 12 countries, and is the [Official Intelligent Automation Partner of Arsenal Women Football Club](https://tools.techidaily.com/abbyy/products/). For more information, visit [www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/) and follow us on [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware) and [Facebook](https://www.facebook.com/ABBYYsoft).
@@ -42,15 +49,23 @@ ABBYY puts your information to work. We combine innovation and experience to tra
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -66,8 +81,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -75,4 +88,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-next-level-content-creation-tools-post-vimeo/"><u>[New] Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>[Updated] 2024 Approved Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-seamlessly-incorporating-yt-clips-in-slideshows-via-ppt/"><u>[Updated] In 2024, Seamlessly Incorporating YT Clips in Slideshows via PPT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/bereik-gratuite-online-qt-to-mov-conversie-met-movavi/"><u>Bereik Gratuite Online QT-to-MOV-Conversie Met Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/descargar-y-convertir-archivos-vob-a-mp4-sin-coste-alguno-con-movavi/"><u>Descargar Y Convertir Archivos VOB a MP4 Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/navigating-the-intricacies-of-remborsi-con-movavi-essential-policy-insights/"><u>Navigating the Intricacies of Remborsi Con Movavi: Essential Policy Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-20-proplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark 20 Pro+ Device</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-to-stunning-flatlay-images-expert-techniques-and-creative-ideas/"><u>Ultimate Guide to Stunning Flatlay Images: Expert Techniques and Creative Ideas</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/3g2-mpeg-movavi/"><u>오프라인 부스트 매니펛에트: 무료 3G2 MPEG 으로의 전환 - Movavi</u></a></li>
+</ul></div>
 

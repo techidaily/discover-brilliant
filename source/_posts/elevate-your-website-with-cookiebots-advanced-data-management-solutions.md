@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Website with Cookiebot's Advanced Data Management Solutions
-date: 2024-08-25T23:58:04.796Z
-updated: 2024-08-26T23:58:04.796Z
+date: 2024-09-28T21:44:21.100Z
+updated: 2024-10-05T16:25:25.202Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
@@ -35,6 +35,13 @@ So let’s talk a minute about contract language and how it is holding the banki
 
 AI with ML has been much hyped in recent years, but it often sounds like a solution looking for a problem. AI, in simple terms, is building computer programs (also called ‘computer vision’) to help them find, interpret, make decisions, and take action on complex language embedded in a corpus of data or documents as expert or highly-trained users would. Far from being a replacement for high-paid skilled labor, such as attorneys, paralegals, analysts and consultants, AI with ML helps them scale to global challenges such as LIBOR phase out.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Named entity recognition & extraction has advanced
 
 A particularly useful application of AI for LIBOR transition is recent advancements in **named entity extraction**, whereby AI-based programs can learn how to recognize legal entities in the corpus of contracts and related documents. An entity is a specific person, place, and/or action that is composed of multiple data fields that can be found anywhere in a contract. Often implied and never in a predictable place, named entities can be particularly vexing for legal experts to find as they plow through mountains of contracts.
@@ -42,6 +49,13 @@ A particularly useful application of AI for LIBOR transition is recent advanceme
 LIBOR rates, clauses, and affected parties are all entities in contracts that are rarely expressed in the same way within a single contract, let alone a single bank’s thousands of such contracts. But AI with machine learning can learn all of the permutations of these entities, including all of the stated and implied references to such entities, but can identify and understand them in seconds on a machine while a legal expert could take an hour or more to perform the same review. But AI does not get tired or distracted, like humans can, and can deliver results more consistently across thousands of documents.
 
 ![Why AI Matters in LIBOR Transition](https://static1.abbyy.com/abbyycommedia/28998/11986_picture_848x444.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 With recent advancements in named entity recognition and extraction techniques, such as the ability of data scientists and legal experts to train the software with comprehensive taxonomies and variations (thesaurus, legal codes, aliases), modern AI solutions can be in production in a matter of days or weeks at a fraction of the cost of hiring an army of consultants and legal teams to do the work. LIBOR remediation experts can now help train their ‘virtual legal team’ of AI/ML software and supporting RPA bots to be their army of expert assistants to find, remediate, or flag for additional review all the impacted contracts and legal business entities.
 
@@ -57,11 +71,28 @@ i _Sinead Cruise, Lawrence White, ‘The End of LIBOR: The Biggest Banking Chall
 
 ![Reggie Twigg ABBYY](https://static4.abbyy.com/abbyycommedia/25636/02c-reggietwigg-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Reginald J. Twigg
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -116,8 +147,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +154,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/fixed-diablo-immortal-keeps-crashing-pc-guide-2024/"><u>[FIXED] Diablo Immortal Keeps Crashing – PC Guide 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-direct-transfer-techniques-camera-roll-images-to-snapchat/"><u>[New] Direct Transfer Techniques Camera Roll Images to Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-10-proven-techniques-for-skyrocketing-social-media-supporters/"><u>[Updated] In 2024, 10 Proven Techniques for Skyrocketing Social Media Supporters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-comprehensive-assessment-of-frozen-treats-on-display/"><u>[Updated] In 2024, Comprehensive Assessment of Frozen Treats on Display</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[Updated] In 2024, Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mpegaac-movevai/"><u>「オンラインで簡単! MPEGをAACに自由転送 - MoveVai」</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ttamp3movavi/"><u>線上即時TTA到MP3轉換：使用Movavi進行快速、無限制的音效改編</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hering-youtubes-new-earning-standards-for-2024/"><u>Deciphering YouTube's New Earning Standards for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effective-ways-to-minimize-picture-sizes-for-your-mac-discover-the-top-3-techniques/"><u>Effective Ways to Minimize Picture Sizes for Your Mac - Discover the Top 3 Techniques</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ga-den-basta-gratis-brandprogramvaran-top-6-for-windows-1087/"><u>Gå Den Bästa Gratis Brändprogramvaran - Top 6 För Windows 10/8/7</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/gratis-online-converter-webm-naar-mkv-bewerkt-door-movavi/"><u>Gratis Online Converter: WEBM Naar MKV Bewerkt Door Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-pro-max-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 Pro Max to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-40i-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 40i</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/telechargez-maintenant-et-convertissez-votre-fichier-mp2-en-mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-de-movavi/"><u>Téléchargez Maintenant Et Convertissez Votre Fichier MP2 en MP4 Gratuitement Sur La Plateforme De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mpeg-4/"><u>オンラインでのただ今お客様用 - MPEG-4形式へのフリー変換サービス</u></a></li>
+</ul></div>
 

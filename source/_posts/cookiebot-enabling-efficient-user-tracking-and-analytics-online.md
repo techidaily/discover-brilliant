@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: Enabling Efficient User Tracking and Analytics Online"
-date: 2024-08-25T23:55:08.743Z
-updated: 2024-08-26T23:55:08.743Z
+date: 2024-09-29T01:41:52.779Z
+updated: 2024-10-05T22:39:39.936Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
@@ -28,8 +28,12 @@ The true insights to be gained from this survey are not in pitting one industry�
 Government leaders are not unique but make clear what needs to be front and center of conversations about process: people. Processes are made to make people more productive, consistent and accountable, yet they so often are designed and budgeted around data, workflow, training technologies and not on usability. Government workers are knowledge workers, dedicated to solving problems for their constituents. In this context, the data reveal that the three most cited reasons why staff did not follow processes were to meet customer needs (44%), processes are too complex (38%) and not enough time to follow them (31%). This indicates that government employees are willing to take shortcuts in order to meet constituents’ expectations because the _processes aren’t working for them_.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## A Different Look at Process, Mining and Automation
 
 With the widespread adoption of robotic process automation (RPA) tools, a new wave of intelligent document processing and OCR tools, and with growing frequency, Process Mining, comes the expectation that processes can be made to work better with the right technologies. That is true to a point, but if those tools are not deployed with honest understanding of how people – knowledge workers in particular – rely on and use processes to assist their productivity, the results of such investments will be the same as with past technology trends. Instead, looking at processes not just as workflows of events and data but as _interactions_ between people, processes and content can yield a better approach.
@@ -41,8 +45,12 @@ _Process Intelligence_ is an innovative approach to mining processes to show and
 [![Infographic of Process Mining ABBYY Survey Results July 2020](https://static1.abbyy.com/abbyycommedia/29019/11982_infographics_process-mining_abbyy-survey_eng_300dpi-5.jpg)](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The data shown here illustrate that government workers do not get adequate decision and action support from their existing processes and systems to facilitate resolution fast enough, so they ‘go around them.’ Not unique to government, the primary reason why so many process automation solutions are failing (RPA, for example, where it is recognized that over 65% of these implementations are failing to achieve their goals) is because they do not adequately address how knowledge workers do their jobs. Process mining can be part of the same problem if it does not focus on work journeys.
 
 Solutions such as [Process Intelligence](https://tools.techidaily.com/abbyy/products/) enable organizations to discover, assess, visualize, analyze, and monitor process flows as interactions between people, processes and content. Powered by artificial intelligence and machine learning technologies, Process Intelligence delivers accurate, in-depth and real-time process discovery, analysis, and monitoring, which help automation leaders to accelerate digital transformation initiatives as facilitators of better decisions and customer service instead of just incremental efficiency gains with the status quo.
@@ -54,13 +62,21 @@ Learn more about [ABBYY solutions for government](https://tools.techidaily.com/a
 ![Reggie Twigg ABBYY](https://static4.abbyy.com/abbyycommedia/25636/02c-reggietwigg-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Reginald J. Twigg
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -115,8 +131,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +138,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-techniques-for-3d-text-transformation-in-ps/"><u>[New] Unveiling Techniques for 3D Text Transformation in PS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-android-sound-logging-without-need-for-rooting-for-2024/"><u>[Updated] Android Sound Logging Without Need for Rooting for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-best-free-video-downloader-apps-top-keekvid-substitutes/"><u>1. Best Free Video Downloader Apps: Top Keekvid Substitutes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-exploring-the-creme-de-la-creme-instas-influential-elite/"><u>2024 Approved Exploring the Crème De La Crème Insta's Influential Elite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-photoshop-shake-reduction-is-it-really-useful/"><u>2024 Approved Photoshop Shake Reduction - Is It Really Useful?</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726027647012-5/"><u>最高の5つの無料オーディオ変換ウェブサービス - オンラインボイス変更</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-future-of-ridesharing-tesla-robotaxi-pricing-and-release-details-unveiled/"><u>All You Need to Know About the Future of Ridesharing: Tesla Robotaxi Pricing & Release Details Unveiled!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/choreographing-climactic-crescendos/"><u>Choreographing Climactic Crescendos</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726028202018-dvdpc/"><u>DVD映像簡単なPCへの保管ガイド</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726030585890-dvdflac/"><u>DVDオーディオファイルから直接FLAC形式に移行する専門ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/image-enlargement-editor-for-media-files/"><u>Image Enlargement Editor for Media Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-depth-screen-capturing-a-resourceful-guide-for-dell-users-for-2024/"><u>In-Depth Screen Capturing A Resourceful Guide for Dell Users for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726028242391-pc/"><u>PC上で簡単にゲームの撮影テクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-leveraging-chatgpt-with-the-wolfram-alpha-extension/"><u>Top Strategies: Leveraging ChatGPT with the Wolfram Alpha Extension</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726029942609-twitter/"><u>Twitter動画がデジタルデバイスで再生しにくい問題とその修正手段</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-convert-paddington-2014-dvd-rip-to-all-devices-with-best-quality/"><u>Ultimate Guide: Convert Paddington (2014) DVD-Rip to All Devices with Best Quality</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-effortless-video-compression-techniques-for-perfect-whatsapp-shares/"><u>Ultimate Guide: Effortless Video Compression Techniques for Perfect WhatsApp Shares</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726029428943-wonderfox-dvd-ripper-pro-dvd/"><u>WonderFox DVD Ripper Pro: 全面仕上げのDVDコピーソフトウェア紹介</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028890848-youtubemp3/"><u>YouTubeでMP3ファイルのアップロード手順解説</u></a></li>
+</ul></div>
 

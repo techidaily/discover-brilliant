@@ -1,7 +1,7 @@
 ---
 title: "Découvrez L'automatisation Cognitive: La Clé Essentielle Pour Saisir Le Sens Des Contenus Avec ABBYY"
-date: 2024-08-25T23:54:17.716Z
-updated: 2024-08-26T23:54:17.716Z
+date: 2024-10-03T23:36:43.651Z
+updated: 2024-10-06T05:47:09.018Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd370c1eec84bd95b2e762714db.png
@@ -15,14 +15,24 @@ Livre blanc
 
 ![Le besoin incontournable de comprendre les contenus - Livre blanc d'ABBYY](https://static1.abbyy.com/abbyycommedia/33252/24c-inevitable-need-for-understanding-content-fr-262x340.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surmonter l’obstacle de l’automatisation des contenus non structurés, grâce à une approche no-code/low-code
 
 Les événements actuels ont intensifié la pression sur les organisations pour qu’elles intègrent la transformation numérique à leurs plans stratégiques. L’émergence de plateformes de développement low-code et no-code a permis l’essor de nouveaux « citizens developers », et des technologies comme la RPA ont été essentielles lors des premières phases du parcours de nombreuses organisations vers la transformation numérique. Face à de nouvelles urgences, les entreprises avancent maintenant rapidement vers la découverte et l’automatisation de processus plus complexes et de plus grande valeur. Ces processus importants touchent souvent les clients et impliquent inévitablement du contenu non structuré qui doit être traité intelligemment.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Télécharger maintenant!
 
 Téléchargez ce livre blanc pour en savoir plus sur :
@@ -35,8 +45,12 @@ Téléchargez ce livre blanc pour en savoir plus sur :
 Lisez ce livre blanc pour savoir comment les plateformes de traitement intelligent des documents comme ABBYY Vantage répondent à ce besoin et s’inscrivent dans ce nouveau paradigme low/no-code. Faciles à mettre en œuvre, elles satisfont les citizen developers et s’intègrent aux plateformes de RPA et BPM. Vous apprendrez également comment des éléments réutilisables du Marketplace ABBYY peuvent être rapidement utilisés dans de nouvelles initiatives d’automatisation pour vous permettre d’obtenir des résultats commerciaux visibles en peu de temps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Merci de votre intérêt pour ABBYY.
 
 [Lire le livre blanc](https://digital.abbyy.com/hubfs/content/whitepaper-vantage-need-for-understanding-content-fr.pdf "Lire le livre blanc") 
@@ -44,8 +58,12 @@ Lisez ce livre blanc pour savoir comment les plateformes de traitement intellige
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -106,8 +124,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +131,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-understanding-the-dynamics-behind-youtube-video-rankings/"><u>[New] 2024 Approved Understanding the Dynamics Behind YouTube Video Rankings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-3dr-solo-unveiling-the-single-user-experience/"><u>[Updated] In 2024, '3DR Solo' Unveiling the Single User Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-screen-scrapers-companion-easy-steps-to-save-tweets-visuals/"><u>[Updated] Screen Scrapers' Companion Easy Steps to Save Tweets' Visuals</u></a></li>
+<li><a href="https://discover-great.techidaily.com/iphoneitunesicloud/"><u>輕鬆搶先保存你的iPhone照片：超越iTunes和iCloud的優化雲夥伴選擇</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/all-about-handbrake-complete-user-manual-solutions-for-common-issues-and-other-video-converters/"><u>All About HandBrake: Complete User Manual, Solutions for Common Issues & Other Video Converters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/frame-it-right-mastering-instagram-video-edges/"><u>Frame It Right Mastering Instagram Video Edges</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/get-your-own-licensed-copy-of-winxvideo-ai-with-a-complimentary-upgrade-offer/"><u>Get Your Own Licensed Copy of WinxVideo AI with a Complimentary Upgrade Offer!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict-for-2024/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-resolve-the-black-display-issue-with-mkv-playback-on-windows-systems/"><u>How to Resolve the Black Display Issue with MKV Playback on Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-deleting-photos-from-your-facebook-account-with-ease/"><u>The Definitive Guide to Deleting Photos From Your Facebook Account with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-3-affordable-switch-game-duplicates-for-2024/"><u>Top 3 Affordable Switch Game Duplicates for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-3-ideal-vlogging-tools-mastering-your-videography-with-the-perfect-vlog-editor/"><u>Top 3 Ideal Vlogging Tools: Mastering Your Videography with the Perfect Vlog Editor</u></a></li>
+</ul></div>
 

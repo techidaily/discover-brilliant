@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Software's Role in Advancing Deutsche Post DHL’s Operational Excellence: Unveiling the Breakthroughs"
-date: 2024-08-25T23:55:53.096Z
-updated: 2024-08-26T23:55:53.096Z
+date: 2024-10-02T21:42:41.172Z
+updated: 2024-10-05T20:09:24.606Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628fb79ee748ce5191efb525e2.jpg
@@ -22,19 +22,27 @@ English
 ![Timo Neff](https://static1.abbyy.com/abbyycommedia/31906/timoneff-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Timo Neff
 
 Team Lead, Automation Designers & Architects Digitalization@GBS Program, Global Business Services, Deutsche Post, **DHL**
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Overview
 
 In the face of business continuity disruptions, one thing is undeniable – users expect quick results, reliable services, and digital accessibility. Organisations that respond to those demands with agility to improve customer service levels and productivity, with a focus on digital transformation will undoubtedly find success.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What you will learn
 
 In this video, Deutsche Post, DHL, shares how ABBYY modernised their shipping logistics and invoice processing operations for meeting the unprecedented challenges of our time to maximize efficiency, cash flow, and customer experience.
@@ -44,30 +52,32 @@ In this video, Deutsche Post, DHL, shares how ABBYY modernised their shipping lo
 * …learn how to mitigate risks in RPA technology and accelerate DHL’s transformation journey.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Watch now
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Thank you, enjoy your webinar.
 
 ### Check out some of the best moments and watch the full recording below.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -124,8 +134,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +141,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ultimate-guide-to-selecting-best-windows-screen-capture-tools/"><u>[New] In 2024, Ultimate Guide to Selecting Best Windows Screen Capture Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-solutions-boost-your-sites-user-engagement-and-seo-ranking/"><u>Cookiebot-Enabled Solutions: Boost Your Site's User Engagement and SEO Ranking</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-how-our-technology-boosts-your-sites-performance/"><u>Cookiebot-Enhanced Experience: How Our Technology Boosts Your Site's Performance</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-boost-your-websites-visibility-and-user-engagement/"><u>Cookiebot-Enhanced: Boost Your Website's Visibility & User Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-marketing-with-powerful-tracking-technology/"><u>Cookiebot: Enhanced Marketing with Powerful Tracking Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/critical-moments-addressed-navigating-documentation-issues-within-insurance-sectors/"><u>Critical Moments Addressed: Navigating Documentation Issues Within Insurance Sectors</u></a></li>
+<li><a href="https://techidaily.com/how-to-disable-pop-up-blocker-in-chrome-firefox-edge-and-ie/"><u>How to Disable Pop-Up Blocker in Chrome, Firefox, Edge and IE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-x50iplus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor X50i+ to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-x5-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco X5 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-nord-n30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Nord N30 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-moto-g-stylus-evaluation-impressive-functionality-with-satisfactory-battery-endurance/"><u>In-Depth Moto G Stylus Evaluation: Impressive Functionality with Satisfactory Battery Endurance</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-behind-the-scenes-a-detailed-guide-to-setting-up-and-recording-with-garageband-for-2024/"><u>New Behind the Scenes A Detailed Guide to Setting Up and Recording with GarageBand for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-release-nvidia-drivers-update-gtx-970-and-windows-11/"><u>New Release: Nvidia Drivers Update - GTX 970 & Windows 11</u></a></li>
+</ul></div>
 

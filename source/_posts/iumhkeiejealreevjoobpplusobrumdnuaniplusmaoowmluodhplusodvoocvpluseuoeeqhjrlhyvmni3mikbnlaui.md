@@ -1,7 +1,7 @@
 ---
 title: "金融業界での非構造化データ管理:克服戦略"
-date: 2024-08-25T23:54:37.678Z
-updated: 2024-08-26T23:54:37.678Z
+date: 2024-10-03T01:33:28.937Z
+updated: 2024-10-05T21:59:34.347Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 **[金融サービス向けのドキュメントスキルで、自動化の障害となる非構造化コンテンツを克服する。](https://static4.abbyy.com/abbyycommedia/34902/checklist-financialservices-documentskillsmarketplace-ja.pdf?itm%5Fsource=corpblog-ja)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 金融関係文書の自動作成における非構造化データ
 
 非構造化データを使用すれば、変化する顧客のニーズを把握することができるため、金融機関はトレンドを把握し、目的に合ったサービスを提供することができます。そして重要なのは、競争で優位性が保てることです。 しかし、構造化データと非構造化データの領域は大きく分かれており、自動化プロセスは主に、フィールド、データタイプ、およびパラメータが定義された構造化データベースファイルに重点を置いていました。
@@ -34,8 +41,12 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![workers using NLP in finance](https://static1.abbyy.com/abbyycommedia/34754/skills-for-finansial-services-2-848x444.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 金融における自然言語処理（NLP）
 
 自然言語処理（NLP）は、金融機関が非構造化文書から価値のあるデータや事実を発掘し、財務報告書、法的命令、定款、契約書、合意書、物件説明書、さらにはニュース、ブログ、およびソーシャルメディアのコンテンツなど、顧客に関する重要な詳細情報が含まれている可能性のある複雑な文書の面倒な調査を最適化するのに役立ちます。 これらの情報源からインサイトを得るためのソリューションとして、これまで手作業による調査が行われてきましたが、これは本質的に不正確で一貫性がなく、重要な詳細情報を見落とすリスクが高くなります。
@@ -43,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 これらのデータソースやその他のデータソースを効率的に分析し、非構造化データからインサイトを導き出すことができれば、銀行やその他の金融サービス機関が現在および将来の顧客について適切な判断を下すことができます。 このように活用されていないコンテンツから、有意義な情報を得られる可能性があります。
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 金融サービスにおける文書処理プロセスの自動化をお考えですか？
 
 当社にはそのためのスキルがあります。
 
 [ABBYY Marketplaceにアクセスする](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ABBYY Marketplaceのアプローチ方法
 
 Forresterによると、成功している金融機関は、パートナーの能力を活用して迅速に行動し、他者のイノベーションを利用します。 これこそが、まさに新しい[ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/)の背景にある考え方です。ABBYY Marketplaceは、企業の文書を処理・理解するための初のデジタルマーケットプレイスであり、スキル、コネクター、アセットを豊富に提供します。 米国のトップ銀行4行と多くのクラウドベースの企業が、数分ですぐに使用できる、使いやすく設定可能でプラグイン可能な当社のプラットフォームを使って、ビジネスユーザーとシチズンディベロッパーに対し業界最高レベルの文書およびコンテンツ処理を提供しています。
@@ -67,14 +78,15 @@ ABBYY VantageとMarketplaceには、ABBYYとABBYYパートナーが開発した�
 
 ![Cheryl Chiodi ABBYY](https://static4.abbyy.com/abbyycommedia/31818/cherylchiodi-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Cheryl Chiodi
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -129,8 +141,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +148,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-best-free-vob-players-for-pc-and-mac/"><u>[New] Best Free VOB Players for PC and Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5/"><u>[New] In 2024, Nikon's Masterpiece Unveiling The 4K Capabilities of J5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktok-to-twitter-sharing-videos/"><u>[New] TikTok to Twitter Sharing Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitterscape-in-focus-your-route-to-watching-hd-videos-for-2024/"><u>[New] Twitterscape in Focus Your Route to Watching HD Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chronicle-custodians-circle-top-7-treasures/"><u>[Updated] Chronicle Custodians Circle - Top 7 Treasures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-master-the-art-of-file-conversion-selecting-best-free-tools-for-instagram-videos-windowsosx-for-2024/"><u>[Updated] Master the Art of File Conversion Selecting Best Free Tools for Instagram Videos [Windows/OSX] for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-free-windows-11-dvd-ripper-software-of-2024-full-versions-available-for-download/"><u>Best Free Windows 11 DVD Ripper Software of 2024: Full Versions Available for Download</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comprehensive-tutorial-uploading-and-accessing-films-in-your-personal-plex-collection/"><u>Comprehensive Tutorial: Uploading and Accessing Films in Your Personal Plex Collection</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exclusive-offer-save-30-on-winx-dvd-ripper-pro-premium-version-mac-download-2023-promo-codes/"><u>Exclusive Offer: Save 30% on WinX DVD Ripper Pro Premium Version Mac Download - 2023 Promo Codes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-expansion-sharing-your-show-across-30-platforms/"><u>In 2024, Channel Expansion Sharing Your Show Across 30 Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-dvd-duplication-with-leawo-prof-media-a-complete-tutorial-on-copying-embedding-and-compressed-extracts/"><u>Mastering DVD Duplication with Leawo Prof. Media: A Complete Tutorial on Copying, Embedding & Compressed Extracts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-11-sound-capture-gadgets/"><u>Premier 11 Sound Capture Gadgets</u></a></li>
+</ul></div>
 

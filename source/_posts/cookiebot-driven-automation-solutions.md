@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Automation Solutions
-date: 2024-08-25T23:57:48.812Z
-updated: 2024-08-26T23:57:48.812Z
+date: 2024-10-04T03:46:53.421Z
+updated: 2024-10-06T01:57:05.844Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac27c609d7377dead2e886b5a.jpg
@@ -19,15 +19,36 @@ Other | Accounts Payable Automation
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ABBYY Solution Partner Automates Invoice Processing for a Large Housing Association 
 
 Other | Accounts Payable Automation 
 
 ![](https://static1.abbyy.com/abbyycommedia/15276/cs-hendre-556x303-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Hendre Group](https://static2.abbyy.com/abbyycommedia/14694/hendre-logo.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name                  | Hendre Group                                    |
 | --------------------- | ----------------------------------------------- |
@@ -111,8 +132,12 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -125,8 +150,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +157,19 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-holistic-motion-comprehensiveness-review/"><u>[New] In 2024, Holistic Motion Comprehensiveness Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>2024 Approved Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-12-video-streaming-platforms-you-shouldnt-miss/"><u>Best 12 Video Streaming Platforms You Shouldn't Miss</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a59-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A59 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cdpc/"><u>CD音源をPCに転送して記録するコツ</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comprehensive-tutorial-for-reducing-video-resolution-from-full-hd-and-hd-to-standard-definition-sd-480p/"><u>Comprehensive Tutorial for Reducing Video Resolution: From Full HD and HD to Standard Definition (SD, 480P)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designing-with-impact-the-leading-10-tools-in-graphic-design/"><u>Designing with Impact The Leading 10 Tools in Graphic Design</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/discover-the-leading-7-alternatives-for-securely-cracking-and-duplicating-dvd-content/"><u>Discover the Leading 7 Alternatives for Securely Cracking & Duplicating DVD Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-system-installing-latest-usb-to-hdmi-graphics-drivers/"><u>How to Upgrade Your System: Installing Latest USB to HDMI Graphics Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-syncing-a-logitech-mouse-with-computers-or-laptops/"><u>Step-by-Step Instructions for Syncing a Logitech Mouse with Computers or Laptops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/z7-camera-connoisseurs-guide-how-nearly-every-feature-excels/"><u>Z7 Camera Connoisseur's Guide: How Nearly Every Feature Excels</u></a></li>
+</ul></div>
 

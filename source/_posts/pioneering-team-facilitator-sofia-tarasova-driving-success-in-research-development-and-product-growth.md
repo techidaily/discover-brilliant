@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Team Facilitator Sofia Tarasova: Driving Success in Research, Development, and Product Growth"
-date: 2024-08-30T11:23:24.005Z
-updated: 2024-08-31T11:23:24.005Z
+date: 2024-10-01T01:09:15.663Z
+updated: 2024-10-06T05:47:25.968Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334ac0cfef5ca5e3619fdd13ef.jpg
@@ -45,12 +45,16 @@ One of the things I love about ABBYY is having a good work-life balance and flex
 
 Usually, I go for a workout a few times a week at lunchtime, which makes me 2x more efficient at work in the afternoon (highly recommend this “life hack”!). Since I always have at least three work meetings during the day, I use my flexible work schedule to plan around this, which means I sometimes work late into the evening, with a nice cup of fruit tea on hand.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What keeps you going, and what do you enjoy the most in your role, any highlights?
 
 My job and the variety of experiences this role gives me is what really keeps me motivated. When you work with great team members, you have the opportunity every day to learn new things and face different situations. It develops you not only professionally, but in all aspects of life.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What was your previous experience before ABBYY?
 
@@ -61,15 +65,16 @@ I had an opportunity to work with leading local and international FinTech compan
 ![](https://static1.abbyy.com/abbyycommedia/36890/sofia-tarasova-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Your top advice to someone joining ABBYY in your function?
 
 The People team is about people—in every aspect. It’s about the ability to listen to their needs, their concerns, assisting them in their personal development and professional growth. At the same time, it’s about aligning those aspirations with the goals and strategy of the company.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Since it is International Women’s Month, we also wanted to ask you: What do you think are the most important skills for a woman to have in order to succeed in the tech industry?
 
 In my experience, the tech industry has become much more advanced in terms of the inclusion of women. Women in the tech industry and in any other business, in my opinion, should actively use their strong points, such as being able to motivate a team effectively, create an environment that encourages the team to succeed, build trusting relationships with colleagues that help in the partnership.
@@ -77,9 +82,19 @@ In my experience, the tech industry has become much more advanced in terms of th
 ![](https://static1.abbyy.com/abbyycommedia/36895/sofia-tarasova-6.png?width=850&height=567)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How do you spend your free time?
 
 Most of my free time is taken up at the gym, and six months ago I took up power lifting.
@@ -90,14 +105,18 @@ Also, I really like walking. If you look at my Apple Watch, you will never see a
 
 Once upon a time, I promised my mother that when I grew up, and when my parents are elderly, I would build them a house somewhere quiet and cozy with huge floor-length windows. But my wish is not for that house to suddenly appear. It is about me being able to make it happen through my own success.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Name any inspirational book/movie/music you have recently discovered or are enjoying at the moment
 
 Recently, I discovered Anime. Throughout my life I had a rather preconceived opinion about this genre, but the post-apocalyptic manga "Shingeki no Kyojin" (Attack of the Titans) changed my mind.
 
 So, if you're a skeptic of Anime like I was, I recommend watching it. I promise you’ll be hooked!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
@@ -110,10 +129,12 @@ So, if you're a skeptic of Anime like I was, I recommend watching it. I promise 
 Share 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Related posts
 
 ![](https://static4.abbyy.com/abbyycommedia/37757/larysa-lototska.png) 
@@ -122,18 +143,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
 
 #### Subscribe for blog updates
@@ -186,8 +195,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +202,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximize-engagement-crafting-vids-with-3-powerful-descriptors-on-insta/"><u>[New] 2024 Approved Maximize Engagement Crafting Vids with 3 Powerful Descriptors on Insta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-video-content-to-cash-flow-youtubes-profit-mechanics-for-2024/"><u>[New] From Video Content to Cash Flow YouTube's Profit Mechanics for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-deleting-youtube-content-a-step-by-step-guide/"><u>[Updated] 2024 Approved Deleting YouTube Content A Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-pro-powerpoint-hacks-flawless-incorporation-of-vimeo-media-in-decks/"><u>[Updated] 2024 Approved Pro PowerPoint Hacks Flawless Incorporation of Vimeo Media in Decks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-moto-e13-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola Moto E13 PC | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/como-cambiar-de-mp4-a-dvd-sin-problemas-top-18-tecnicas-con-movavi/"><u>Cómo Cambiar De MP4 a DVD Sin Problemas: ¡Top 18 Técnicas Con Movavi!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversion-de-archivos-m4b-sin-costo-con-movavi-instrucciones-sencillas-y-efectivas/"><u>Conversión De Archivos M4B Sin Costo Con Movavi - Instrucciones Sencillas Y Efectivas</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/convert-your-ogm-videos-to-mp4-at-no-cost-simple-and-effective-with-movavi/"><u>Convert Your OGM Videos to MP4 at No Cost - Simple and Effective with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gemini-advanced-vs-chatgpt-plus-which-is-better/"><u>Gemini Advanced Vs. ChatGPT Plus: Which Is Better?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/impress-native-italians-with-20plus-italian-expressions-and-slang-words/"><u>Impress Native Italians With 20+ Italian Expressions & Slang Words</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-iphone-13-waterproof/"><u>Is the iPhone 13 Waterproof?</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/les-5-meilleurs-programmes-de-montage-pour-windows-en-remplacement-de-final-cut-pro/"><u>Les 5 Meilleurs Programmes De Montage Pour Windows en Remplacement De Final Cut Pro</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/movavi-converter-gratis-jp2-em-jpeg-pela-internet/"><u>Movavi: Converter Grátis JP2 Em JPEG Pela Internet</u></a></li>
+<li><a href="https://article-files.techidaily.com/professional-photographers-top-10-best-4k-cameras/"><u>Professional Photographers' Top 10 Best 4K Cameras</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-10-meilleurs-outils-de-montage-video-gratuits-pour-professionnels-et-enfants/"><u>Top 10 Meilleurs Outils De Montage Vidéo Gratuits Pour Professionnels Et Enfants</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transformation-sans-frais-dun-fichier-pcx-en-jpeg-sur-le-web-avec-movavi/"><u>Transformation Sans Frais D'un Fichier PCX en JPEG Sur Le Web Avec Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transformez-rapidement-vos-videos-wmv-en-format-asf-sans-frais-a-laide-du-convertisseur-videoone/"><u>Transformez Rapidement Vos Vidéos WMV en Format ASF Sans Frais À L'aide Du Convertisseur VIDEOONE</u></a></li>
+<li><a href="https://howto.techidaily.com/1721475559008-troubleshoot-airdrop-issues-quickly-discover-16-essential-solutions/"><u>Troubleshoot AirDrop Issues Quickly: Discover 16 Essential Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-the-16-premier-iso-writers-for-cross-platform-use-on-windows-and-mac-systems/"><u>Ultimate Guide: The 16 Premier ISO Writers for Cross-Platform Use on Windows & Mac Systems</u></a></li>
+</ul></div>
 

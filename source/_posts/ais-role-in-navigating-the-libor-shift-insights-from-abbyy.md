@@ -1,7 +1,7 @@
 ---
 title: AI's Role in Navigating the LIBOR Shift - Insights From ABBYY
-date: 2024-08-25T23:57:40.416Z
-updated: 2024-08-26T23:57:40.416Z
+date: 2024-10-03T03:09:35.308Z
+updated: 2024-10-05T23:46:55.901Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9ce7db19335f27276911d69ad.jpg
@@ -35,6 +35,13 @@ So let’s talk a minute about contract language and how it is holding the banki
 
 AI with ML has been much hyped in recent years, but it often sounds like a solution looking for a problem. AI, in simple terms, is building computer programs (also called ‘computer vision’) to help them find, interpret, make decisions, and take action on complex language embedded in a corpus of data or documents as expert or highly-trained users would. Far from being a replacement for high-paid skilled labor, such as attorneys, paralegals, analysts and consultants, AI with ML helps them scale to global challenges such as LIBOR phase out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Named entity recognition & extraction has advanced
 
 A particularly useful application of AI for LIBOR transition is recent advancements in **named entity extraction**, whereby AI-based programs can learn how to recognize legal entities in the corpus of contracts and related documents. An entity is a specific person, place, and/or action that is composed of multiple data fields that can be found anywhere in a contract. Often implied and never in a predictable place, named entities can be particularly vexing for legal experts to find as they plow through mountains of contracts.
@@ -42,6 +49,13 @@ A particularly useful application of AI for LIBOR transition is recent advanceme
 LIBOR rates, clauses, and affected parties are all entities in contracts that are rarely expressed in the same way within a single contract, let alone a single bank’s thousands of such contracts. But AI with machine learning can learn all of the permutations of these entities, including all of the stated and implied references to such entities, but can identify and understand them in seconds on a machine while a legal expert could take an hour or more to perform the same review. But AI does not get tired or distracted, like humans can, and can deliver results more consistently across thousands of documents.
 
 ![Why AI Matters in LIBOR Transition](https://static1.abbyy.com/abbyycommedia/28998/11986_picture_848x444.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 With recent advancements in named entity recognition and extraction techniques, such as the ability of data scientists and legal experts to train the software with comprehensive taxonomies and variations (thesaurus, legal codes, aliases), modern AI solutions can be in production in a matter of days or weeks at a fraction of the cost of hiring an army of consultants and legal teams to do the work. LIBOR remediation experts can now help train their ‘virtual legal team’ of AI/ML software and supporting RPA bots to be their army of expert assistants to find, remediate, or flag for additional review all the impacted contracts and legal business entities.
 
@@ -57,11 +71,22 @@ i _Sinead Cruise, Lawrence White, ‘The End of LIBOR: The Biggest Banking Chall
 
 ![Reggie Twigg ABBYY](https://static4.abbyy.com/abbyycommedia/25636/02c-reggietwigg-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Reginald J. Twigg
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -116,8 +141,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +148,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>[New] 2024 Approved Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bending-words-altering-text-images/"><u>[New] Bending Words Altering Text Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-invisible-observers-the-ultimate-list-of-apps-for-2024/"><u>[New] Invisible Observers The Ultimate List of Apps for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-comprehensive-guide-step-by-step-instructions-on-downloading-videos-from-anon-v-platform/"><u>1. Comprehensive Guide: Step-by-Step Instructions on Downloading Videos From Anon-V Platform</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-convert-your-podcast-episodes-into-m4b-format-a-step-by-step-guide/"><u>1. Convert Your Podcast Episodes Into M4B Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726028071605-5/"><u>最高のビデオフリップ・ウェブサイト上選ばれるトップ5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Xiaomi Redmi Note 13 5G ?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-unable-to-launch-origin-on-windows-11/"><u>Fixing the Issue: Unable to Launch 'Origin' On Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-15-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 15 Pro?</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/vimeo-mp3/"><u>Vimeoビデオからのオーディオコンバート: MP3形式への完全ガイド</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/vobmp3-google/"><u>VOBからMP3への変換：容易なガイドと方法 - Google 検索</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/wonderfox-dvd-ripper-pro-and-factory-pro/"><u>WonderFox DVD Ripper Pro & Factory Pro デジタル化に必要！購入が目下の話です。</u></a></li>
+</ul></div>
 

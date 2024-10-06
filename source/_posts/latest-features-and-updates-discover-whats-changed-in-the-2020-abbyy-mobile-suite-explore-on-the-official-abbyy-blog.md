@@ -1,7 +1,7 @@
 ---
 title: "Latest Features & Updates: Discover What's Changed in the 2020 ABBYY Mobile Suite - Explore on the Official ABBYY Blog"
-date: 2024-08-25T23:55:37.455Z
-updated: 2024-08-26T23:55:37.455Z
+date: 2024-10-01T01:24:07.798Z
+updated: 2024-10-05T20:54:14.948Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
@@ -38,9 +38,6 @@ We aim to implement feature requests by users as much as possible. Recently we a
 
 ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30383/new-in-apps-en-1.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30384/new-in-apps-en-2.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30385/new-in-apps-en-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **On Android**
 
 1. Tap and hold any document you want to delete until the document is selected
@@ -50,9 +47,6 @@ We aim to implement feature requests by users as much as possible. Recently we a
 
 ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30386/new-in-apps-en-4.png) ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30387/new-in-apps-en-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Improved automatic crop
 
 In 2020, we implemented the new documents capture and crop technology to [FineScanner](https://go.onelink.me/0oMB/2b084a0a) iOS and Android. With the latest generation of [ABBYY Mobile Capture](https://tools.techidaily.com/abbyy/products/) technology, the accuracy of documents' capture and crop has increased by 20%!
@@ -76,6 +70,19 @@ As requested by our users, **OneDrive for Business** has become available for do
 
 ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30388/new-in-apps-en-6.png) ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30389/new-in-apps-en-7.png)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Don’t forget to set up the Auto-sending to cloud services function. Your files will be automatically uploaded to the chosen cloud storage, just after you save it.
 
 * To set up the Auto-sending feature, tap **Automatically send to** under the list of cloud services
@@ -85,11 +92,35 @@ Don’t forget to set up the Auto-sending to cloud services function. Your files
 ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30390/new-in-apps-en-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 By the way, we’ve also added the automatic upload to Google Drive in FineScanner for Android. Learn more about it [here](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Business Card Reader iOS
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Share contacts via QR Code
 
@@ -102,11 +133,18 @@ By the way, we’ve also added the automatic upload to Google Drive in FineScann
 ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30391/new-in-apps-en-9.jpg) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30392/new-in-apps-en-10.png) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30393/new-in-apps-en-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
+
 ### Edit address by fields
 
 In the previous versions, [BCR](https://go.onelink.me/LuYz/ca107d7) saved the address from a business card into a single field. With the latest version, [BCR](https://go.onelink.me/LuYz/ca107d7) fills in the address to specific fields – Street, City, State, Country, and ZIP, making it easier to analyze contacts that are [exported to Excel](https://www.youtube.com/watch?v=qnb2ugIQ6YY) or a CRM.
@@ -124,18 +162,18 @@ The contact editor now allows viewing and editing of addresses on Apple Maps. Le
 ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30395/new-in-apps-en-13.png) ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30396/new-in-apps-en-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Keep your [FineScanner](https://go.onelink.me/0oMB/2b084a0a) and [Business Card Reader](https://go.onelink.me/LuYz/ca107d7) updated to try all the new features. Leave reviews on the App Store and Google Play – we take your feedback and requests into account.
 
 See you next time!
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) [Enterprise](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -190,8 +228,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +235,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-tips-crafting-amazing-time-lapse-on-android-2024/"><u>[New] Pro Tips Crafting Amazing Time-Lapse on Android 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eal-time-view-counter-analyzers/"><u>[New] Real-Time View Counter Analyzers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-monetary-milestones-pewdiepies-income-summary/"><u>[Updated] 2024 Approved Monetary Milestones PewDiePie’s Income Summary</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-groundwork-for-av1-mastery/"><u>2024 Approved Groundwork for AV1 Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>2024 Approved Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/beste-pdf-leesprogrammas-top-6-pakketten-voor-efficient-documentenbewerking/"><u>Beste PDF-Leesprogramma's: Top 6 Pakketten Voor Efficiënt Documentenbewerking</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuita-y-pro-de-mkv-a-mp3-con-sonido-fidelidad-alta-optimizado-para-google-ranking/"><u>Conversión Gratuita Y Pro De MKV a MP3 Con Sonido Fidelidad Alta: Optimizado Para Google Ranking</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuite-de-fichier-m2p-a-mp3-sur-internet-avec-movavi/"><u>Conversion Gratuite De Fichier M2P À MP3 Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/descargar-y-convertir-archivos-mp4-a-formatos-de-audio-m4a-sin-costo-guia-con-movavi/"><u>Descargar Y Convertir Archivos MP4 a Formatos De Audio M4A Sin Costo: Guía Con Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-jpg-file-uploads-and-conversion-at-zero-price-moveavegs-solution/"><u>Effortless JPG File Uploads and Conversion at Zero Price – Moveaveg's Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-converter-flv-to-mp4-with-movavi/"><u>Free Online Converter - FLV to MP4 with Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-tech-vr-handhelds-our-top-10-list/"><u>High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-gt-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme GT 3 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-action-camera-test-xs-100-i-inside-story/"><u>In 2024, The Ultimate Action Camera Test - XS 100 I Inside Story</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastery-of-repair-overcoming-steam-game-disc-errors-seamlessly/"><u>Mastery of Repair: Overcoming Steam Game Disc Errors Seamlessly</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/movavi-flac-dts-flac/"><u>Movavi의 강력하고 사용자 친화적 FLAC 형식으로 DTS FLAC 전환 기법 – 무료 인터넷 시작</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/seamlessly-convert-your-tiff-files-to-png-without-cost-quick-and-effective-solutions/"><u>Seamlessly Convert Your TIFF Files to PNG Without Cost - Quick and Effective Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-resolving-bluetooth-issues-on-windows-10-devices/"><u>Step-by-Step Guide: Resolving Bluetooth Issues on Windows 10 Devices</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transformez-vos-fichiers-audio-gsm-en-gratuit-a-la-volee-convertissez-en-wav-via-movavi/"><u>Transformez Vos Fichiers Audio GSM En Gratuit À La Volée - Convertissez en WAV Via Movavi</u></a></li>
+</ul></div>
 

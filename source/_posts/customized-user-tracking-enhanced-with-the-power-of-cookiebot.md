@@ -1,7 +1,7 @@
 ---
 title: "Customized User Tracking: Enhanced with the Power of Cookiebot"
-date: 2024-08-25T23:56:11.543Z
-updated: 2024-08-26T23:56:11.543Z
+date: 2024-10-05T01:00:55.845Z
+updated: 2024-10-05T23:50:47.121Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
@@ -45,14 +45,24 @@ Prof. Maximilian Röglinger, Inhaber des Lehrstuhls für Wirtschaftsinformatik u
 
 Die gesamten Studienergebnisse sowie weiterführende Informationen erhalten Sie unter: <https://digital.abbyy.com/fraunhofer-studie.html>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Über Fraunhofer FIT
 
 Als Partner für Digitalisierung, Industrie 4.0 und das Internet der Dinge entwickelt das Fraunhofer-Institut für Angewandte Informationstechnik FIT seit knapp 40 Jahren IT-Lösungen, die auf Menschen zugeschnitten sind und sich nahtlos in Unternehmensprozesse einfügen. Als Innovationstreiber bietet es nicht nur Orientierung, sondern gestaltet auch den digitalen Wandel in Wirtschaft, Umwelt und Gesellschaft. Die Projektgruppe Wirtschaftsinformatik des Fraunhofer FIT hat sich als international anerkanntes Forschungszentrum an der Schnittstelle von Finanzmanagement, Informationsmanagement und Wirtschaftsinformatik etabliert. Derzeit arbeiten wir insbesondere in den Geschäftsbereichen Digital Disruption, Digital Business und Digital Transformation. Die Grundsätze unserer Forschung sind Innovation, Interdisziplinarität und Ganzheitlichkeit. Darauf basierend wurde gemeinsam mit der Abteilung Data Science und Künstliche Intelligenz des Fraunhofer FIT das [Center for Process Intelligence](https://cpi.fit.fraunhofer.de/) (CPI) gegründet, welches ganzheitliche Beratungsleistungen im Bereich der datengetriebenen Prozessanalyse, Prozessmodellierung und Prozessanalyse für die Industrie anbietet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://www.abbyy.com/company/news/everest-group-recognizes-abbyy-as-a-leader-in-intelligent-document-processing-products-peak-matrix-assessment-for-second-consecutive-year-2020/ "Everest Group Recognizes ABBYY as a Leader in Intelligent Document Processing Products") und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
@@ -60,15 +70,23 @@ ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Ges
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Pressekontakt:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 **ABBYY**
@@ -83,8 +101,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +108,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-taking-control-of-your-digital-footprint-new-facebook-guide/"><u>[New] 2024 Approved Taking Control of Your Digital Footprint New Facebook Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>[New] Achieve Peak Performance Prime Methods for Zoom Conversion Mastery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enlarge-facebook-videos-to-full-screen-for-impact-for-2024/"><u>[Updated] Enlarge Facebook Videos to Full Screen for Impact for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-superior-hd-visual-capture-and-recorders/"><u>[Updated] Superior HD Visual Capture and Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-turn-backwards-youtube-content-inversion-tips/"><u>2024 Approved Turn Backwards YouTube Content Inversion Tips</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-with-personalized-tracking/"><u>Cookiebot-Enabled Sites: Enhance User Experience with Personalized Tracking</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-boost-your-sites-conversion-with-smart-personalization/"><u>Cookiebot-Enhanced: Boost Your Site's Conversion with Smart Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/current-open-positions-available-with-abbyy-apply-now/"><u>Current Open Positions Available with ABBYY - Apply Now!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-traffic-with-cookiebots-customized-marketing-solutions/"><u>Drive Traffic with Cookiebot's Customized Marketing Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/efficience-amelioree-deloitte-et-abbyy-renforcent-la-collaboration-pour-lautomatisation-des-flux-de-travail/"><u>Efficience Améliorée : Deloitte Et ABBYY Renforcent La Collaboration Pour L'Automatisation Des Flux De Travail</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
+<li><a href="https://win-dash.techidaily.com/killer-e2500-gbe-network-card-driver-download/"><u>Killer E2500 GbE Network Card Driver Download</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-income-insights-googles-simplified-three-step-strategy-for-monetizing-youtube-for-2024/"><u>Unlocking Income Insights Google's Simplified Three-Step Strategy for Monetizing YouTube for 2024</u></a></li>
+</ul></div>
 

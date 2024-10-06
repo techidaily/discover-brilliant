@@ -1,43 +1,15 @@
 ---
 title: Customized Advertising Experience with Cookiebot Technology
-date: 2024-09-10T10:15:48.323Z
-updated: 2024-09-11T10:15:48.323Z
+date: 2024-10-02T03:30:10.923Z
+updated: 2024-10-05T17:06:54.161Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed2333f21b240bf9f3028949436.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Customized Advertising Experience with Cookiebot Technology
 
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Pushing the Boundaries of IDP: Object Detection, Word Recognition, and Key-Value Extraction
 
@@ -62,26 +34,6 @@ Taking a large, general key-value extraction model and training it on a set of d
 ABBYY’s current path towards this solution consists of two independent workflows: entity extraction and linking models for general documents, and key summarization and QA models for text-heavy documents such as contracts. Both models are based on the transformer architecture that is ubiquitous in modern neural networks, e.g., the GPT-family and other LLMs.
 
 ![pushing-the-boundaries-of-idp-2](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/intelligent-enterprise/content-media/pushing-the-boundaries-of-idp-2.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 The image above portrays a form-like document where green highlights indicate keys, and yellow highlights indicate values that must be extracted from their respective keys. In a form, there are visual indicators such as layouts and blank cells that suggest where key-values lie. The world classification model tags each word as either a background or a part of a key or value, while the entity linking model combines the tagged words into key/value sequences and matches them together. Within this workflow, text is processed by a RoBERTa transformer, while visual data (images) are processed by a compact YOLOv8 model.
 
@@ -175,8 +127,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +134,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-your-game-in-drone-racing-and-top-5-speedy-fpv-drones/"><u>[New] In 2024, Elevating Your Game in Drone Racing & Top 5 Speedy FPV Drones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>[Updated] In 2024, Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-screenscout-quest-uncovering-affordable-tiktok-visuals-without-a-cost/"><u>2024 Approved ScreenScout Quest Uncovering Affordable TikTok Visuals Without a Cost</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/butagaz-enhances-customer-experience-with-abbyy-tech-for-easy-energy-provider-transition/"><u>Butagaz Enhances Customer Experience with ABBYY Tech for Easy Energy Provider Transition</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-websites-enhanced-user-engagement-and-personalization/"><u>Cookiebot-Driven Websites: Enhanced User Engagement & Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-boost-your-sites-visibility-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Boost Your Site's Visibility with Advanced Tracking Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhance-your-websites-personalization-and-user-engagement/"><u>Cookiebot-Enabled: Enhance Your Website's Personalization and User Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-arp-cache-and-its-clearance-methods-126-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Demystifying Windows ARP Cache and Its Clearance Methods (126 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-document-workflow-abbyy-unveils-the-flexicapture-adapter-for-pfu-paperstream-nx-suite/"><u>Enhance Your Document Workflow: ABBYY Unveils the FlexiCapture Adapter for PFU PaperStream NX Suite</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-online-marketing-strategy-using-advanced-techniques-by-cookiebot/"><u>Enhance Your Online Marketing Strategy Using Advanced Techniques by Cookiebot</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/filters-to-feeds-optimizing-your-360-video-for-youtube-publishing-for-2024/"><u>From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/future-strategies-with-abbyy-thriving-beyond-automation-during-and-after-the-coronavirus-crisis/"><u>Future Strategies with ABBYY: Thriving Beyond Automation During & After the Coronavirus Crisis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G24 Phone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/levolution-dun-cabinet-davocats-repute-ladoption-de-solutions-innovantes-pour-la-salle-des-courriers-numeriques/"><u>L'évolution D'un Cabinet D'avocats Réputé : L'adoption De Solutions Innovantes Pour La Salle Des Courriers Numériques</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/overview-of-abbyys-impressive-performance-and-progress-during-the-april-june-period-of-2018/"><u>Overview of ABBYY's Impressive Performance and Progress During the April-June Period of 2018</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-airpods-heres-how-to-fix-the-sound-on-your-windows-11-and-10-pc/"><u>Silent AirPods? Here's How to Fix the Sound on Your Windows 11 and 10 PC!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speedy-guide-quickly-transferring-your-p90x3-workouts-from-dvd-to-pcmac/"><u>Speedy Guide: Quickly Transferring Your P90X3 Workouts From DVD to PC/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-features-of-western-digital-data-lifeguard-tool-reviews-and-insights/"><u>Unraveling the Features of Western Digital Data LifeGuard Tool - Reviews and Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

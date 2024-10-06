@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing User Experience with Personalized Analytics and Data Capture"
-date: 2024-08-25T23:56:59.641Z
-updated: 2024-08-26T23:56:59.641Z
+date: 2024-10-03T16:26:46.601Z
+updated: 2024-10-06T02:27:18.948Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088d395c4f6b7d4b1f29dc8396.jpg
@@ -34,8 +34,12 @@ Documents are containers of vital information to any supply chain operation. Sou
 All too often, technology providers and companies are quick to reduce documents to data problems for systems of record, and this set of assumptions creates its own vulnerabilities to disruption and competition. Instead, documents contain both valuable data and content—the latter requiring skilled reading and context-grounded interpretation to make quick decisions. Skilled workforces interact with documents and content for this express purpose, since data only provides part of the picture needed to make critical decisions that move shipments or source materials and services every day. Artificial intelligence (AI) can add the dimension of skilled reading to documents, filling in that missing link between experience and data, but supply chains have yet to realize its potential for transforming their operations.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Add document ‘skills’ to your operations
 
 If a skilled, trained, and experienced workforce were not required, the “document problem” would have been solved a decade ago, but the reality is that these skills and experience are needed frequently to make decisions on content—decisions on sourcing, shipping, and receiving. Data extraction is sufficient in most cases, and straight-through processing of documents at 90 percent or better has become a common expectation. But even that level of efficiency requires some built-in Intelligent Document Processing capabilities in the tools, and the rest requires advanced decision-making skills.
@@ -45,8 +49,12 @@ Having the right tools with experienced, human-like skills built in with new-gen
 No longer do you need big capture platforms or frameworks to get the operational benefits of document skills. With the help of AI with pre-trained containerized document “skills” (pre-trained actions that understand the document, not just the data, but the actions needed to be taken on it), supply chains can finally remove common bottlenecks and gain control of the document-driven processes that all levels of business operations rely on—Transport & Logistics to Accounts Payable (AP) payment processing.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Want to optimize your Transportation & Logistics operations for rapid change?
 
 We have a skill for that.
@@ -54,8 +62,12 @@ We have a skill for that.
 [Visit ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## A marketplace approach
 
 Speed is the key to customer satisfaction and competitive advantage in [Transportation & Logistics](https://tools.techidaily.com/abbyy/products/). That is precisely the idea behind the new [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/), the first digital marketplace for processing and understanding enterprise documents that provides a rich collection of content skills, connectors, and assets. Many of the top shippers and logistics providers, and many cloud-based companies, are providing their business users and citizen developers the best-in-class document and content processing with our easy-to-use, configurable, and pluggable platform, which is ready to use within minutes.
@@ -68,14 +80,15 @@ Learn more about how ABBYY is[helping Transportation and Logistics providers](ht
 
 ![Reggie Twigg ABBYY](https://static4.abbyy.com/abbyycommedia/25636/02c-reggietwigg-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 Reginald J. Twigg
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -130,8 +143,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +150,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-brilliant.techidaily.com/1-simple-steps-switching-your-video-format-from-mp4-to-ogg/"><u>1. Simple Steps: Switching Your Video Format From MP4 to OGG</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/chatgpt-plus-reviewed-is-it-a-deal-breaker-or-boon-explore-5-key-advantages/"><u>ChatGPT Plus Reviewed - Is It a Deal-Breaker or Boon? Explore 5 Key Advantages!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/die-fuhrenden-6-ki-gesteuerten-videoaufwertungstools-verjungungssoftware-im-uberblick/"><u>Die Führenden 6 KI-Gesteuerten Videoaufwertungstools – Verjüngungssoftware Im Überblick</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-productivity-convert-verbal-input-to-written-text-in-word/"><u>Enhance Productivity Convert Verbal Input to Written Text in Word</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-n30-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord N30 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>In 2024, The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/low-cost-tv-wall-hanging-revealed-md2380s-secrets/"><u>Low-Cost TV Wall Hanging, Revealed: MD2380's Secrets</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/quickwinx-professional-dvd-ripper-h264hevc-mp4-conversion-from-dvds-fast-and-efficient-extraction/"><u>QuickWinX Professional DVD Ripper: H.264/HEVC MP4 Conversion From DVDs - Fast & Efficient Extraction</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/seamless-digital-media-transformation-with-digiarty-your-trusted-dvd-and-video-converter/"><u>Seamless Digital Media Transformation with Digiarty: Your Trusted DVD & Video Converter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-directors-toolkit-youtube-lessons-on-film-making-for-2024/"><u>The Director's Toolkit YouTube Lessons on Film Making for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-no-cost-ultra-hd-h265-hevc-media-players-the-ultimate-guide/"><u>Top No-Cost Ultra HD H.265 HEVC Media Players: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transform-dvds-into-high-quality-mp4-files-with-winx-for-mac-perfect-compatibility-with-iphone-and-ipad/"><u>Transform DVDs Into High-Quality Mp4 Files with WinX for Mac - Perfect Compatibility with iPhone and iPad</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Robert Youngjohns: Passage De HP Et Microsoft À La Présidence Du Conseil D'administration D'ABBYY"
-date: 2024-08-30T11:23:26.285Z
-updated: 2024-08-31T11:23:26.285Z
+date: 2024-10-04T01:17:29.048Z
+updated: 2024-10-05T22:28:25.505Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa38a161adde19f109b06aa2c.jpg
@@ -52,8 +52,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -61,7 +59,28 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-advanced-techniques-for-sharper-screen-collaboration/"><u>[New] Advanced Techniques for Sharper Screen Collaboration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-leveraging-tech-for-efficient-facebook-to-whatsapp-video-sharing/"><u>[Updated] Leveraging Tech for Efficient Facebook to WhatsApp Video Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-best-mesh-wi-fi-network-kits-dominating-the-market-this-year/"><u>5 Best Mesh Wi-Fi Network Kits Dominating the Market This Year</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-look-inside-vidmas-screen-recording-mechanics/"><u>A Look Inside Vidma's Screen Recording Mechanics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuite-de-fichiers-dng-a-jpeg-avec-movavi-un-guide-complet/"><u>Conversion Gratuite De Fichiers DNG À JPEG Avec Movavi: Un Guide Complet</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/convertir-videos-ogg-a-formato-wmv-sin-costo-utilizando-la-herramienta-en-linea-de-movavi/"><u>Convertir Videos OGG a Formato WMV Sin Costo Utilizando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easily-downgrade-system-sound-on-macwindows-devices-for-2024/"><u>Easily Downgrade System Sound on Mac/Windows Devices for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/guide-simple-et-facile-pour-diviser-votre-fichier-mp3-avec-le-couteau-mp3-de-movavi/"><u>Guide Simple Et Facile Pour Diviser Votre Fichier MP3 Avec Le Couteau MP3 De Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 13/Windows/Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-filmmaking-moves-with-kinemaster/"><u>In 2024, Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-craft-of-awkward-potions-a-comprehensive-guide-for-minecraft-players/"><u>Mastering the Craft of Awkward Potions: A Comprehensive Guide for Minecraft Players</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/movavi-free-mp4-y-asf-convertidor-en-linea-cambio-de-formato-sin-gastos/"><u>Movavi Free MP4 Y ASF Convertidor en Línea - Cambio De Formato Sin Gastos</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/online-apng-file-transformation-guide-convert-without-costs-using-abc-software/"><u>Online APNG File Transformation Guide: Convert without Costs Using ABC Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-supreme-contender-in-depth-evaluation-of-the-top-ranked-xbox-one-x-console/"><u>The Supreme Contender: In-Depth Evaluation of the Top-Ranked Xbox One X Console</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

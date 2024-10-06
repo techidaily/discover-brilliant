@@ -1,7 +1,7 @@
 ---
 title: Utilizing the Innovative Solutions Provided by Cookiebot
-date: 2024-08-25T23:57:34.878Z
-updated: 2024-08-26T23:57:34.878Z
+date: 2024-10-02T23:00:23.969Z
+updated: 2024-10-05T23:25:51.581Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
@@ -19,6 +19,13 @@ February 23, 2018
 
 Monochrome mode on a smartphone is becoming popular - it helps to distract less on a gadget. In today’s issue we’ll show how to turn monochrome mode on. Also we’ll have a talk on how FineScanner differs from a usual camera.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **iOS Tip: Going Monochrome**
 
 Recently, more and more people have been giving up the full-color experience offered by their Retina displays in favor of a low-key greyscale UI. The trend started two months ago when Rehman Ata, a biology scholar, launched his [Gogray.today](https://gogray.today/) website. The main idea behind the project is to help people become less addicted to their mobile phones and spend more time on things that really matter to them. If you, too, feel that you’re spending way too much time on your phone, why not try the new greyscale diet? Here’s the recipe:
@@ -28,10 +35,6 @@ Recently, more and more people have been giving up the full-color experience off
 
 Now your phone will display everything in black-and-white. PLEASE NOTE: The “Greyscale” setting only affects how content is displayed, it does not convert your pictures or videos to black-and-white. When taking a photo, for instance, you will see it in greyscale but all the colors will still be there and visible to you when you choose to revert to full color. Also, switching to greyscale has no effect on the battery life of your phone. Which is a shame, really.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## **Android Tip: Going Monochrome**
 
 With Android, things are a tad more complicated, but here the monochrome mode _may_ make your battery last longer. This is true for AMOLED screens, which consume less power if you choose to display fewer colours. On Android, the greyscale switch is called “Monochromacy” and is hidden in the developer options.
@@ -44,13 +47,24 @@ If you have the developer options enabled:
 
 ![Developer options android switch on monochrome mode](https://static1.abbyy.com/abbyycommedia/26172/08oqc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here’s how your screen will look like from now on:
 
 ![monochrome mode switched on android](https://static1.abbyy.com/abbyycommedia/26173/pic2-e1517223380832.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **ABBYY Tip: FineScanner vs Regular Camera**
 
 “How is your app different from the pre-installed camera app?” This question has popped up now and then in your comments on the [FineScanner](http://qrs.ly/pl4x25p) page. Read on to find out.
@@ -63,19 +77,12 @@ Unlike your regular camera app:
 4. In [FineScanner](http://qrs.ly/pl4x25p), you can have your documents recognized by means of OCR technology, so you end up with an editable Word, Excel, or PowerPoint document. Many other document formats are also supported. [FineScanner](http://qrs.ly/pl4x25p) can recognize texts in 193 languages.
 5. [FineScanner](http://qrs.ly/pl4x25p) has a unique book scanning mode, where you scan an open book and the app will automatically split the photo into two pages and straighten out any curved lines!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **App of the Week: Freeletics, Your Personal Fitness Coach** 
 
 [Freeletics](https://www.freeletics.com/en) is a fitness training program designed to make you stronger, fitter and generally more healthy. It will also help you keep your weight under control. Inside [Freeletics](https://www.freeletics.com/en), you will find all those basic gym exercises that even a novice can do. What sets [Freeletics](https://www.freeletics.com/en) apart is a cleverly devised system for monitoring and motivating athletes. The main statistic the program uses to assess your fitness and effort is the time you spend on each set of exercises. Exercise times are used to monitor your progress and to compare your results against those of other members of the program all over the world.
 
 ![App Freeletics Fitness Coach training program](https://static1.abbyy.com/abbyycommedia/26174/aphrodite_endurance-e1517224372346.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 The program is supported by two mobile apps — [Bodyweight](https://www.freeletics.com/en/knowledge/understanding-your-training-plan/) and [Nutrition](https://www.freeletics.com/en/nutrition). The first is used to organize your workouts while the second takes care of your diet. Here are several reasons why we think [Freeletics](https://www.freeletics.com/en) is worth a try:
 
 * You can work out anywhere — at home, outdoors, in the office or at a gym.
@@ -89,9 +96,6 @@ You can start training with [Freeletics](https://www.freeletics.com/en) for free
 
 Available on [iOS](https://itunes.apple.com/us/app/freeletics-bodyweight/id654810212?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=ru).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## **First-Hand Experience: Advice From a Colleague**
 
 _Shared by Catherine Matantseva, international PR manager_
@@ -113,13 +117,12 @@ That’s it from us for today. Until next Monday, have a great week! P.S. You ca
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -175,8 +178,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +185,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-comprehensive-picsart-insight-for-enhanced-creativity/"><u>[New] Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screenflow-extensive-review-unveiling-the-mac-experience-for-2024/"><u>[Updated] ScreenFlow Extensive Review Unveiling the Mac Experience for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y100t-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y100t Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726029177332-5/"><u>最高の動画字幕ツールトップ5 - 魅力的な文字と字幕を簡単に追加！</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ad-free-anime-streaming-top-three-methods/"><u>Ad-Free Anime Streaming: Top Three Methods</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/batch-conversion-transforming-aac-files-into-m4a-format-made-easy/"><u>Batch Conversion: Transforming AAC Files Into M4A Format Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/critical-examination-of-lg-bp350-screen-size-and-viewing-distance/"><u>Critical Examination of LG BP350 Screen Size & Viewing Distance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-solutions-overcoming-chatgpt-and-plugin-service-integration-hiccups/"><u>Effective Solutions: Overcoming ChatGPT and Plugin Service Integration Hiccups</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-windows-wont-boot-after-updating-drivers/"><u>Fixed: Windows Won’t Boot After Updating Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-latest-microsoft-surface-laptop-s65-drives-and-updates-for-windows/"><u>Free Download: Latest Microsoft Surface Laptop S65 Drives & Updates for Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>In 2024, Ideas in Images Top 20 Photos to Fire Up Creativity</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726027295924-mp4/"><u>MP4ファイルへのオーディオ録音２種トリック</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726030458022-pcdvd/"><u>PC上のDVD鑑賞: 借りた映画をバックアップする自由・有料方法集</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726027606946-tiktokpc/"><u>TikTok動画をPCに簡単にストリーミングして保管する方法 - 「一括保存」の仕組み解説</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-vn-video-editor-pro-review-pros-cons-and-verdict/"><u>Updated In 2024, VN Video Editor Pro Review Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726030291649-3/"><u>パソコンにおすすめの3つの最適な写真スライドショー作成手法</u></a></li>
+</ul></div>
 

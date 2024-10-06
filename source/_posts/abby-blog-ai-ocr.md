@@ -1,7 +1,7 @@
 ---
 title: "ABBY Blog: 成功確実のAI OCRベース帳票管理ソリューションに必要な鍵となる重要事項"
-date: 2024-08-30T11:23:33.618Z
-updated: 2024-08-31T11:23:33.618Z
+date: 2024-10-01T16:03:34.768Z
+updated: 2024-10-05T20:44:24.311Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
@@ -36,8 +36,12 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 ここからは特に、RPA, DXで利用されている帳票OCRについて、ソリューション選択時の評価ポイントについて触れたいと思います。
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 帳票処理ソリューションの評価ポイント
 
 帳票処理ソリューションを選択する際、評価ポイントとして何に注目されてますでしょうか？多くの方がOCRの認識精度をまず第一に挙げられるのではないでしょうか。実は、これはとても危険です。弊社でも、これまで認識精度に着目してOCR帳票処理ソリューションを選定した結果、思うように導入効果が出ず何とかしてほしい、といった相談を頂戴することが多数ありました。なぜこのようなことが起こるのでしょうか。以下では、主な原因について説明いたします。
@@ -64,15 +68,6 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 * 他システム連携性（必要な場合）
 * 開発・メンテナンスコスト
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### ABBYY FlexiCaptureの強み
 
 帳票処理ソリューション選択時の評価ポイントをふまえ、FlexiCaptureの評価が特に高いポイントについてご紹介いたします。
@@ -86,16 +81,16 @@ OCRとはOptical Character Recognitionの略で、光学文字認識とも呼ば
 ![AI OCR](https://static1.abbyy.com/abbyycommedia/29417/forms-image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [例2: 帳票のレイアウトが異なる複数ページにわたる明細の読み取り](https://tools.techidaily.com/abbyy/products/)
 
 ![AI OCR](https://static1.abbyy.com/abbyycommedia/29416/forms-image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### 簡単かつ高精度な仕分け機能
 
 先程お話しした通り、自動仕分けの精度はプロセス全体に大きな影響を与えます。
@@ -105,8 +100,12 @@ ABBYY FlexiCaptureには簡単な操作で高精度な仕分けを実現する�
 [例3: AIで高精度な自動文書仕分け](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 柔軟にカスタマイズ可能な検証ツールやワークフロー
 
 帳票処理ソリューション単体で実際の業務フローにあったワークフローを実現できるかどうかは、開発・メンテナンスコストに大きく影響します。
@@ -130,8 +129,12 @@ FlexiCaptureの大きな特徴として、様々なシステム・アプリケ�
 [例7: 外部手書きエンジンとの連携](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### まとめ
 
 本コラムでは、帳票処理ソリューション選択、導入時の評価ポイントについて紹介しました。これらのポイントを踏まえ、適切なソリューションを選定することが非常に重要となります。また評価にあたり、[ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) が選択肢となるような場合は、是非弊社までご連絡頂ければ幸いです。
@@ -192,8 +195,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +202,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-chromes-new-soundscape-the-foremost-apps-for-voice-change-exploration-for-2024/"><u>[New] Chrome’s New Soundscape The Foremost Apps for Voice Change Exploration for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-speedy-steps-screenshot-simplification-on-dell/"><u>[New] Speedy Steps Screenshot Simplification on Dell</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-perfect-your-content-discover-these-top-8-mobile-editors/"><u>[Updated] 2024 Approved Perfect Your Content Discover These Top 8 Mobile Editors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-guide-to-the-most-effective-youtube-marketing-tools-for-2024/"><u>[Updated] Ultimate Guide to the Most Effective Youtube Marketing Tools for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comparing-process-insights-distinguishing-process-intelligence-from-traditional-business-analytics/"><u>Comparing Process Insights: Distinguishing Process Intelligence From Traditional Business Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookie-based-personalization-and-conversion-boost-services/"><u>Cookie-Based Personalization and Conversion Boost Services</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-automation-solutions/"><u>Cookiebot-Driven Automation Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-solutions-enhancing-your-online-experience/"><u>Cookiebot-Driven Solutions: Enhancing Your Online Experience</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-features-enhancing-user-experience-and-personalization/"><u>Cookiebot-Enabled Features: Enhancing User Experience & Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-solutions-boost-your-sites-user-engagement-and-seo-ranking/"><u>Cookiebot-Enabled Solutions: Boost Your Site's User Engagement and SEO Ranking</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-how-our-technology-boosts-your-sites-performance/"><u>Cookiebot-Enhanced Experience: How Our Technology Boosts Your Site's Performance</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-boost-your-websites-visibility-and-user-engagement/"><u>Cookiebot-Enhanced: Boost Your Website's Visibility & User Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/eating-right-made-simple-learn-to-prepare-wholesome-meals-with-chatgpt/"><u>Eating Right Made Simple - Learn to Prepare Wholesome Meals with ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-responsive-microphone-in-fortnite-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Microphone in Fortnite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-14-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 14 In Different Conditionsin</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-overcome-problems-with-steam-server-connections/"><u>Solution Found: How to Overcome Problems with Steam Server Connections</u></a></li>
+<li><a href="https://video-capture.techidaily.com/techniques-to-enhance-your-video-gaming-archive/"><u>Techniques to Enhance Your Video Gaming Archive</u></a></li>
+</ul></div>
 

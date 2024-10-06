@@ -1,63 +1,21 @@
 ---
 title: "Enhance Your Document Workflow: ABBYY Unveils the FlexiCapture Adapter for PFU PaperStream NX Suite"
-date: 2024-09-10T10:15:48.339Z
-updated: 2024-09-11T10:15:48.339Z
+date: 2024-09-30T19:18:07.870Z
+updated: 2024-10-06T02:21:06.292Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e99131985520486a4b9f43ec.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Enhance Your Document Workflow: ABBYY Unveils the FlexiCapture Adapter for PFU PaperStream NX Suite
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## ABBYY Launches FlexiCapture Connector for PFU’s PaperStream NX Manager Software, Enabling Complex Automation
 
 September 30, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### _Fujitsu Image Scanner users can now access ABBYY FlexiCapture technology that captures data from any type of document and powers intelligent automation._
 
@@ -117,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +82,29 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-pricing-in-the-cloud-unveil-your-options-here/"><u>[New] Best Pricing in the Cloud? Unveil Your Options Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-beginners-roadmap-for-instagram-reels-mastery/"><u>[New] In 2024, A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-superior-graphics-processors-in-4k-territory/"><u>[New] In 2024, Superior Graphics Processors in 4K Territory</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[New] In 2024, The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms-for-2024/"><u>[New] Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-strategies-for-composing-complicated-workplace-correspondence-efficiently/"><u>ChatGPT Strategies for Composing Complicated Workplace Correspondence Efficiently</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/customized-advertising-experience-with-cookiebot-technology/"><u>Customized Advertising Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-conversion-tracking-with-the-power-of-cookiebot-technology/"><u>Enhanced Conversion Tracking with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-easily-unlock-and-convert-drm-protected-dvds-using-dvdfab-hd-decrypter/"><u>How to Easily Unlock & Convert DRM-Protected DVDs Using DVDFab HD Decrypter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-mingwm10dll-not-found-dilemma-a-comprehensive-guide/"><u>Overcoming the 'Mingwm10.dll Not Found' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/schnelle-prozesse-erhebliche-einsparungen-zeigen-sie-mit-abbyy-flexicapture-lokalen-behorden-wie-die-zeit-geld-ist-optimierung-von-arbeitsablaufen-bei-der-v23/"><u>Schnelle Prozesse, Erhebliche Einsparungen: Zeigen Sie Mit ABBYY FlexiCapture Lokalen Behörden Wie Die Zeit Geld Ist – Optimierung Von Arbeitsabläufen Bei Der Verarbeitung Von Dokumenten Und Formularen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamlessly-integrate-apple-podcasts-into-your-routine-for-2024/"><u>Seamlessly Integrate Apple Podcasts Into Your Routine for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/smaller-is-better-top-drone-brands-reviewed-for-2024/"><u>Smaller Is Better Top Drone Brands Reviewed for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/steigern-sie-ihre-ungleichwertigkeit-in-finanzdiensten-entdecke-die-macht-von-abbyy-checkliste/"><u>Steigern Sie Ihre Ungleichwertigkeit in Finanzdiensten - Entdecke Die Macht Von ABBYY Checkliste</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/susanne-richter-wills-leads-abbyy-holt-to-the-pinnacle-of-the-german-speaking-market/"><u>Susanne Richter-Wills Leads ABBYY Holt to the Pinnacle of the German-Speaking Market</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

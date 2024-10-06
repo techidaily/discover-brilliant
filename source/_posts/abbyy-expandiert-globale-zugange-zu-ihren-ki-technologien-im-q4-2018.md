@@ -1,63 +1,21 @@
 ---
 title: ABBYY Expandiert Globale Zugänge Zu Ihren KI-Technologien Im Q4 2018
-date: 2024-09-10T10:15:48.217Z
-updated: 2024-09-11T10:15:48.217Z
+date: 2024-10-03T04:54:47.969Z
+updated: 2024-10-05T20:33:36.276Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e721f7dc9d791e4530e6a65b.jpeg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## ABBYY Expandiert Globale Zugänge Zu Ihren KI-Technologien Im Q4 2018
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## ABBYY baut im vierten Quartal 2018 den globalen Zugang zu seinen KI-fähigen Technologien weiter aus
 
 18\. Februar 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### _Strategische Partnerschaften sowie Neubesetzung der Führungspositionen beschleunigt ABBYYs Marktdurchdringung mit Content IQ Lösungen_ 
 
@@ -221,8 +179,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +186,31 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-imagery-with-elegant-borders-ig-edition-for-2024/"><u>[New] Enhance Imagery with Elegant Borders – IG Edition for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-copyright-concerns-in-screencasting-youtube-videos-for-2024/"><u>[New] Navigating Copyright Concerns in Screencasting YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-making-money-on-youtube-average-required-views-for-2024/"><u>[Updated] The Ultimate Guide to Making Money on YouTube Average Required Views for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality/"><u>2024 Approved From TikTok to Instagram Strategies to Amplify Your Reel's Virality</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-site-enhance-your-online-traffic-and-analytics-effortlessly/"><u>Cookiebot-Enabled Site: Enhance Your Online Traffic and Analytics Effortlessly</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-optimized-website-tracking-and-personalization-solutions/"><u>Cookiebot-Enabled: Optimized Website Tracking & Personalization Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-experience-smart-data-driven-user-tracking-solutions/"><u>Cookiebot-Enhanced: Experience Smart, Data-Driven User Tracking Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-elevating-your-sites-interaction-through-personalization-and-analytics/"><u>Cookiebot: Elevating Your Site's Interaction Through Personalization and Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/decouvrez-lautomatisation-cognitive-la-cle-essentielle-pour-saisir-le-sens-des-contenus-avec-abbyy/"><u>Découvrez L'automatisation Cognitive: La Clé Essentielle Pour Saisir Le Sens Des Contenus Avec ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-engagement-and-personalization-using-advanced-tracking-solutions-from-cookiebot/"><u>Drive Engagement and Personalization Using Advanced Tracking Solutions From Cookiebot</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-your-website-growth-through-innovative-cookiebot-solutions/"><u>Drive Your Website Growth Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effizientes-sammeln-von-informationen-die-rolle-spezialisierter-ki-und-ihre-bedeutung-fur-den-datenerfassungsprozess-ein-blick-auf-das-abbyy-blog/"><u>Effizientes Sammeln Von Informationen: Die Rolle Spezialisierter KI Und Ihre Bedeutung Für Den Datenerfassungsprozess - Ein Blick Auf Das ABBYY-Blog</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/haptic-feedback-and-vr-for-medicine-for-2024/"><u>Haptic Feedback and VR for Medicine for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y02t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y02T Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-in-macos/"><u>Mending Broken Video Formats in macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/optimal-days-for-podcast-drops-for-2024/"><u>Optimal Days for Podcast Drops for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-artisans-path-to-creating-3d-luts/"><u>The Artisan’s Path to Creating 3D LUTs</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

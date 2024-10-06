@@ -1,7 +1,7 @@
 ---
 title: Prepare to Dive Into ABBYY's Innovations at the AI Pulse DevCon 2024
-date: 2024-08-25T23:54:46.290Z
-updated: 2024-08-26T23:54:46.290Z
+date: 2024-10-02T00:33:35.729Z
+updated: 2024-10-05T19:29:40.051Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e7bac2e7594923dabb645a34.jpg
@@ -37,6 +37,13 @@ The ABBYY AI Pulse [Developer Conference](https://tools.techidaily.com/abbyy/pro
 
 Allow us to introduce [ABBYY Shark Tank](https://tools.techidaily.com/abbyy/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Contest overview
 
 Many are familiar with the general structure of the “Shark Tank” pitching contest: identify a problem, design a solution, and communicate its value and effectiveness to a panel of expert judges.
@@ -52,9 +59,6 @@ Here’s what we’re looking for:
 
 Interested? Read on for the rules.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Rules and registration
 
 * **Teams can have 1 to 4 members.** Teaming up? Swimming solo? No matter – just bring your A–game!
@@ -69,16 +73,23 @@ Each presentation should have a strong value proposition, convey a compelling me
 Any attendee from any region and any team can apply to participate, regardless of team size. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Why participate?
 
 This is a fun and engaging opportunity to showcase your unique ideas not only to ABBYY executives, but to the vibrant and passionate developer community attending AI Pulse. You’ll gain valuable exposure, insightful feedback, and an enhanced opportunity to network with those who take interest in your pitch – not to mention that the grand prize could be yours. 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to compete
 
 Ready to enter the ABBYY Shark Tank? Register your interest here: [https://digital.abbyy.com/asean-dev-con-india-2024-registration-shark-tank/](https://tools.techidaily.com/abbyy/products/)
@@ -88,8 +99,12 @@ Please feel free to contact us at [DevCon\_enquiries@abbyy.com](https://tools.te
 ![Rahul Kapoor](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/blog/autors-Headshots/rahul-kapoor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Rahul Kapoor
 
 Partner Innovation & Enablement Specialist at ABBYY
@@ -148,8 +163,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +170,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-streamline-video-using-vimeo-record-for-live-captures/"><u>[New] 2024 Approved Streamline Video Using Vimeo Record for Live Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-essential-list-of-macs-top-snipping-apps-for-2024/"><u>[Updated] The Essential List of Mac's Top Snipping Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-high-ranking-nintendo-switch-brawlers-index-max-156/"><u>2024 Approved High-Ranking Nintendo Switch Brawlers Index (Max 156)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>2024 Approved Quick Tips Speeding Up Video Playback on Snapchat for Novices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selective-picture-smoothing-made-simple/"><u>2024 Approved Selective Picture Smoothing Made Simple</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/como-eliminar-la-restriccion-regional-del-dvd-convertir-discos-a-format-libre-en-sistemas-windows-1187/"><u>Cómo Eliminar La Restricción Regional Del DVD: Convertir Discos a Format Libre en Sistemas Windows 11/8/7</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversione-gratuita-da-dvd-a-avi-con-software-freeware/"><u>Conversione Gratuita Da DVD a AVI Con Software Freeware</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/envoi-de-videos-volumineuses-par-email-avec-gmail-guide-complet-pour-les-plus-gros-fichiers/"><u>Envoi De Vidéos Volumineuses Par Email Avec Gmail : Guide Complet Pour Les Plus Gros Fichiers</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-software-download-official-winx-streaming-and-conversion-suite-with-dvd-ripping-and-hd-video-tools/"><u>FREE Software Download: Official WinX Streaming & Conversion Suite with DVD Ripping and HD Video Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-logitech-k400plus-keyboard-and-mouse-driver-download/"><u>Fresh Logitech K400+ Keyboard & Mouse Driver Download</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/guida-rapido-per-la-conversione-di-hevc-a-mp4-senza-perdite-qualitative/"><u>Guida Rapido per La Conversione Di HEVC a MP4 Senza Perdite Qualitative</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/guide-de-restauration-des-videos-endommagees-par-handbrake-lors-de-lextraction-dvd-sous-windows-10/"><u>Guide De Restauration Des Vidéos Endommagées Par HandBrake Lors De L'extraction DVD Sous Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-12-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 12 Pro and iPad</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/minimiza-archivos-de-video-en-hd-4k-o-8k-hasta-un-90-guia-sencilla/"><u>Minimiza Archivos De Video en HD, 4K O 8K Hasta Un 90%: Guía Sencilla</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-top-websites-for-downloading-pc-games-for-2024/"><u>New The Ultimate List Top Websites for Downloading PC Games for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-firmware-p1102w-windows-installation-guide/"><u>Printer Firmware P1102w Windows Installation Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/professionelle-videomontage-mit-kostenloser-ki-beste-tools-fur-pcs-windows-and-apple-computer/"><u>Professionelle Videomontage Mit Kostenloser KI – Beste Tools Für PCs (Windows) & Apple-Computer</u></a></li>
+</ul></div>
 

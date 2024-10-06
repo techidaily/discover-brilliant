@@ -1,7 +1,7 @@
 ---
 title: "Mastering Solo Travels: Selfie Techniques & Organizing Memories with Dates - Insights From the ABBYY Experts"
-date: 2024-08-25T23:56:30.664Z
-updated: 2024-08-26T23:56:30.664Z
+date: 2024-09-29T02:23:50.257Z
+updated: 2024-10-05T20:50:50.077Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b573c02ea17e5760889c684fa1.jpg
@@ -42,6 +42,14 @@ How often are you asked to take a photo of a person on the street? Now, the odds
 * Bathroom mirror selfie – a selfie in a bathroom
 * Wake up selfie – a selfie where your head is on a pillow and you have a sleepy face![types of selfie wake up selfie](https://static1.abbyy.com/abbyycommedia/26362/wake-up-selfie.jpg)
 * Felfie – a selfie with your pet originally taken on a farm
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Welfie – a fitness selfie made in a gym
 * Helfie – a selfie with your new haircut; the shot is taken in a beauty parlor
 * Bragging Beach Legs Selfie – a selfie of your suntanned legs
@@ -80,6 +88,13 @@ Another exciting device that will draw your attention is [Nixie](http://flynixie
 
 ![gadget for selfies nixie selfie bracelet](https://static1.abbyy.com/abbyycommedia/26367/nixie-selfie-bracelet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Portable photo booth**
 
 [Hypno Eye](https://hypno.cam/) is a ball made of polymeric material with the camera inside. It has a luminous ring around the camera that is used as a flash, it attracts attention and shows where to look to get a perfect shot.
@@ -89,6 +104,13 @@ Another exciting device that will draw your attention is [Nixie](http://flynixie
 This device can upload recorded videos to the internet by connecting via Wi-Fi or cellular networks. It also adds animation to make your videos truly one-of-a-kind.
 
 ![hypno eye animation effect](https://static1.abbyy.com/abbyycommedia/26369/hypno-eye-animation-video-1024x429.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Photo cameras**
 
@@ -100,9 +122,29 @@ Instant photo cameras are really popular among teenagers and professional Instag
 
 ![gadget for selfies prynt instant photo](https://static1.abbyy.com/abbyycommedia/26371/prynt-1024x576.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The [Qlippie](https://www.qlippieworld.com/) portable wide-angle camera is so small that you can hide it in your pocket. With a special clip, this device can be attached to virtually any place. If needed, you can additionally purchase a monopod and cute stickers to freshen up camera’s design.
 
 ![gadget for selfies qlippie with different covers](https://static1.abbyy.com/abbyycommedia/26372/qlippie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [DxO ONE](https://www.dxo.com/us/dxo-one) would be a general digital camera if it didn’t have a lightening plug on the side panel. To use this device, simply install [its app](https://itunes.apple.com/us/app/dxo-one-professional-quality/id981525548?mt=8) and start taking pictures. DxO ONE can take photos in the RAW format that saves a negative to the memory card and a JPEG file to your Gallery. You can easily rotate it to take selfies as well. DxO ONE can be connected only to [iPhone](https://itunes.apple.com/us/app/dxo-one-professional-quality/id981525548?mt=8).
 
@@ -121,6 +163,19 @@ You can also buy an even more convenient lens with tripods, just like on the pho
 Here’s a nice waterproof case for [underwater photo-shooting](http://www.dx.com/p/ultra-clear-170-wide-angle-lens-extreme-sports-waterproof-case-for-iphone-6-6s-transparent-415565?utm%5Frid=37321690&utm%5Fsource=admitad&utm%5Fmedium=affiliate&admitad%5Fuid=b7fbc8ce31fa85f2108112d1ebaba618?subid=manual&subid1=gagadget.com&subid2=referral&subid3=waterproof-case&subid4=post21163#.VuHQa6GDumI). Take it on vacation and record unbeatable videos above and under the water surface!
 
 ![gadget for selfies underwater photo shooting cover](https://static1.abbyy.com/abbyycommedia/26376/underwater-photo-shooting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Some really awkward devices…**
 
@@ -143,9 +198,6 @@ Do you remember the date of a conference but the name of a person that you’ve 
 
 ![Abbyy BCR search by date](https://static1.abbyy.com/abbyycommedia/26379/image-from-ios-576x1024.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **App of the Week: Roofbot**
 
 ![Roofbot app logic puzzle](https://static1.abbyy.com/abbyycommedia/26380/screen-0.jpg)
@@ -154,9 +206,6 @@ Roofbot is a conundrum game. Its main character is a cute robot who moves across
 
 ![roofbot that is trying to save planet](https://static1.abbyy.com/abbyycommedia/26381/643x0w.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 It features 120 levels and 25 tips that help you find the correct route. Roofbot is an exciting conundrum with a high rating that comes in reasonable price—only $2.99.
 
 ![roofbot app for two platforms android and ios](https://static1.abbyy.com/abbyycommedia/26382/roofbot-android-ios.jpg)
@@ -164,18 +213,18 @@ It features 120 levels and 25 tips that help you find the correct route. Roofbot
 Available on [iOS](https://itunes.apple.com/us/app/roofbot-puzzler-on-the-roof/id1148435076?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.doublecoconut.roofbot&hl=de).
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **First-Hand Experience: Advice From a Colleague**
 
 _By Sergey Kharchenko, iOS developer_
 
 ![sergey](https://static1.abbyy.com/abbyycommedia/26383/sergey-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 When time for vacation comes we want to spend it somewhere near the beach, sun, and water. Yet, even if you have time and money at your disposal, you may lack someone who will accompany you in your marvelous trip. You start reaching out to your friends but most of the time they have other plans. In this case you have two options: either find someone using special online services or go alone.
 
 I personally would go for the second option and here is why:
@@ -186,6 +235,13 @@ I personally would go for the second option and here is why:
 4. The most important thing on a trip is a challenge. Ask yourself: what can I accomplish? Can I overcome myself and grow into a better person? Unforgettable emotions make us better and stronger!
 
 ![beach](https://static1.abbyy.com/abbyycommedia/26384/beach-1024x768.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 But this way of traveling also comes with a set of disadvantages:
 
@@ -202,9 +258,6 @@ I believe that making your trips more and more complex is a better way to ease i
 
 ![river](https://static1.abbyy.com/abbyycommedia/26386/river-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Thinking of traveling alone, with your partner or with a group? It is always up to you, but in life there’s always a place for something new, right? Why not try all of these options? Go for it! Travelling will give you strength for new achievements and will help you discover something exciting!
 
 That’s all for now, see you next Monday!
@@ -213,9 +266,6 @@ P.S. The previous issue is [here](https://tools.techidaily.com/abbyy/products/).
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -271,8 +321,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +328,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-ax201-not-linking-to-intel-wi-fi-6-networks/"><u>[FIXED] AX201 Not Linking to Intel Wi-Fi 6 Networks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essential-free-tools-convert-youtube-audio-to-mp3-on-iphone/"><u>[New] 2024 Approved Essential Free Tools Convert YouTube Audio to MP3 on iPhone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-reel-into-reality-how-boomers-keep-ig-audiene-hooked/"><u>[New] 2024 Approved Reel Into Reality How Boomers Keep IG Audiene Hooked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-thunder-tier-one-keeps-crashing-on-pc/"><u>[SOLVED] Thunder Tier One Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-techniques-for-swapping-your-images-tone-spectrum/"><u>2024 Approved Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-boost-your-sites-visibility-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Boost Your Site's Visibility with Advanced Tracking Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhance-your-websites-personalization-and-user-engagement/"><u>Cookiebot-Enabled: Enhance Your Website's Personalization and User Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/customized-advertising-experience-with-cookiebot-technology/"><u>Customized Advertising Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-document-workflow-abbyy-unveils-the-flexicapture-adapter-for-pfu-paperstream-nx-suite/"><u>Enhance Your Document Workflow: ABBYY Unveils the FlexiCapture Adapter for PFU PaperStream NX Suite</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-online-marketing-strategy-using-advanced-techniques-by-cookiebot/"><u>Enhance Your Online Marketing Strategy Using Advanced Techniques by Cookiebot</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-hp-universal-dock-station-g2-driver-software-120w-and-230w-options/"><u>Free HP Universal Dock Station G2 Driver Software - 120W and 230W Options</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/future-strategies-with-abbyy-thriving-beyond-automation-during-and-after-the-coronavirus-crisis/"><u>Future Strategies with ABBYY: Thriving Beyond Automation During & After the Coronavirus Crisis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/leading-mp4-to-facebook-mover-for-2024/"><u>Leading MP4 to Facebook Mover for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-your-youtube-experience-add-timestamps-efficiently/"><u>Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+</ul></div>
 

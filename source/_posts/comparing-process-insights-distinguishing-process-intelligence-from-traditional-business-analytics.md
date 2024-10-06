@@ -1,7 +1,7 @@
 ---
 title: "Comparing Process Insights: Distinguishing Process Intelligence From Traditional Business Analytics"
-date: 2024-08-25T23:57:46.608Z
-updated: 2024-08-26T23:57:46.608Z
+date: 2024-09-30T21:23:41.101Z
+updated: 2024-10-06T06:23:32.252Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c499d6d0e966107ddb98f908c.jpg
@@ -63,17 +63,32 @@ Ce que la BI ne pourra pas vous dire, du moins pas sans un travail de développe
 Par exemple, pouvez-vous déterminer, dans les cas où certains vendeurs ont reçu le plus grand nombre de commandes, si cela coïncide avec des interactions efficaces avec les clients auxquels on a rapidement répondu ? Et inversement, pouvez-vous déterminer si des niveaux faibles de commandes correspondent à des délais de réponse lents ou à des demandes de clients passées à la trappe ? C’est là que la BI n’est plus à la hauteur, car elle n’est pas en mesure d’établir ou de prouver ces corrélations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Différences-clés entre la process intelligence et la business intelligence
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Focus
 
 La **Process intelligence** se focalise sur l’analyse et l’optimisation des processus métier, en se penchant sur l’intégralité du cycle de vie du processus. La **Business intelligence** se concentre sur l’analyse en profondeur des étapes individuelles d’un processus.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sources de données
 
 La **Process intelligence** utilise les journaux des événements, les tableaux d’audit, les interactions des utilisateurs et les activités de l’ordinateur comme premières sources de données. La **Business intelligence** utilise les données tirées de différentes sources en lien avec une étape/une partie spécifique d’un processus métier, afin d’analyser et de visualiser les schémas, les tendances et les anomalies.
@@ -83,8 +98,12 @@ La **Process intelligence** utilise les journaux des événements, les tableaux 
 La **Process intelligence** fournit des renseignements qui aident les entreprises à optimiser leurs processus métier, en leur offrant une meilleure compréhension du contexte global des étapes spécifiques et des variations entre les différents processus. La **Business intelligence** fournit des renseignements qui aident les entreprises à prendre des décisions éclairées, basées sur les données.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Outils
 
 Les outils de **Process intelligence** comprennent des fonctionnalités de process mining, de task mining, d’analyse, de suivi, de prédiction et de simulation. Les outils de   **Business intelligence** comprennent habituellement des fonctionnalités de tableaux de bord, de reporting, d’analyse de données et de visualisation.
@@ -95,12 +114,6 @@ La Process intelligence et la Business intelligence ont des similitudes : les de
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/process-intelligence-vs-business-intelligence/process-intelligence-and-business-intelligence-differences-and-similarities-fr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Process intelligence et business intelligence : laquelle est la meilleure ?
 
 Bien que business intelligence (BI) et process intelligence (PI) puissent paraître identiques de prime abord, elles servent des objectifs différents dans l’étude et l’analyse des opérations des entreprises. La BI fournit des informations sur les étapes individuelles d’un processus, une par une, permettant une analyse détaillée et contextualisée des incidents conventionnels, tandis que la PI apporte une compréhension globale des processus métier, ainsi que des informations sur les améliorations qui auront le plus d’impact.
@@ -123,9 +136,6 @@ Ayant 30 ans d’expérience dans le secteur informatique, Scott a créé et dé
 
 Précédemment, Scott a également occupé les fonctions de Vice-Président Senior, Chargé du développement marketing & commercial de webMethods (aujourd’hui Software AG), où il était également responsable de la commercialisation, du développement commercial et de la planification stratégique pour les produits. Il a rejoint webMethods suite à son acquisition d’IntelliFrame Corporation, fournisseur de produits d’intégration des données, et du flux intégré InVista, ainsi que de la plateforme BPM qu’il a cofondée. Scott a également occupé de nombreuses fonctions de cadre dans la technologie, le marketing et le développement commercial, tant pour des entreprises publiques que privées.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Aimer, partager ou reposter 
 
 Share 
@@ -180,8 +190,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +197,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-professional-capture-tools-for-pcmac-devices-for-2024/"><u>[New] Professional Capture Tools for PC/Mac Devices for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-most-reliable-voice-recorders-suited-for-macos-users-for-2024/"><u>[New] The Most Reliable Voice Recorders Suited for MacOS Users for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>[Updated] Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-best-free-video-downloader-apps-top-keekvid-substitutes/"><u>1. Best Free Video Downloader Apps: Top Keekvid Substitutes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-enhancing-stardew-valley-through-its-best-7-modifications/"><u>2024 Approved Enhancing Stardew Valley Through Its Best 7 Modifications</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-use-capcut-translate-to-transform-video-content/"><u>2024 Approved How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>2024 Approved The Audio File Alchemy Converting SRT to Multiple Formats Professionally</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726027647012-5/"><u>最高の5つの無料オーディオ変換ウェブサービス - オンラインボイス変更</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726028202018-dvdpc/"><u>DVD映像簡単なPCへの保管ガイド</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-10-4g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 10 4G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Spark Go (2023) Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-video-bite-by-celeb-on-vimeo/"><u>In 2024, Video Bite by Celeb on Vimeo</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>New The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726028242391-pc/"><u>PC上で簡単にゲームの撮影テクニック</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-methods-for-converting-wtv-files-into-high-quality-mkv-format/"><u>Top Methods for Converting WTV Files Into High-Quality MKV Format</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-rated-dvd-to-mp4-converter-software-for-windows-11-users-in-2o24/"><u>Top Rated DVD to MP4 Converter Software for Windows 11 Users in 2O24</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-convert-paddington-2014-dvd-rip-to-all-devices-with-best-quality/"><u>Ultimate Guide: Convert Paddington (2014) DVD-Rip to All Devices with Best Quality</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-effortless-video-compression-techniques-for-perfect-whatsapp-shares/"><u>Ultimate Guide: Effortless Video Compression Techniques for Perfect WhatsApp Shares</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726029428943-wonderfox-dvd-ripper-pro-dvd/"><u>WonderFox DVD Ripper Pro: 全面仕上げのDVDコピーソフトウェア紹介</u></a></li>
+</ul></div>
 

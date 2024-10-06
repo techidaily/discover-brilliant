@@ -1,7 +1,7 @@
 ---
 title: Understanding ABYY's Intelligent Document Processing - Unveiling the IDP Technique
-date: 2024-08-30T11:23:29.646Z
-updated: 2024-08-31T11:23:29.646Z
+date: 2024-09-30T19:15:36.386Z
+updated: 2024-10-05T23:26:56.660Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4fb035ab41968a0873cebbd66.jpg
@@ -49,6 +49,14 @@ Pour comprendre ce qu’est l’IDP et comment il profite aux entreprises, il es
 * **L’IDP ne se limite pas à l’OCR ou à la capture de données.**  Bien que l’IDP intègre la technologie d’OCR et de capture des données, il ne s’agit que d’une partie d’un ensemble plus large de fonctionnalités qui ajoutent plus d’expertise et d’aide à la prise de décision pour traiter le contenu.
 * **L’IDP n’est pas la RPA (robotic process automation).**  La RPA consiste en une automatisation de base des tâches au sein de processus définis qui reposent sur les données. Le contenu étant une source de ces données, il est essentiel de contextualiser ce contenu avant d’en extraire les données pour différents processus en aval. La [RPA](https://tools.techidaily.com/abbyy/products/) ne peut le faire seule et il faut donc l’appui de l’IDP pour prendre des décisions pertinentes sur le contenu.
 * **L’IDP n’est pas la même chose que ChatGPT.** De nombreuses personnes pensent que ChatGPT est la même chose que l’OCR (reconnaissance optique de caractères), mais ce n’est pas le cas ; en fait, il s’agit d’un modèle de traitement du langage naturel (NLP) qui utilise des algorithmes de deep learning pour générer, sous forme de texte ressemblant à du texte rédigé par un humain, des réponses aux demandes des utilisateurs. ABBYY Vantage, pour sa part, est une [solution d’IDP](https://tools.techidaily.com/abbyy/products/) qui utilise la technologie OCR pour extraire les données de différents types de documents, y compris les [factures](https://tools.techidaily.com/abbyy/products/), les bons de commandes, les contrats, et plus encore.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## L’évolution de l’IDP  
     
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/intelligent-document-processing/14000_what-is-intelligent-document-processing-blog-post-scheme-graphics-fr.jpg)
@@ -62,8 +70,12 @@ L’IDP utilise des techniques de traitement du langage naturel (NLP) et de cont
 Grâce au [FastML](https://tools.techidaily.com/abbyy/products/), nouveau mécanisme d’apprentissage côté client, des méthodes visuelles et textuelles d’extraction sont appliquées, ce qui permet d’atteindre une plus grande précision dans l’extraction des données. Les entreprises qui cherchent à garder un avantage concurrentiel peuvent le faire en laissant de côté la charge de travail fastidieuse, transactionnelle et avec beaucoup de contenu, au profit du traitement intelligent des documents et de solutions intelligentes d’automatisation. Cela dégage du temps pour les salariés qui peuvent alors se consacrer à des tâches plus gratifiantes et offrir une meilleure expérience client.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Quels sont les avantages du traitement intelligent des documents ? 
 
 Dans tous les secteurs d’activité, les entreprises subissent la pression de devoir faire plus – et plus vite – avec moins de ressources qualifiées. En même temps, davantage d’entreprises se concentrent sur l’amélioration de l’expérience pour les clients et pour les employés et y voient la clef de l’amélioration de leur chiffre d’affaires, de leurs marges et de la fidélisation.[Le traitement intelligent des documents (IDP)](https://www.abbyy.com/fr/vantage/?itm%5Fsource=coprblog-fr "Intelligent document processing (IDP)") présente des avantages importants sur les deux aspects. En utilisant des compétences de document qui s’approchent de la façon dont les humains comprennent et gèrent les contenus, l’IDP offre les avantages suivants :
@@ -90,9 +102,6 @@ Servant de base à une automatisation réussie, le [process mining](https://tool
 * Déterminer ce qu’elles doivent faire du contenu pour que le processus fonctionne mieux ; et
 * Appliquer les compétences de document nécessaires pour optimiser le traitement du contenu.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Exemples d’utilisation de l’IDP : maîtrisez de façon numérique vos données et processus 
 
 La polyvalence de l’utilisation du traitement intelligent des documents signifie que des documents dans n’importe quelle langue, n’importe quel format et à tout moment peuvent être utilisés par des solutions d’automatisation intelligente. Nous allons passer en revue quatre exemples d’utilisation : dans l’assurance, pour l’onboarding client/KYC, dans la logistique et pour le traitement de prêts, ceci afin d’illustrer par des exemples comment l’IDP peut être employé au mieux. 
@@ -135,8 +144,12 @@ Avec tellement de bruit autour de l’intelligence artificielle et un paysage te
  Une fois que vous aurez défini vos besoins spécifiques, il sera plus facile de trouver une solution répondant à vos contraintes. Par exemple, il se peut que vous ayez des données dans différentes langues, ayant besoin d’être traduites avant d’être analysées ou transmises à un autre système. Il peut y avoir des consignes strictes pour le respect de la vie privée dans l’utilisation des données ; dans ce cas, les fonctionnalités d’authentification et de validation de votre plateforme d’IDP seront une priorité. La classification et l’intégration des données sont aussi un élément important pour le transfert automatique vers les workflows existants. L’IDP peut classer les documents en catégories prédéfinies pour organiser et prioriser la charge de travail. Par exemple, il peut trier les demandes par date ou classer les emails dans différents dossiers en fonction de leur contenu.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## L’avenir du traitement des documents 
 
 Le traitement intelligent des documents offre aux entreprises un grand nombre d’avantages financiers — s’il est mis en place de façon stratégique, en tant que contributeur essentiel à l’expérience client, et si les processus sont construits en fonction de lui. En commençant par exploiter au mieux le process mining et en posant des bases solides pour sa mise en œuvre, les entreprises peuvent engranger tous les bénéfices de l’IDP, y compris des coûts réduits, une amélioration de l’efficacité, de la conformité réglementaire, ainsi que de l’expérience client et salarié. 
@@ -151,9 +164,6 @@ Avec [Vantage](https://tools.techidaily.com/abbyy/products/), il est possible de
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foire aux questions 
 
 [Quelle est la différence entre l’IDP et l’OCR ?](https://tools.techidaily.com/abbyy/products/)
@@ -191,8 +201,12 @@ _Note éditoriale : le post de ce blog a été initialement publié le 8 décemb
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Directeur Senior de la stratégie IA 
@@ -202,12 +216,12 @@ Ayant plus de 10 ans d’expérience dans ces produits et cette technologie, Max
 Connectez-vous avec Max sur [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -262,8 +276,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +283,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-weekly-webinar-strategies-timing-and-coordination-tips/"><u>[New] 2024 Approved Weekly Webinar Strategies Timing and Coordination Tips</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-how-to-verify-rights-before-sharing-on-tiktok-platforms-for-2024/"><u>[New] How to Verify Rights Before Sharing on TikTok Platforms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-free-to-fortune-the-500-sub-club/"><u>[Updated] From Free to Fortune The 500-Sub Club</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/6-causes-frequentes-du-desistement-de-lonboarding-digital-dapres-les-chefs-informaticiens-gouvernementaux/"><u>6 Causes Fréquentes Du Désistement De L'onboarding Digital D'après Les Chefs Informaticiens Gouvernementaux</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-apex-legends-2022-leaf-error-code-tips-and-tricks/"><u>Effective Solutions to Apex Legends 2022 Leaf Error Code - Tips and Tricks</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-user-experience-and-conversions-through-cutting-edge-cookiebot-solutions/"><u>Enhance User Experience & Conversions Through Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimize-with-cookiebot-advanced-tracking-solutions-for-seo-success/"><u>Optimize with Cookiebot: Advanced Tracking Solutions for SEO Success</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/reaching-the-turning-point-streamlining-with-accounts-payable-automation/"><u>Reaching the Turning Point: Streamlining with Accounts Payable Automation</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/revolutionize-your-tracking-advanced-insights-through-the-power-of-cookiebot-solutions/"><u>Revolutionize Your Tracking: Advanced Insights Through the Power of Cookiebot Solutions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-audio-solutions-top-online-sites-for-professional-grade-mp3-modification/"><u>Updated 2024 Approved Cutting Edge Audio Solutions Top Online Sites for Professional-Grade MP3 Modification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-hdmi-sound-not-working-solved/"><u>Windows 7 HDMI Sound Not Working [Solved]</u></a></li>
+</ul></div>
 

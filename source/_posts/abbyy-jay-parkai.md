@@ -1,7 +1,7 @@
 ---
 title: ABBYY アジア太平洋地�^分営業担当副社長就任：Jay Park氏がドキュメントAI・プロセスインテリジェンスの未来を形作る
-date: 2024-08-25T23:57:36.701Z
-updated: 2024-08-26T23:57:36.701Z
+date: 2024-10-01T18:20:01.865Z
+updated: 2024-10-05T18:50:53.511Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0925fc779f0843944465c330e0533d47cac4851d58ef98585f8f45212c0df5ac.jpg
@@ -29,6 +29,13 @@ Jae Park (ジェイ・パーク) 氏はアジア太平洋地域（APAC）営業�
 
 ABBYYインテリジェントオートメーションソリューションの詳細については、 [www.abbyy.com](https://tools.techidaily.com/abbyy/products/).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYは、目的特化型AIで情報の活用を支援します。私たちは、革新と経験を組み合わせ、ビジネスに不可欠な文書からのデータを200以上の言語でリアルタイムにインテリジェントで実行可能な成果へと変換します。ABBYY は、フォーチュン 500を含む世界 10,000 社以上の企業から信頼され、顧客体験、卓越したオペレーション、競争優位性の加速など、最も重要な部分に大きな影響を及ぼしています。ABBYYはカリフォルニア州ミルピタスに本社を置き、14カ国にオフィスを構えるグローバル企業です。アーセナル女子サッカークラブの公式インテリジェント・オートメーション・パートナーです。詳細については、 [www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/), [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware), [Facebook](https://www.facebook.com/ABBYYsoft) でフォローしてください。
@@ -36,15 +43,23 @@ ABBYYは、目的特化型AIで情報の活用を支援します。私たちは�
 ABBYYは登録商標または商標であり、ABBYYグループ会社のロゴ、会社名（またはその一部）、または製品名の一部である場合もあり、それぞれの所有者の同意なしに使用することはできません。
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -60,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,4 +82,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bridging-communication-gaps-utilizing-zoom-with-gmail-mail/"><u>[New] Bridging Communication Gaps Utilizing Zoom with Gmail Mail</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-funimate-playbook-strategies-for-success/"><u>[New] Funimate Playbook Strategies for Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-aerial-companions-for-gopro-hd-adventures/"><u>[New] Premium Aerial Companions for GoPro HD Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-list-of-preferred-mac-snipping-apps/"><u>[New] The Ultimate List of Preferred Mac Snipping Apps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-expert-tips-for-broadcasting-on-tiktok-via-computer/"><u>[Updated] 2024 Approved Expert Tips for Broadcasting on TikTok Via Computer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>2024 Approved Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dive-into-asx-multimedia-everything-you-need-to-know-about-handling-and-playing-asx-files/"><u>Dive Into .asx Multimedia - Everything You Need to Know About Handling and Playing ASX Files</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvddvdmp4/"><u>DVDビデオの仕組みと使い方：DVDからMP4への変換手順</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/easy-guide-adding-animated-images-gifs-into-your-email-messages/"><u>Easy Guide: Adding Animated Images (GIFs) Into Your Email Messages</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/easy-methods-for-free-mp3-music-downloads-from-4shared-a-step-by-step-guide/"><u>Easy Methods for FREE MP3 Music Downloads From 4Shared: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortlessly-convert-and-import-mtsm2ts-videos-into-adobe-premiere-pro-for-smooth-editing-flow/"><u>Effortlessly Convert and Import MTS/M2TS Videos Into Adobe Premiere Pro for Smooth Editing Flow</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/gifclipchamp/"><u>GIF作成のためのClipchampガイド:ステップバイステップレシピ</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y27-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y27 4G Phones with/without a PC</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-unite-diverse-video-objects-into-a-single-file-mastering-the-avs-synthesizer/"><u>How to Unite Diverse Video Objects Into a Single File: Mastering the AVS Synthesizer</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/itunes-apple-tracks-integration-techniques-for-video-editing/"><u>ITunes Apple Tracks Integration Techniques for Video Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-new-echo-dot-device/"><u>Step-by-Step Guide: Setting Up Your New Echo Dot Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolved-incompatibility-issue-with-your-devices-drivers-on-world-of-warcraft/"><u>Troubleshooting: Resolved - Incompatibility Issue with Your Device's Drivers on World of Warcraft</u></a></li>
+</ul></div>
 

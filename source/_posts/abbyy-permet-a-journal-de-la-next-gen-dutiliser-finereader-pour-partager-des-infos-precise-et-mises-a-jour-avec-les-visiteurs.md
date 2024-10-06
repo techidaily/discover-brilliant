@@ -1,7 +1,7 @@
 ---
 title: ABBYY Permet À Journal De La Next-Gen D'Utiliser FineReader Pour Partager Des Infos Précise Et Mises À Jour Avec Les Visiteurs
-date: 2024-08-25T23:54:04.390Z
-updated: 2024-08-26T23:54:04.390Z
+date: 2024-10-03T06:31:28.850Z
+updated: 2024-10-06T00:52:47.948Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d44fbc8bb793a1cd727c98e95.jpg
@@ -19,6 +19,13 @@ Media
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ABBYY permet au Journal de la Next-Gen d’apporter des informations à jour et pertinentes à ses visiteurs avec FineReader
 
 [Afficher ou télécharger une version imprimable de cet article (PDF 338 kb)](https://static3.abbyy.com/abbyycommedia/10191/cs-journal-next-gen-fr-f.pdf) 
@@ -26,6 +33,13 @@ Media
 #### Contexte
 
 ![Le Journal de la Next-Gen](https://tools.techidaily.com/abbyy/products/)_Le Journal de la Next-Gen doit publier rapidement sur Internet des informations pertinentes sur les logiciels et matériels dédiés aux postes de travail des utilisateurs de PC qui travaillent avec Windows, Mac ou Linux. Traiter le plus d’informations pertinentes en peu de temps est une nécessité pour les journalistes du Journal de la Next-Gen. Une perte de temps, c’est risquer de ne pas présenter des informations importantes avec le bon timing. Plus il y a de sources d’informations à traiter et plus le papier risque de s’accumuler. Les membres de la rédaction du Journal de la Next-Gen ont dû s’équiper afin de traiter le plus rapidement possible les informations papier et électroniques à leur disposition. Pour accélérer la rédaction d’articles après avoir numériser des informations, il était nécessaire ensuite de pouvoir les réutiliser facilement et rapidement. Cela impliquait de réduire très significativement la réécriture et le reformatage des informations pertinentes afin de les réutiliser à travers des formats connus comme Word, Excel, HTML ou PDF. Le principal objectif était de fortement faciliter la communication au sein de l’équipe du Journal de la Next-Gen. Cette équipe comprend 5 personnes: 3 journalistes, 1 rédacteur et un associé._
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Solution
 
@@ -68,8 +82,12 @@ Contact
 Partager 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -82,8 +100,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +107,16 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-a-compreeved-look-at-effective-spotify-ad-implementation-for-2024/"><u>[New] A Compreeved Look at Effective Spotify Ad Implementation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-creating-a-backup-securing-your-fb-messenger-records/"><u>[New] Creating a Backup Securing Your FB Messenger Records</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1724766684546-mp4dvd/"><u>「どうやってMP4動画がDVDプレイヤーで再生可能に？失敗ゼロの方法ガイドと優秀な無料コンバータソフトをご紹介」</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-assessment-unveiling-du-recorders-features/"><u>2024 Approved Comprehensive Assessment Unveiling Du Recorder's Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-method-for-recorded-instagram-stories/"><u>2024 Approved The Ultimate Method for Recorded Instagram Stories</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/anker-solix-c800plus-portable-charger-evaluation-your-ultimate-night-time-energy-solution/"><u>Anker Solix C800+ Portable Charger Evaluation: Your Ultimate Night-Time Energy Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/compact-and-mighty-security-an-in-depth-expressvpn-airsecure-gear-examination/"><u>Compact & Mighty Security: An In-Depth ExpressVPN AirSecure Gear Examination</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-t30s-versatile-vacuuming-for-floors-and-stairs/"><u>Comprehensive Evaluation of the Ecovacs Deebot T30S: Versatile Vacuuming for Floors and Stairs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+</ul></div>
 

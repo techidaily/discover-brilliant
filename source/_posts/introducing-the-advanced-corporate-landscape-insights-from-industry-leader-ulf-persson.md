@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Advanced Corporate Landscape: Insights From Industry Leader, Ulf Persson"
-date: 2024-08-25T23:54:35.565Z
-updated: 2024-08-26T23:54:35.565Z
+date: 2024-10-01T19:24:07.552Z
+updated: 2024-10-05T16:58:49.828Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef3054d20b60fdb2ab68b2e719b.png
@@ -30,6 +30,13 @@ Still, many of the same challenges exist: volatile market conditions, reduced wo
 
 However, there is a noticeable slowing in information technology (IT) decision-making. The haste during the pandemic to bypass standard sales cycles has left many organizations with technical debt and siloed solutions that haven’t made the impact promised. This has caused decision makers to untangle and reassess their automation solutions and be more prudent with future investments.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How AI Identity Proofing Is Transforming Government Services
 
 eBook
@@ -48,6 +55,13 @@ I encourage you to subscribe to The Intelligent Enterprise and learn about other
 
 ![Ulf Persson 110X110 (2)](https://static4.abbyy.com/abbyycommedia/37001/ulf-persson_110x110-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ulf Persson
 
 Chief Executive Officer at ABBYY
@@ -59,8 +73,12 @@ Over the past 20 years, Ulf Persson has been involved as an investor and board m
 Follow Ulf on [LinkedIn](https://www.linkedin.com/in/ulf-persson-10085a79/).
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Additional Insights:
 
 1 / 3 
@@ -68,8 +86,12 @@ Follow Ulf on [LinkedIn](https://www.linkedin.com/in/ulf-persson-10085a79/).
 [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![The Changing Role of the Finance Leader](https://static5.abbyy.com/abbyycommedia/37012/finance_1134322021_848x444.jpg) **The Changing Role of the Finance Leader** Read more](https://tools.techidaily.com/abbyy/products/) [![Three Ways AI Is Making Employees Happier](https://static2.abbyy.com/abbyycommedia/36944/ai_happier_employees_1160730188_848x444.jpg) **Three Ways AI Is Making Employees Happier** Read more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Subscribe for updates
 
 Get updated on the latest insights and perspectives for business & technology leaders
@@ -118,8 +140,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +147,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-to-use-luts-in-premiere-pro-for-2024/"><u>[Updated] How To Use LUTs In Premiere Pro for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigate-your-way-to-joining-google-live-video-sessions/"><u>[Updated] Navigate Your Way to Joining Google Live Video Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>[Updated] Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-methods-to-convert-mts-m2ts-and-ts-videos-into-high-quality-mov-format-a-step-by-step-guide/"><u>Best Methods to Convert MTS, M2TS & TS Videos Into High-Quality MOV Format – A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/combien-convertissez-des-videos-facilement-avec-winx-hd-video-converter-deluxe/"><u>Combien Convertissez Des Vidéos Facilement Avec WinX HD Video Converter Deluxe ?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discussing-the-merits-and-drawbacks-of-aurora-hdr-tech-for-2024/"><u>Discussing the Merits and Drawbacks of Aurora HDR Tech for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effiziente-methoden-zur-komprimierung-oder-konvertierung-hochauflosender-4k-videos-in-hd-1080p-qualitat-ein-umfassender-leitfaden/"><u>Effiziente Methoden Zur Komprimierung Oder Konvertierung Hochauflösender 4K Videos in HD 1080P Qualität: Ein Umfassender Leitfaden.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-guide-easy-to-install-vrecorder/"><u>Essential Guide Easy-to-Install VRecorder</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-get-your-full-cashback-with-winxdvds-easy-return-guarantee/"><u>How To Get Your Full Cashback With WinXDVD's Easy Return Guarantee</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-xr-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone XR Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1725284893586-mp4mp3/"><u>MP4ビデオ化用MP3に画像を組み合わせら 効果的なソフトウェアリスト</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixing-usb-tethering-issues/"><u>Troubleshooting Guide: Fixing USB Tethering Issues</u></a></li>
+</ul></div>
 

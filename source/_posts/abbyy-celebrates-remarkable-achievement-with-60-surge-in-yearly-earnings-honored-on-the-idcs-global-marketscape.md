@@ -1,7 +1,7 @@
 ---
 title: ABBYY Celebrates Remarkable Achievement with 60%% Surge in Yearly Earnings – Honored on the IDC's Global MarketScape
-date: 2024-08-25T23:54:55.339Z
-updated: 2024-08-26T23:54:55.339Z
+date: 2024-10-01T04:04:20.136Z
+updated: 2024-10-05T21:27:15.614Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce130fdd9928a29e2fa7b69ddd1.jpg
@@ -47,20 +47,35 @@ Bruce Orcutt, Chief Marketing Officer d'ABBYY
 
 Après avoir nommé récemment Bruce Orcutt au poste de CMO, ABBYY intensifie ses efforts de R&D grâce à l'intégration d'une nouvelle équipe composée d'ingénieurs expérimentés. Sous la direction de Patrick Jean, CTO/CPO d'ABBYY, l'équipe comprend Sanju Nair, VP des opérations produits et PMO, ainsi que les VP ingénierie Morgan Logue et Andy Wahrenberger.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### À PROPOS D’ABBYY
 
 ABBYY transforme vos données pour les mettre au service de l'entreprise. Nous combinons l'innovation et l'expérience pour transformer les informations issues de documents stratégiques en résultats exploitables et pertinents, dans plus de 200 langues et en temps réel. Nous permettons à plus de 10 000 entreprises dans le monde, y compris de nombreuses entreprises du classement Fortune 500, d'avoir un impact majeur là où cela compte le plus : l'expérience client, l'excellence opérationnelle et la compétitivité. ABBYY est une entreprise mondiale dont le siège social se trouve à Milpitas, en Californie, et qui dispose de bureaux dans 14 pays. ABBYY est le partenaire [officiel d’intelligente automation du club de football féminin d'Arsenal](https://tools.techidaily.com/abbyy/products/). Pour plus d'informations, consultez le site www.abbyy.com/company et rejoignez-nous sur [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware?ref%5Fsrc=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) et [Facebook](https://www.facebook.com/ABBYYsoft/?locale=fr%5FFR).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -76,8 +91,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +98,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-discovering-this-years-most-captivating-yt-tales/"><u>[New] In 2024, Discovering This Year's Most Captivating YT Tales</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-device-independent-techniques-for-capturing-youtube-live-streams/"><u>[Updated] 2024 Approved Mastering Device-Independent Techniques for Capturing YouTube Live Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-intro-steps-and-template-guide-for-2024/"><u>[Updated] Free YouTube Intro Steps and Template Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-selection-non-advertising-android-recording-tools/"><u>[Updated] In 2024, Ultimate Selection Non-Advertising Android Recording Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-high-speed-video-transitions-with-ease/"><u>[Updated] Navigating High-Speed Video Transitions with Ease</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-how-to-watch-your-iphones-videos-on-an-android-device-explore-two-easy-conversion-techniques/"><u>1. How to Watch Your iPhones' Videos on an Android Device: Explore Two Easy Conversion Techniques</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726026417568-pc/"><u>映像加工：PCで簡単に動画にモザイクを適用する手順</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726029177332-5/"><u>最高の動画字幕ツールトップ5 - 魅力的な文字と字幕を簡単に追加！</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-guide-to-mac-screenshot-conversion/"><u>A Comprehensive Guide to Mac Screenshot Conversion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/action-footage-enhanced-top-mic-picks/"><u>Action Footage Enhanced Top Mic Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared/"><u>Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726027295924-mp4/"><u>MP4ファイルへのオーディオ録音２種トリック</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726030458022-pcdvd/"><u>PC上のDVD鑑賞: 借りた映画をバックアップする自由・有料方法集</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726027606946-tiktokpc/"><u>TikTok動画をPCに簡単にストリーミングして保管する方法 - 「一括保存」の仕組み解説</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726030291649-3/"><u>パソコンにおすすめの3つの最適な写真スライドショー作成手法</u></a></li>
+</ul></div>
 

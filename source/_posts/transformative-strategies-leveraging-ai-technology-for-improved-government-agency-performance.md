@@ -1,7 +1,7 @@
 ---
 title: "Transformative Strategies: Leveraging AI Technology for Improved Government Agency Performance"
-date: 2024-08-30T11:23:28.530Z
-updated: 2024-08-31T11:23:28.530Z
+date: 2024-10-02T00:43:30.630Z
+updated: 2024-10-05T23:51:22.129Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg
@@ -28,9 +28,12 @@ When the pandemic forced brick-and-mortar service providers to close their doors
 [As Sha Hwang and Annelies Goger of the Brookings Institution recently noted](https://www.brookings.edu/blog/the-avenue/2022/01/12/want-to-restore-trust-in-government-start-with-customer-experience/), “The frustration many Americans experience in even the most basic interactions with government—like renewing a driver’s license or filing taxes—fractures trust in our institutions, which is already near historic lows.” In an effort to turn the tide, United States President Joe Biden signed [an executive order calling on federal agencies to make services—particularly digital services—easier to use](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/), more modernized, and more transparent.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Retaining top talent
 
 Another unforeseen outcome of the pandemic is the “Great Resignation,” the wave of post-lockdown job changing that began in the spring of 2021—driven primarily, [as a Gallup survey revealed, by workers who identified as being “not engaged” or “actively disengaged](https://www.gallup.com/workplace/351545/great-resignation-really-great-discontent.aspx)”. While quit rates within the federal government remained relatively steady, the Rockefeller Institute of Government reports that [the employment level in state and local government is still 928,000 below where it was before the pandemic hit](https://rockinst.org/blog/the-great-resignations-impact-on-local-government/).
@@ -40,17 +43,18 @@ The Great Resignation became a wake-up call to employers across industries about
 Given the current state of affairs, government organizations on all levels—federal, state, and local—need strategies that elevate both citizen and employee experiences while optimizing the use of their resources.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What is total experience (TX)?
 
 [Total experience for government entities, according to Gartner,](https://www.gartner.com/en/newsroom/press-releases/2021-12-15-government-predicts-2022) combines the disciplines of user experience (UX), citizen experience (CX), employee experience (EX) and multiexperience (MX) into one holistic approach toward service design and delivery. A TX strategy ensures that resources across CX, EX, UX and MX disciplines collaborate to uncover new opportunities for improved service delivery that increases both citizen and employee satisfaction and improves the government’s mission outcomes.
 
 The approach made the research firm’s list of [Top 10 Government Technology Trends for 2022](https://www.gartner.com/en/newsroom/press-releases/2022-02-21-govt-tech-trends-2022-press-release), on the grounds of its ability to drive progress towards the high-priority goals of retaining top talent and improving the delivery of citizen services. [Principal Research Analyst Apeksha Kaushik recently commented](https://www.gartner.com/en/newsroom/press-releases/2021-12-15-government-predicts-2022), “Governments must move from a siloed approach to a cohesive strategy encompassing employee experience and citizen experiences across multiple platforms, channels, and technologies in the most intuitive user experience.”
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The role of AI in improving TX
 
 As government organizations explore strategies for achieving their TX goals, many are looking to the private sector for inspiration, and many of those inspiring stories center around the use of artificial intelligence. In businesses across industries, technologies such as machine learning, natural language processing (NLP), and natural language understanding (NLU) are enabling transformative experiences that benefit customers and employees alike. Here are just a few examples of AI-driven technologies that are helping businesses build a better TX.
@@ -70,15 +74,16 @@ Chatbot technology has come a long way in recent years, and customer service tea
 Intelligent process automation enables employees to benefit from faster, smoother processes that minimize the need to track down paper trails or troubleshoot procedural breakdowns, while customers benefit from faster overall service delivery.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Customer sentiment analysis
 
 When customers contact a business, machine learning and NLP tools can “listen in” to determine the caller’s intent, evaluate their emotional state, and even detect possible fraudulent behavior. For example, [Deloitte’s Behavioral and Emotion Analytics Tool (BEAT)](https://www.deloitte.com/global/en/Industries/financial-services/perspectives/gx-ai-and-risk-management.html), developed for the financial services industry, monitors voice interactions to devise a “risk score” based on word choice, rate of speech, and other factors. The higher the score, the more the agent can be on alert for a potential complaint or possible fraudulent activity.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Identity proofing and affirmation
 
 For industries at high risk for fraud, such as banking and insurance, offering mobile services such as customer onboarding and claim filing presents the dilemma of how to ensure that users are who they claim to be. With [identity proofing and identity affirmation](https://tools.techidaily.com/abbyy/products/), users provide proof of their identity via identification (ID) cards, photos, and supporting documents, and AI-based tools step in to read, verify, and authenticate the submissions, including facial matching against a real-time “selfie.” Employees are freed from the tedious task of reviewing and verifying customer documents, and customers can enjoy historically in-person-only services with a few taps on their smartphones.
@@ -92,13 +97,24 @@ A secure mobile application can eliminate the need to go to the DMV office and w
 The California DMV has adopted this approach for its services, and the results have been impressive. “We’ve gone from 28 minutes per Real ID transaction to about 10 minutes,” [Ajay Gupta, chief digital transformation officer at the California DMV recently told GCN](https://gcn.com/state-local/2021/01/how-ai-helped-californias-dmv-adapt-to-covid-closures/315928/). “AI-driven pre-screening is one of the reasons why we are able to do that. It also reduced customer visits because there are reduced returning customers due to incomplete documentation.”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Proving Identity in an Increasingly Remote World
 
 Infographic
 
 [Download infographic](https://static1.abbyy.com/abbyycommedia/36372/infographic-proofofidentity-proving-identity-in-an-increasingly-remote-world-en.pdf "Download infographic") 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Choosing the right solutions
 
@@ -106,19 +122,12 @@ As government entity leaders begin exploring AI tools that can help them achieve
 
 Working with a single vendor, on the contrary, enables organizations to avoid the headaches of the piecemeal approach and discover additional advantages. For example, integration of all the various components has already been done, which is good news for the IT department, and if an issue does arise, they have a single point of contact for troubleshooting. Furthermore, organizations only have to get approval for a single provider—a definite plus for the government sector, where vendor approval processes can be lengthy and labor intensive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Turning government entities into TX leaders
 
 Government organizations can no longer cling to legacy citizen and employee experiences on the grounds that “it’s the way we’ve always done it.” Constituents demand fluid, convenient delivery of services without having to wait in line, and employees demand freedom from rote tasks to focus on work that taps into their specialized skills and expertise. By adopting a TX approach, government entities can satisfy both parties, and AI-based tools enable them to achieve their goals while optimizing use of their current resources.
 
 ![Bruceorcutt 99X99](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Bruce Orcutt
 
 Chief Marketing Officer at ABBYY
@@ -130,6 +139,13 @@ Orcutt was previously SVP of Product Marketing where he led the product strategy
 He is a thought leader with market domain expertise in AI, machine learning, process and task mining, document and data capture, digital transformation, intelligent document processing, and hyperautomation. He also has deep experience with mobile platforms, customer experience, and has a passion for customer excellence.
 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Additional Insights:
 
@@ -159,9 +175,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Document AI Creating a Safer World**](https://tools.techidaily.com/abbyy/products/)
@@ -171,6 +184,13 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg)](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://tools.techidaily.com/abbyy/products/) 
 
@@ -202,9 +222,6 @@ Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 [![Welcome to The Intelligent Enterprise](https://static5.abbyy.com/abbyycommedia/37545/ulf-848x444-slate.png)](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [](https://tools.techidaily.com/abbyy/products/) 
 
 [**Welcome to The Intelligent Enterprise**](https://tools.techidaily.com/abbyy/products/)
@@ -259,8 +276,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,4 +283,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-building-brands-through-memes/"><u>[New] Building Brands Through Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online-for-2024/"><u>[Updated] Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-zooming-in-on-clarity-an-essential-guide-to-professional-quality-audio-recordings/"><u>[Updated] In 2024, Zooming In On Clarity An Essential Guide to Professional-Quality Audio Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-meme-magic-kinemaster-edition/"><u>[Updated] Unlocking Meme Magic KineMaster Edition</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abby-blog-ai-ocr/"><u>ABBY Blog: 成功確実のAI OCRベース帳票管理ソリューションに必要な鍵となる重要事項</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automated-with-cookiebot-enhance-your-website-traffic-and-analytics/"><u>Automated with Cookiebot: Enhance Your Website Traffic and Analytics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-integration-elevating-web-analytics-and-marketing-success/"><u>Cookiebot Integration - Elevating Web Analytics and Marketing Success</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhancing-your-sites-traffic-and-engagement/"><u>Cookiebot-Enabled: Enhancing Your Site's Traffic and Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-your-ultimate-baking-companion/"><u>Cookiebot: Your Ultimate Baking Companion</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/custom-user-experiences-driven-by-advanced-cookiebot-solutions/"><u>Custom User Experiences Driven by Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-your-site-traffic-with-cookiebot-technology/"><u>Drive Your Site Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-mp4-to-mpeg-conversion-effortless-with-movavi-video-editor/"><u>Free Online MP4 to MPEG Conversion - Effortless with Movavi Video Editor</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats/"><u>In 2024, Revolutionizing Virtual Meetings Hacks for Effective Zoom Chats</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-engaging-videos-with-these-top-rated-explainer-tools-for-2024/"><u>New Create Engaging Videos with These Top-Rated Explainer Tools for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-repair-unresponsive-apps-on-your-mac-computer/"><u>Step-by-Step Guide to Repair Unresponsive Apps on Your Mac Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming TRN Group's Document Processing: The Power of Invoice Automation with ABBYY FlexiCapture"
-date: 2024-08-25T23:57:33.920Z
-updated: 2024-08-26T23:57:33.920Z
+date: 2024-09-30T18:32:04.173Z
+updated: 2024-10-05T19:33:40.287Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg
@@ -24,6 +24,13 @@ Other | Accounts Payable Automation
 Other | Accounts Payable Automation 
 
 ![](https://static1.abbyy.com/abbyycommedia/15770/trn.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -86,9 +93,23 @@ Rajesh Patel, Director of Imaging and Document Management at Inland Technology, 
 
 [![4-flexicapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://www.abbyy.com/customer-stories/abbyy-flexicapture-helps-trn-group-add-invoice-automation/# "ABBYY FlexiCapture") [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
@@ -105,8 +126,12 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -119,8 +144,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +151,21 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-video-recorder-on-xiaomis-latest-megaphone/"><u>[New] 2024 Approved The Ultimate Video Recorder on Xiaomi's Latest MegaPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-apex-gk-quizmasters-video-channel-list-for-2024/"><u>[New] Apex GK Quizmasters' Video Channel List for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-discover-the-power-of-easy-trimming-with-windows-photos-app/"><u>[Updated] In 2024, Discover the Power of Easy Trimming with Windows Photos App</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-enhancing-ps5-10-powerful-external-drives/"><u>[Updated] In 2024, Enhancing PS5 10 Powerful External Drives</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-how-to-watch-your-iphones-videos-on-an-android-device-explore-two-easy-conversion-techniques/"><u>1. How to Watch Your iPhones' Videos on an Android Device: Explore Two Easy Conversion Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726026417568-pc/"><u>映像加工：PCで簡単に動画にモザイクを適用する手順</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-conversion-change-mp4-files-to-mpeg-format-with-ease/"><u>Free Online Conversion: Change MP4 Files to MPEG Format with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-journey-in-sky-high-4k-clarity/"><u>In 2024, The Ultimate Journey in Sky High 4K Clarity</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-transforming-your-mkv-videos-into-wmv-using-top-rated-applications-and-websites/"><u>Step-by-Step Tutorial: Transforming Your MKV Videos Into WMV Using Top Rated Applications & Websites</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-ranking-hd-video-compression-tools-ideal-choices-for-enhancing-your-hd-full-hd-qhd-2k-4k-and-8k-content/"><u>Top-Ranking HD Video Compression Tools: Ideal Choices for Enhancing Your HD, Full HD, QHD, 2K, 4K & 8K Content</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-top-notch-dvd-to-android-media-conversion-tools/"><u>Ultimate Guide: Top-Notch DVD to Android Media Conversion Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-tutorial-on-resizing-2k-videos-down-to-1080p-resolution/"><u>Ultimate Tutorial on Resizing 2K Videos Down to 1080P Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-censored-windows-11-theme-options-with-registry/"><u>Unveiling Censored Windows 11 Theme Options with Registry</u></a></li>
+</ul></div>
 

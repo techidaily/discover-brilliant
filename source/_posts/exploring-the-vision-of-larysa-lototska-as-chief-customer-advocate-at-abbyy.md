@@ -1,7 +1,7 @@
 ---
 title: Exploring the Vision of Larysa Lototska as Chief Customer Advocate at ABBYY
-date: 2024-08-25T23:57:20.484Z
-updated: 2024-08-26T23:57:20.484Z
+date: 2024-10-04T00:07:42.402Z
+updated: 2024-10-06T03:34:30.978Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f7029f1358b11e947d20dbef.jpg
@@ -29,22 +29,36 @@ Three things attracted me to ABBYY: people, culture, technologies. ABBYY is an a
 
 I am Director of Customer Success North America and am based 30 miles from Boston, Massachusetts. Customer Success means going above and beyond for our clients. Our goal is to make sure that customers have a great experience with ABBYY’s products and services. Helping customers, seeing their success and how thankful they are—these are the most exciting parts of my job.
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What was your previous experience before ABBYY?
 
 I’ve been with ABBYY since 2004, so basically, I ‘grew up’ professionally here. I started at an ABBYY office in Eastern Europe and later, when my family moved to the USA, I continued my career with the company. In a previous position, as a Technical Product Marketing Manager for the software development kit (SDK) team, I was responsible for technical product marketing activities for ABBYY FineReader. Prior to that, I was a Technology Licensing Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Your top advice to someone working in your field?
 
 * Treat your customer as you would like to be treated.
 * Listen and try to understand what problem your customer is trying to solve, and proactively provide solutions and answers.
 * Enjoy what you are doing! We spend a huge part of our life at work, so if we do not enjoy what we are doing, it’s a straight path to feeling miserable.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Do you have any hobbies or fun interests?
 
 I treasure every minute I spend with my family. My son’s climbing competitions and soccer games were a very important part of my life before he left for college. My daughter, who is now a high school junior, keeps us entertained with her dance competitions.
@@ -56,20 +70,25 @@ As a family we hiked to the top of the two tallest peaks in the White Mountains�
 ![two children and two adults family at Mt. Washington summit](https://static1.abbyy.com/abbyycommedia/34361/larysalototska-mount.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 My two other hobbies are more relaxing. I absolutely love egg painting using old beeswax and color dyeing techniques. It’s an art called "pysanka" in Ukraine. I also love embroidery, mainly cross stitching. I decorate traditional Ukrainian clothes and make embroidery pictures.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### If you had one wish come true, what would it be?
 
 I lost my mom to a very aggressive and untreatable cancer. If I had one wish, it would be to create a magic pill to cure any kind of cancer.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What’s your pet peeve?
 
 People lying. My parents taught me many good life lessons—and one was to never lie. My dad used to say, “Sooner or later the truth will be uncovered, and you will be in a much worse situation than if you stated the truth at the beginning”.
@@ -82,9 +101,6 @@ It also bothers me when I hear anyone say, “I do not know how to do this”. W
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -139,8 +155,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +162,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-step-by-step-tutorial-to-create-engaging-valorant-videos-with-thumbnails/"><u>[New] 2024 Approved Step-by-Step Tutorial to Create Engaging Valorant Videos with Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-circulating-content-the-art-of-playlist-sharing-for-2024/"><u>[Updated] Circulating Content The Art of Playlist Sharing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-audience-connection-through-android-and-ios-streams/"><u>[Updated] Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-and-mastering-instagram-filters-a-2023-guide/"><u>[Updated] In 2024, Navigating and Mastering Instagram Filters A 2023 Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>[Updated] The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cddvdusb/"><u>您好，只需一下子就能将CD/DVD复制到计算机硬盘或USB驱动器上</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-ways-to-resolve-persistent-iphone-app-crashes-a-10-point-guide/"><u>Best Ways to Resolve Persistent iPhone App Crashes: A 10-Point Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvdmkv/"><u>DVD化すべくMKVファイルの完璧な手ほどき：忙しい日々でも成功しますように</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-steps-for-burning-original-music-cds-with-imgburn-explained/"><u>Effortless Steps for Burning Original Music CDs with ImgBurn Explained</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/en-ligne-transformer-avi-en-mkv-sans-frais-a-laide-de-vlc-et-handbrake/"><u>En Ligne - Transformer AVI en MKV Sans Frais À L'aide De VLC Et Handbrake !</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/entdecken-sie-die-besten-wm-2018-fifa-matches-videos-von-youtube-jetzt-verfugbar/"><u>Entdecken Sie Die Besten WM 2018 FIFA-Matches Videos Von Youtube - Jetzt Verfügbar!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/erweiterte-rf-werte-handbrake-professionelle-einstellungstipps-fur-hochwertige-medienaufnahmen/"><u>Erweiterte RF-Werte HandBrake - Professionelle Einstellungstipps Für Hochwertige Medienaufnahmen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-hot-40-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Hot 40 Pro</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/perfect-methods-for-lossless-dvd-ripping-ensuring-complete-preservation-of-original-quality/"><u>Perfect Methods for Lossless DVD Ripping Ensuring Complete Preservation of Original Quality</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/schnelles-und-einfaches-verfahren-zum-sicheren-aufspielen-einer-alten-oder-neuen-dvd-innerhalb-von-5-minuten-ohne-bild-oder-tonqualitatsverlust/"><u>Schnelles Und Einfaches Verfahren Zum Sicheren Aufspielen Einer Alten Oder Neuen DVD Innerhalb Von 5 Minuten Ohne Bild- Oder Tonqualitätsverlust</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-5-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-x50iplus-by-drfone-android/"><u>Three Ways to Sim Unlock Honor X50i+</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-advanced-llms-large-language-models-you-should-know/"><u>Top 6 Advanced LLMs (Large Language Models) You Should Know</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvdmp4-dvd-mp4/"><u>ダイナミックなDVDからMP4への自由な変換 - DVD MP4変更無料ガイド</u></a></li>
+</ul></div>
 
