@@ -1,7 +1,7 @@
 ---
 title: "Fast Techniques to Shrink Video Files: Top 3 No-Cost Tools and Tips"
-date: 2024-10-01T03:53:40.655Z
-updated: 2024-10-06T06:01:00.712Z
+date: 2024-10-06T18:17:39.859Z
+updated: 2024-10-11T16:44:54.512Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd629d2e9e9c88ebc255585bb.jpg
@@ -240,6 +240,13 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -255,10 +262,10 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
@@ -313,29 +320,9 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -345,13 +332,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -360,16 +340,16 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -379,6 +359,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -386,10 +373,16 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
@@ -444,10 +437,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -455,6 +448,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -474,6 +474,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -522,13 +529,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -607,22 +607,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-comprehensive-review-of-zd-soft-capture-tool/"><u>[New] In 2024, Comprehensive Review of ZD Soft Capture Tool</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-screen-success-brand-endorsement-strategies/"><u>[New] In 2024, Screen Success Brand Endorsement Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-success-with-tubebuddy-for-2024/"><u>[New] The Ultimate Guide to YouTube Success with TubeBuddy for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-expert-guide-downloading-and-converting-vimeo-video-mp4/"><u>[Updated] 2024 Approved Expert Guide Downloading and Converting Vimeo Video (MP4)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-influential-hashtags-on-ig/"><u>[Updated] 2024 Approved Mastering the Art of Influential Hashtags on IG</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/como-cambiar-de-mp4-a-dvd-sin-problemas-top-18-tecnicas-con-movavi/"><u>Cómo Cambiar De MP4 a DVD Sin Problemas: ¡Top 18 Técnicas Con Movavi!</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/conversion-de-archivos-m4b-sin-costo-con-movavi-instrucciones-sencillas-y-efectivas/"><u>Conversión De Archivos M4B Sin Costo Con Movavi - Instrucciones Sencillas Y Efectivas</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-brother-l2740dw-printer-drivers-on-windows-complete-guide/"><u>Download Brother L2740DW Printer Drivers on Windows: Complete Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-power-of-youtube-backlinks-for-creators/"><u>In 2024, Unveiling the Power of YouTube Backlinks for Creators</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/les-5-meilleurs-programmes-de-montage-pour-windows-en-remplacement-de-final-cut-pro/"><u>Les 5 Meilleurs Programmes De Montage Pour Windows en Remplacement De Final Cut Pro</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/movavi-converter-gratis-jp2-em-jpeg-pela-internet/"><u>Movavi: Converter Grátis JP2 Em JPEG Pela Internet</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-3gp-file-trimmer-edit-and-split-your-videos-easily-for-2024/"><u>New 3GP File Trimmer Edit and Split Your Videos Easily for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/razer-keyboard-issues-how-to-restore-backlight-functionality-effectively/"><u>Razer Keyboard Issues? How to Restore Backlight Functionality Effectively!</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-10-meilleurs-outils-de-montage-video-gratuits-pour-professionnels-et-enfants/"><u>Top 10 Meilleurs Outils De Montage Vidéo Gratuits Pour Professionnels Et Enfants</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/transformation-sans-frais-dun-fichier-pcx-en-jpeg-sur-le-web-avec-movavi/"><u>Transformation Sans Frais D'un Fichier PCX en JPEG Sur Le Web Avec Movavi</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/transformez-rapidement-vos-videos-wmv-en-format-asf-sans-frais-a-laide-du-convertisseur-videoone/"><u>Transformez Rapidement Vos Vidéos WMV en Format ASF Sans Frais À L'aide Du Convertisseur VIDEOONE</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-the-16-premier-iso-writers-for-cross-platform-use-on-windows-and-mac-systems/"><u>Ultimate Guide: The 16 Premier ISO Writers for Cross-Platform Use on Windows & Mac Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video/"><u>[New] 2024 Approved Stop The Sway Achieve Solidity in Your Handhraned GoPro Video</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet/"><u>[New] Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-8-ultra-sharp-5k-display-choices/"><u>[Updated] 2024 Approved Top 8 Ultra-Sharp 5K Display Choices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-media-mastery-pro-level-tips-for-pcmac-downloading/"><u>[Updated] Instagram's Media Mastery Pro-Level Tips for PC/Mac Downloading</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeos-easy-to-use-editing-tools-no-cost/"><u>2024 Approved Vimeo's Easy-to-Use Editing Tools, No Cost</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ableton-tricks-to-subtly-lower-track-amplitude/"><u>Ableton Tricks to Subtly Lower Track Amplitude</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-spend-on-successful-youtube-videos-for-2024/"><u>Average Spend on Successful YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/engineering-your-social-media-iconography/"><u>Engineering Your Social Media Iconography</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/essential-highlights-of-mwc-2n-dheme-2018-as-seen-by-abbyy-uncovering-key-trends-and-innovations/"><u>Essential Highlights of MWC 2N-Dheme 2018 as Seen by ABBYY - Uncovering Key Trends and Innovations</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/experience-improved-online-tracking-through-advanced-cookiebot-solutions/"><u>Experience Improved Online Tracking Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exploring-advanced-warehouse-automation-techniques-in-our-2020-virtual-expert-roundtable/"><u>Exploring Advanced Warehouse Automation Techniques in Our 2020 Virtual Expert Roundtable</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exploring-the-vision-of-larysa-lototska-as-chief-customer-advocate-at-abbyy/"><u>Exploring the Vision of Larysa Lototska as Chief Customer Advocate at ABBYY</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/harnessing-the-power-of-cookiebot-for-tailored-web-engagement/"><u>Harnessing the Power of Cookiebot for Tailored Web Engagement</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/herve-laurandin-as-nouveau-directeur-de-abbyy-en-france-une-evolution-strategique/"><u>Hervé Laurandin as Nouveau Directeur De ABBYY en France: Une Évolution Stratégique</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/iphone-document-scanning-and-conversion-with-ocr-mastering-text-recognition-using-finereader/"><u>IPhone Document Scanning & Conversion with OCR: Mastering Text Recognition Using FINEREADER</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-hackathon-excellence-strategies-for-promoting-innovative-thinking-and-achieving-successful-results/"><u>Mastering Hackathon Excellence: Strategies for Promoting Innovative Thinking & Achieving Successful Results</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-the-art-of-page-optimization-for-search-engine-success/"><u>Mastering the Art of Page Optimization for Search Engine Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-restrictions-to-write-files-in-windows-11-os/"><u>Overcoming Restrictions to Write Files in Windows 11 OS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-video-splitter-tools-online-and-offline-editors-compared/"><u>Updated In 2024, Free Video Splitter Tools Online and Offline Editors Compared</u></a></li>
 </ul></div>
 
