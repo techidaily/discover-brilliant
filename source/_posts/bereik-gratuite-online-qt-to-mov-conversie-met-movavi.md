@@ -1,7 +1,7 @@
 ---
 title: Bereik Gratuite Online QT-to-MOV-Conversie Met Movavi
-date: 2024-10-05T16:08:54.759Z
-updated: 2024-10-11T18:14:44.884Z
+date: 2024-10-13T18:33:22.131Z
+updated: 2024-10-17T21:05:22.670Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c24d1ddb32b678a579f7aa1d.jpg
@@ -153,10 +153,10 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 Afficher plus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
@@ -168,6 +168,13 @@ Afficher plus
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
@@ -190,13 +197,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -235,13 +235,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -287,16 +280,16 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -306,6 +299,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -314,13 +314,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -332,6 +325,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -369,29 +369,9 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -479,6 +459,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -510,6 +497,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -533,13 +527,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -549,6 +536,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -607,24 +601,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-calculator-projected-profits-from-youtube/"><u>[New] 2024 Approved Calculator Projected Profits From YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perpetual-screen-moments-tool/"><u>[New] In 2024, Perpetual Screen Moments Tool</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-seamless-audio-edits-with-garageband-features/"><u>[New] In 2024, Seamless Audio Edits with GarageBand Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-master-recommendations-best-audio-crafting-pros/"><u>[New] Master Recommendations Best Audio Crafting Pros</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-art-of-anime-adaptation-jujutsu-kaisens-tiktok-success-for-2024/"><u>[Updated] The Art of Anime Adaptation Jujutsu Kaisen's TikTok Success for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-easily-erase-identity-blurring-techniques-in-videos/"><u>2024 Approved Easily Erase Identity Blurring Techniques in Videos</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/404-error-page-missing-digital-artistry-solutions/"><u>404 Error: Page Missing - Digital Artistry Solutions</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/buy-a-full-license-for-winxvideo-ai-exclusive-offer-and-premium-features/"><u>Buy a Full License for Winxvideo AI: Exclusive Offer & Premium Features</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/combien-convertissez-des-videos-facilement-avec-winx-hd-video-converter-deluxe/"><u>Combien Convertissez Des Vidéos Facilement Avec WinX HD Video Converter Deluxe ?</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effiziente-methoden-zur-komprimierung-oder-konvertierung-hochauflosender-4k-videos-in-hd-1080p-qualitat-ein-umfassender-leitfaden/"><u>Effiziente Methoden Zur Komprimierung Oder Konvertierung Hochauflösender 4K Videos in HD 1080P Qualität: Ein Umfassender Leitfaden.</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enabling-nvidias-nvenc-codec-a-comprehensive-guide-for-handbrake-users/"><u>Enabling NVIDIA's NVENC Codec: A Comprehensive Guide for Handbrake Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/how-to-significantly-reduce-the-size-of-high-definition-4k-and-8k-video-files-by-up-to-90/"><u>How to Significantly Reduce the Size of High-Definition, 4K, and 8K Video Files by Up to 90%</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>In 2024, Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/mastering-quick-video-downsizing-techniques-utilizing-the-power-of-7-zip-software/"><u>Mastering Quick Video Downsizing Techniques Utilizing the Power of 7-Zip Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mirrorless-mastery-10-best-stabilizing-choices/"><u>Mirrorless Mastery 10 Best Stabilizing Choices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ight-sound-the-right-mic-top-recommendations-for-diverse-online-presence-for-2024/"><u>The Right Sound, The Right Mic Top Recommendations for Diverse Online Presence for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-10-sichere-und-schnelle-videokonverteranwendungen-fur-windows-10-und-windows-11-auflistung/"><u>Top 10 Sichere Und Schnelle Videokonverteranwendungen Für Windows 10 Und Windows 11 - Auflistung</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/winx-dvd-ripper-complete-edition-updated-history-and-new-capabilities-revealed/"><u>WinX DVD Ripper Complete Edition Updated History & New Capabilities Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-storytelling-infuse-your-videos-and-stories-with-tunes/"><u>[New] Instagram Storytelling Infuse Your Videos & Stories with Tunes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-gaming-videography-101-the-ultimate-guide-to-recording-for-2024/"><u>[Updated] Gaming Videography 101 The Ultimate Guide to Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] In 2024, Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-youtube-thumbnail-secrets-for-high-traffic-videos/"><u>[Updated] Top 8 YouTube Thumbnail Secrets for High Traffic Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-the-power-of-magix-clip-studio-for-2024/"><u>[Updated] Unveiling the Power of MAGIX Clip Studio for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-your-online-presence-with-manycams-advanced-live-video-features-and-virtual-camera-solutions/"><u>Enhance Your Online Presence with ManyCam's Advanced Live Video Features and Virtual Camera Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-your-live-streams-with-professional-virtual-cameras-exploring-the-top-software-beyond-manycam/"><u>Enhancing Your Live Streams with Professional Virtual Cameras: Exploring the Top Software Beyond ManyCam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-driver-download-for-windows-1187/"><u>Epson WorkForce DS 30 Driver Download for Windows 11/8/7</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/live-streaming-made-simple-with-manycam-top-virtual-webcam-software-solution/"><u>Live Streaming Made Simple with ManyCam: Top Virtual Webcam Software Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/live-streaming-mastery-with-manycam-advanced-features-and-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Advanced Features and Virtual Webcam Solutions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/live-streaming-mastery-with-manycam-premium-virtual-webcam-and-recording-app/"><u>Live Streaming Mastery with ManyCam: Premium Virtual Webcam & Recording App</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-virtual-webcam-and-video-editing-tool/"><u>Live Streaming Mastery: Discover ManyCam - The Ultimate Virtual Webcam and Video Editing Tool</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/real-time-broadcasting-with-manycam-top-live-streaming-apps-and-webcam-solutions/"><u>Real-Time Broadcasting with ManyCam: Top Live Streaming Apps and Webcam Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-note-12-pro-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi Note 12 Pro 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-productivity-on-the-move-discover-the-msi-pro-mp161e2-portable-monitor/"><u>Unleashing Productivity on the Move: Discover the MSI Pro MP161E2 Portable Monitor</u></a></li>
 </ul></div>
 
