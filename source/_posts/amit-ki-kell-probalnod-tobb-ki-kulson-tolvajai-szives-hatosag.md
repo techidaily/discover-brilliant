@@ -1,7 +1,7 @@
 ---
 title: Amit Ki Kell Próbálnod? Több Ki Külsön Tolvajai - Szíves Hatóság!
-date: 2024-10-13T18:34:56.312Z
-updated: 2024-10-17T21:22:59.665Z
+date: 2024-10-21T17:09:10.794Z
+updated: 2024-10-23T18:34:06.904Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c193a3029a59cdde359ecf8d8.jpg
@@ -156,19 +156,6 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -224,10 +211,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
@@ -241,13 +228,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -264,10 +244,10 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérez vos heures actives
@@ -299,6 +279,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -332,13 +319,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -346,6 +326,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -366,6 +353,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -413,6 +407,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -465,13 +466,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -503,6 +497,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -516,6 +517,19 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -525,13 +539,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -546,13 +553,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -607,24 +607,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-master-class-screenscreen-recording-using-adobe-captivating-software-for-2024/"><u>[New] Master Class Screenscreen Recording Using Adobe Captivating Software for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pinnacle-phones-the-supreme-choices-in-mobile-video-recording-for-2024/"><u>[New] Pinnacle Phones The Supreme Choices in Mobile Video Recording for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-maximizing-your-youtube-income-understanding-adsense-payments-for-every-1k-watch/"><u>[Updated] 2024 Approved Maximizing Your Youtube Income Understanding AdSense Payments for Every 1K Watch</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1726028846182-8/"><u>【無料】動画にメロディを付けるためのトップ8ソフトウェア選び方：専門家から学ぶ！</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1-instantly-convert-your-dng-photos-to-png-files-using-movavis-free-online-converter/"><u>1. Instantly Convert Your DNG Photos to PNG Files Using Movavi's Free Online Converter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-find-businesses-and-events-amidst-you-the-poi-guide-for-savvy-travelers/"><u>2024 Approved Find Businesses and Events Amidst You - The POI Guide for Savvy Travelers</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/movavi-rmvbavi/"><u>換一套新服裝: 利用 Movavi 在線將RMVB文件自由地變成AVI - 最佳無限制編解碼器選擇</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/convert-files-for-free-with-movavi-mpgmpeg-to-adobe-flash-swf-online-conversion/"><u>Convert Files For Free with Movavi - MPG/MPEG to Adobe Flash SWF Online Conversion</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhancing-comments-with-emojis-on-youtube/"><u>Enhancing Comments with Emojis on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-extended-prime-day-tablet-bargains-for-savvy-shoppers-guide/"><u>Exclusive: Extended Prime Day Tablet Bargains for Savvy Shoppers Guide</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/fuhrungstipps-zur-kostenlosen-umwandlung-von-tta-in-mp3-dateien-bei-movavi-online-tool/"><u>Führungstipps Zur Kostenlosen Umwandlung Von TTA in MP3 Dateien Bei Movavi Online-Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immersive-escapes-delving-into-jaunt-vr/"><u>Immersive Escapes Delving Into Jaunt VR</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue/"><u>In 2024, Maximize Earnings A Three-Pronged Approach to Monitoring YouTube Revenue</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/movavi-mp4-mpg/"><u>Movavi와 함께 인터넷에서 무료 MP4-MPG 변환 지침</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/online-gratuit-omzetten-van-mpeg-archives-professioneel-met-movavi/"><u>Online Gratuit Omzetten Van MPEG-Archives - Professioneel Met Movavi</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/os-13-mvps-em-software-de-gravacao-da-camera-no-windows-11-revisao-detalhada/"><u>Os 13 MVPs Em Software De Gravação Da Câmera No Windows 11 - Revisão Detalhada</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/tecnicas-praticas-solucoes-detalhadas-para-problemas-de-reproducao-de-audio-e-video-no-pc/"><u>Técnicas Práticas: Soluções Detalhadas Para Problemas De Reprodução De Áudio E Vídeo No PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-power-of-video-enhancer-22-for-professionals/"><u>Unveiling the Power of Video Enhancer 2.2 for Professionals</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/wmv-3g2-wmv-3g2/"><u>WMV 파일을 3G2로 제공할 수 있는 원격 인터넷 용 WMV-3G2 전환 도구 - 무료 쇼</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-how-to-watch-your-iphones-videos-on-an-android-device-explore-two-easy-conversion-techniques/"><u>1. How to Watch Your iPhones' Videos on an Android Device: Explore Two Easy Conversion Techniques</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726026417568-pc/"><u>映像加工：PCで簡単に動画にモザイクを適用する手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-newest-gamers-bundle-save-big-on-ryzen-7000-processors-and-radeon-rx-7000-graphics-cards-plus-two-bonus-free-games-excludes-ryzen-9000-launch/"><u>AMD's Newest Gamer's Bundle: Save Big on Ryzen 7000 Processors and Radeon RX 7000 Graphics Cards + Two Bonus Free Games (Excludes Ryzen 9000 Launch)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-crafting-engaging-youtube-screen-closures/"><u>In 2024, Mastering the Art of Crafting Engaging YouTube Screen Closures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-best-mac-screen-seize-tips-char-limit-156/"><u>In 2024, Top 5 Best Mac Screen Seize Tips (Char Limit 156)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hing-success-streamline-your-first-youtube-business-channels-for-2024/"><u>Launching Success Streamline Your First YouTube Business Channels for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lifewires-picks-20-movies-to-stream-right-now/"><u>Lifewire's Picks: 20 Movies to Stream Right Now</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-loadlib-error-87-issue/"><u>Remedying Windows LoadLib Error 87 Issue</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-social-trading-key-strategies-for-online-safety-on-fb/"><u>Secure Social Trading: Key Strategies for Online Safety on FB</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-shortening-and-refining-microsoft-teams-meeting-videos/"><u>Step-by-Step Tutorial: Shortening and Refining Microsoft Teams Meeting Videos</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-transforming-your-mkv-videos-into-wmv-using-top-rated-applications-and-websites/"><u>Step-by-Step Tutorial: Transforming Your MKV Videos Into WMV Using Top Rated Applications & Websites</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-ranking-hd-video-compression-tools-ideal-choices-for-enhancing-your-hd-full-hd-qhd-2k-4k-and-8k-content/"><u>Top-Ranking HD Video Compression Tools: Ideal Choices for Enhancing Your HD, Full HD, QHD, 2K, 4K & 8K Content</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-top-notch-dvd-to-android-media-conversion-tools/"><u>Ultimate Guide: Top-Notch DVD to Android Media Conversion Tools</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-tutorial-on-resizing-2k-videos-down-to-1080p-resolution/"><u>Ultimate Tutorial on Resizing 2K Videos Down to 1080P Resolution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-started-with-final-cut-pro-flipping-videos-made-easy/"><u>Updated In 2024, Get Started with Final Cut Pro Flipping Videos Made Easy</u></a></li>
 </ul></div>
 
