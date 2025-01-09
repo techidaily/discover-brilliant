@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Mastering the Art of Cropping Techniques in Adobe After Effects"
-date: 2024-12-30T20:28:30.687Z
-updated: 2025-01-01T22:41:57.652Z
+date: 2025-01-06T17:26:41.243Z
+updated: 2025-01-09T19:16:00.112Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324df271cfd9aff178b05822fa5.jpg
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![](https://cdn.staticont.net/page_type/0023/57/559e477e783936a5a58b105465a668a3338a02f2.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 2024 **年最佳 Windows 相片檢視器**
@@ -60,7 +56,7 @@ Movavi Photo Editor
 [![](https://cdn.staticont.net/pages/0023/55/a1d7ead2c461be068f9b2b2ab55c0f6d943eb66d.webp)](https://tools.techidaily.com/movavi/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Alex Weng](https://tools.techidaily.com/movavi/products/)
@@ -165,17 +161,9 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Windows Photo Viewer 圖片瀏覽器的最佳替代方案
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -208,7 +196,7 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
@@ -247,6 +235,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
 優點：
@@ -256,6 +248,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 使用者介面過時且不符合大眾口味
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -289,11 +285,19 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 佈局過於簡單，可能會使初學者困惑
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -320,14 +324,10 @@ Movavi Photo Editor
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 常見問題集
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
 
@@ -343,6 +343,10 @@ Movavi Photo Editor
 ### 那一個是用於觀賞照片的最佳軟體?
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
@@ -391,10 +395,6 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -412,7 +412,7 @@ Movavi Photo Editor
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 超過 150萬位用戶已訂閱我們的電子報
@@ -438,18 +438,24 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-share-your-youtube-playlist-journey/"><u>[New] Quick Share Your YouTube Playlist Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfectly-pivoted-videos-the-ultimate-android-editing-guide/"><u>[Updated] Perfectly Pivoted Videos The Ultimate Android Editing Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-in-the-classroom-best-practices-and-tips-for-educators/"><u>[Updated] YouTube in the Classroom Best Practices and Tips for Educators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-note-30-vip-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>2024 Approved How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-keeping-a-detailed-record-of-every-online-chat-on-fb/"><u>2024 Approved Keeping a Detailed Record of Every Online Chat on FB</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/best-available-mac-movie-converter-movavis-superb-program-for-att-andra-filmer-till-ett-ny-format/"><u>Best Available Mac Movie Converter: Movavi's Superb Program För Att Ändra Filmer Till Ett Ny Format</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/beste-pdf-leesprogrammas-top-6-pakketten-voor-efficient-documentenbewerking/"><u>Beste PDF-Leesprogramma's: Top 6 Pakketten Voor Efficiënt Documentenbewerking</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuita-y-pro-de-mkv-a-mp3-con-sonido-fidelidad-alta-optimizado-para-google-ranking/"><u>Conversión Gratuita Y Pro De MKV a MP3 Con Sonido Fidelidad Alta: Optimizado Para Google Ranking</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/edit-your-videos-with-movavi-get-the-powerful-video-editor-for-free-now/"><u>Edit Your Videos with Movavi - Get the Powerful Video Editor for Free Now!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-8-viral-vids-capturing-social-medias-attention-for-2024/"><u>Top 8 Viral Vids Capturing Social Media's Attention for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-high-ping-and-lag-in-chivalry-ii/"><u>Ultimate Guide: Solving High Ping & Lag in Chivalry II</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-musical-notes-on-call-creating-and-cutting-tamil-alert-songs/"><u>[New] 2024 Approved Musical Notes on Call Creating & Cutting Tamil Alert Songs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-video-power-windows-edition-explained/"><u>[New] HDR Video Power Windows Edition Explained</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sound-engineering-tips-to-elevate-your-video-content/"><u>[New] Sound Engineering Tips to Elevate Your Video Content</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/10-effective-methods-for-converting-dvd-content-into-mp4-format-on-both-windows-and-mac-systems/"><u>10 Effective Methods for Converting DVD Content Into MP4 Format on Both Windows and Mac Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-youtube-hashtag-strategies-for-boosting-your-contents-visibility/"><u>2024 Approved Top Youtube Hashtag Strategies for Boosting Your Content's Visibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-vanishing-act-cutting-duration-on-youtube/"><u>2024 Approved Video Vanishing Act Cutting Duration on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-itel-a60s-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Itel A60s to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/aiiphoneandroid20245/"><u>最新AI技術で画質向上！iPhone・Android対応の2024年版動画改善ツールベスト5。</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/best-video-encoders-of-2021-free-cross-platform-solutions-for-windows-and-mac-users/"><u>Best Video Encoders of 2021: Free, Cross-Platform Solutions for Windows and Mac Users</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/download-free-winx-movie-editor-official-site-for-secure-and-legal-software/"><u>Download Free WinX Movie Editor: Official Site for Secure and Legal Software</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvd-ripping-mastery-effortless-conversion-of-dvds-to-mp4-format-for-ios-devices-with-winx-dvd-ripper-mac/"><u>DVD Ripping Mastery: Effortless Conversion of DVDs to MP4 Format for iOS Devices with WinX DVD Ripper (Mac)</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvdfolder-creation-on-windows-10-and-macos-using-iso-format-with-digiarty/"><u>DVD/Folder Creation on Windows 10 & MacOS Using ISO Format with DigiArtY</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-guide-to-virtual-webcams-and-streaming-software/"><u>Enhance Your Broadcasts Using ManyCam: The Ultimate Guide to Virtual Webcams and Streaming Software</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/high-definition-media-converter-for-mac-users-seamlessly-change-avchd-mkv-mov-to-mp4-format/"><u>High-Definition Media Converter for Mac Users - Seamlessly Change AVCHD, MKV, MOV to MP4 Format</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/resolving-common-errors-during-windows-10-or-11-installation-a-comprehensive-guide/"><u>Resolving Common Errors During Windows 10 or 11 Installation: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-into-youtubes-earnings-how-much-do-you-make-from-adsense-per-kv-in-2024/"><u>Tapping Into Youtube's Earnings How Much Do You Make From AdSense Per KV, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-12-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1725285301493-winxvideo-ai/"><u>원격 개선: Winxvideo AI는 비디오의 품질과 신뢰성을 보장하기 위해 영상에 대한 전문적인 조정을 제공합니다.</u></a></li>
 </ul></div>
 
